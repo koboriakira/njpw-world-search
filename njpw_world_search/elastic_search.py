@@ -8,10 +8,13 @@ from njpw_world_search.model.movie import Movie, Movies
 HEADERS = {
     'Content-Type': 'application/json'}
 
+ENDPOINT = 'https://elasticsearch-test-4kl4rebkoq-an.a.run.app/'
+# ENDPOINT = 'http://localhost:9200/'
+
 
 def insert(movie_id: str, movie: Dict[str, Any]) -> Dict[str, Any]:
-    endpoint = f'http://localhost:9200/movies/_doc/{movie_id}?pretty&pretty'
-    res = requests.put(endpoint, data=json.dumps(movie), headers=HEADERS)
+    url = f'{ENDPOINT}movies/_doc/{movie_id}?pretty&pretty'
+    res = requests.put(url=url, data=json.dumps(movie), headers=HEADERS)
     return res.text
 
 
@@ -22,11 +25,16 @@ def insert_from_json():
             insert(movie_id=movie_id, movie=movie)
 
 
-def search(options: Dict) -> Movies:
+def search(options: Dict) -> Optional[Movies]:
     query = _create_query(options=options)
 
-    endpoint = 'http://localhost:9200/movies/_doc/_search?pretty'
-    res = requests.get(url=endpoint, data=json.dumps(query), headers=HEADERS)
+    url = f'{ENDPOINT}movies/_doc/_search?pretty'
+    print(url)
+    res = requests.get(url=url, data=json.dumps(query), headers=HEADERS)
+    print(res.status_code)
+    if res.status_code not in [200, 201]:
+        print(res.text)
+        return None
     datas = json.loads(res.text)
 
     movie_list: List[Movie] = list(
