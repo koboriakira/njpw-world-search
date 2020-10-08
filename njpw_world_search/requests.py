@@ -7,6 +7,16 @@ import chromedriver_binary  # Adds chromedriver binary to path
 # エラー回避用
 chromedriver_binary
 
+options = Options()
+# バイナリのディレクトリを指定
+options.binary_location = '/usr/bin/google-chrome'
+# Headlessモード、no-sandboxモードを有効にする（コメントアウトするとブラウザが実際に立ち上がります）
+options.add_argument('--headless')
+options.add_argument('--no-sandbox')
+
+# ブラウザを起動する
+driver = webdriver.Chrome(options=options)
+
 DEFAULT_WAIT_TIME = 3
 WAIT_TIME = float(os.getenv('REQUEST_WAIT_TIME')) if os.getenv(
     'REQUEST_WAIT_TIME') is not None else DEFAULT_WAIT_TIME
@@ -23,14 +33,5 @@ class RequestService:
 
 
 def _generate_drive(url: str):
-    options = Options()
-    # バイナリのディレクトリを指定
-    options.binary_location = '/usr/bin/google-chrome'
-    # Headlessモード、no-sandboxモードを有効にする（コメントアウトするとブラウザが実際に立ち上がります）
-    options.add_argument('--headless')
-    options.add_argument('--no-sandbox')
-
-    # ブラウザを起動する
-    driver = webdriver.Chrome(options=options)
     driver.get(url)
     return driver
