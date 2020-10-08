@@ -2,7 +2,7 @@ from typing import List, Dict
 from njpw_world_search.requests import RequestService
 from njpw_world_search.scraper import Scraper
 from njpw_world_search.model.movie import Movie, Movies
-from njpw_world_search.firestore import set_movie, delete_movie, get_movie
+from njpw_world_search.firestore import set_movie, delete_movie, get_movie, get_batch, set_batch
 from njpw_world_search import elastic_search
 
 ENDPOINT = 'https://njpwworld.com/'
@@ -56,3 +56,13 @@ def cooperate_to_elasticsearch():
     movie = get_movie(movie_id=movie_id)
     res = elastic_search.insert(movie_id=movie_id, movie=movie)
     return res['result'] == 'created'
+
+
+def batch_execute():
+    batch = get_batch()
+    try:
+        scrape_page(page=batch['last_page'], stop_if_exists=False)
+        batch['last_page'] = batch['last_page'] + 1
+        set_batch(batch=batch)
+    except Exception:
+        pass

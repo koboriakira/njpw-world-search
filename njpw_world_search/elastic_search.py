@@ -28,6 +28,7 @@ def insert_from_json():
 
 def search(options: Dict) -> Optional[Movies]:
     query = _create_query(options=options)
+    print(query)
 
     url = f'{ENDPOINT}movies/_search?pretty'
     res = requests.post(url=url, data=json.dumps(query), headers=HEADERS)

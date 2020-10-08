@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List, Optional
-from njpw_world_search.controller import sample, scrape_page, search_movies
+from njpw_world_search.controller import sample, scrape_page, search_movies, batch_execute
 from pydantic import BaseModel
 
 app = FastAPI()
@@ -49,3 +49,8 @@ def get_movies(data: SearchMoviesOptions):
 @app.put("/to-elastic/")
 def to_elastic():
     pass
+
+
+@app.post("/batch/")
+def batch():
+    batch_execute()

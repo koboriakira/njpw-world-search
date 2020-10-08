@@ -45,6 +45,14 @@ def get_all_movies() -> Dict[str, Any]:
     return result
 
 
+def get_batch() -> Dict[str, Any]:
+    return db.collection('batch').document('batch').get().to_dict()
+
+
+def set_batch(batch: Dict) -> None:
+    db.collection('batch').document('batch').set(batch)
+
+
 def _update_movie_date(movie_id: str, movie: Dict[str, Any]) -> None:
     date: DateTime = _extract_match_date(movie['title'])
     movie['date'] = date
@@ -92,3 +100,7 @@ if __name__ == '__main__':
     # for movie_id, movie in get_all_movies().items():
     #     movie = get_movie(movie_id=movie_id)
     #     _update_movie_date(movie_id=movie_id, movie=movie)
+    batch = {
+        "last_page": 100,
+    }
+    set_batch(batch)

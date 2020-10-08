@@ -19,7 +19,7 @@ class Movie:
             "title": self.title,
             "tags": self.tags.to_dict(),
             "like_count": self.like_count,
-            "date": self.date
+            "date": str(self.date)
         }
 
 
