@@ -1,8 +1,9 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
-from njpw_world_search.controller import sample, scrape_page, search_movies, batch_execute
+from njpw_world_search.controller import sample, scrape_page, search_movies, batch_execute, grant_seq_batch_execute
 from pydantic import BaseModel
+
 
 app = FastAPI()
 # CORSを許可
@@ -54,4 +55,10 @@ def to_elastic():
 @app.post("/batch/")
 def batch():
     is_success = batch_execute()
+    return {"is_success": is_success}
+
+
+@app.post("/grant-seq-batch/")
+def grant_seq_batch():
+    is_success = grant_seq_batch_execute()
     return {"is_success": is_success}

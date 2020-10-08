@@ -2,8 +2,10 @@ from typing import List, Dict
 from njpw_world_search.requests import RequestService
 from njpw_world_search.scraper import Scraper
 from njpw_world_search.model.movie import Movie, Movies
-from njpw_world_search.firestore import set_movie, delete_movie, get_movie, get_batch, set_batch
+from njpw_world_search.firestore import set_movie, delete_movie, get_movie, get_batch, set_batch, grant_seq
 from njpw_world_search import elastic_search
+from njpw_world_search.slack import Slack
+
 
 ENDPOINT = 'https://njpwworld.com/'
 
@@ -14,9 +16,7 @@ def scrape_page(page: int, stop_if_exists: bool = True) -> List[str]:
     すでに存在する動画をスクレイピングした場合は、その時点でスクレイピングを終了します。
     return 登録完了した動画のIDリスト
     """
-    url = f'{ENDPOINT}search/latest?page={page}'
-    html = RequestService(url).get()
-    movie_id_list: List[str] = Scraper(html=html).get_movie_id_list()
+    movie_id_list: List[str] = _get_movie_id_list(page=page)
 
     result: List[str] = []
     for movie_id in movie_id_list:
@@ -25,12 +25,22 @@ def scrape_page(page: int, stop_if_exists: bool = True) -> List[str]:
                 break
             else:
                 continue
-        url = f'{ENDPOINT}p/{movie_id}'
-        html = RequestService(url).get()
-        movie: Dict = Scraper(html=html).get_movie_detail()
+        movie: Dict = _get_movie(movie_id=movie_id)
         set_movie(movie_id, movie)
         result.append(movie_id)
     return result
+
+
+def _get_movie_id_list(page: int) -> List[str]:
+    url = f'{ENDPOINT}search/latest?page={page}'
+    html = RequestService(url).get()
+    return Scraper(html=html).get_movie_id_list()
+
+
+def _get_movie(movie_id: str) -> Dict:
+    url = f'{ENDPOINT}p/{movie_id}'
+    html = RequestService(url).get()
+    return Scraper(html=html).get_movie_detail()
 
 
 def search_movies(options: Dict) -> Dict:
@@ -65,5 +75,24 @@ def batch_execute():
         batch['last_page'] = batch['last_page'] + 1
         set_batch(batch=batch)
         return True
-    except Exception:
+    except Exception as e:
+        print(e)
+        Slack().post_message(f'新日本プロレスワールドの動画スクレイピングに失敗しました。\n{str(e)}')
         return False
+
+
+def grant_seq_batch_execute():
+    MAX_PAGE = 535
+    seq = 0
+    for idx in range(MAX_PAGE):
+        page = MAX_PAGE - idx
+        movie_id_list = list(reversed(_get_movie_id_list(page=page)))
+        for movie_id in movie_id_list:
+            if get_movie(movie_id=movie_id) is not None:
+                seq = grant_seq(movie_id=movie_id, seq=seq)
+            else:
+                print(f'データがなかったため新規作成しました {movie_id}')
+                movie: Dict = _get_movie(movie_id=movie_id)
+                movie['seq'] = seq
+                set_movie(movie_id, movie)
+                seq = seq + 1

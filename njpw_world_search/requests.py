@@ -7,7 +7,7 @@ import chromedriver_binary  # Adds chromedriver binary to path
 # エラー回避用
 chromedriver_binary
 
-DEFAULT_WAIT_TIME = 1
+DEFAULT_WAIT_TIME = 3
 WAIT_TIME = float(os.getenv('REQUEST_WAIT_TIME')) if os.getenv(
     'REQUEST_WAIT_TIME') is not None else DEFAULT_WAIT_TIME
 

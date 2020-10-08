@@ -10,7 +10,7 @@ services:
       - ./credentials.json:/work/credentials.json
     environment:
       - GOOGLE_APPLICATION_CREDENTIALS=/work/credentials.json
-      - REQUEST_WAIT_TIME=3
+      # - REQUEST_WAIT_TIME=3
     command: >
       uvicorn njpw_world_search.main:app
       --host 0.0.0.0

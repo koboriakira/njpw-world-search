@@ -53,6 +53,14 @@ def set_batch(batch: Dict) -> None:
     db.collection('batch').document('batch').set(batch)
 
 
+def grant_seq(movie_id: str, seq: int) -> int:
+    movie = db.collection(MOVIES).document(movie_id).get().to_dict()
+    seq = seq + 1
+    movie['seq'] = seq
+    db.collection(MOVIES).document(movie_id).set(movie)
+    return seq
+
+
 def _update_movie_date(movie_id: str, movie: Dict[str, Any]) -> None:
     date: DateTime = _extract_match_date(movie['title'])
     movie['date'] = date
