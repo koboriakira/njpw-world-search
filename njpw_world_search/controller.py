@@ -64,5 +64,6 @@ def batch_execute():
         scrape_page(page=batch['last_page'], stop_if_exists=False)
         batch['last_page'] = batch['last_page'] + 1
         set_batch(batch=batch)
+        return True
     except Exception:
-        pass
+        return False

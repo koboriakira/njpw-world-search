@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from typing import List, Optional
+from typing import List
 from njpw_world_search.controller import sample, scrape_page, search_movies, batch_execute
 from pydantic import BaseModel
 
@@ -53,4 +53,5 @@ def to_elastic():
 
 @app.post("/batch/")
 def batch():
-    batch_execute()
+    is_success = batch_execute()
+    return {"is_success": is_success}
