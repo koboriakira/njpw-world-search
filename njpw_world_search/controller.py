@@ -20,11 +20,15 @@ def scrape_page(page: int, stop_if_exists: bool = True) -> List[str]:
 
     result: List[str] = []
     for movie_id in movie_id_list:
+        if get_movie(movie_id=movie_id) is not None:
+            if stop_if_exists:
+                break
+            else:
+                continue
         url = f'{ENDPOINT}p/{movie_id}'
         html = RequestService(url).get()
         movie: Dict = Scraper(html=html).get_movie_detail()
-        if not set_movie(movie_id, movie) and stop_if_exists:
-            break
+        set_movie(movie_id, movie)
         result.append(movie_id)
     return result
 

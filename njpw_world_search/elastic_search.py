@@ -1,6 +1,7 @@
 import json
 import requests
 import re
+from datetime import datetime as DateTime
 from typing import Dict, Any, List, Optional
 from njpw_world_search.model.tag import Tag, Tags
 from njpw_world_search.model.movie import Movie, Movies
@@ -8,8 +9,8 @@ from njpw_world_search.model.movie import Movie, Movies
 HEADERS = {
     'Content-Type': 'application/json'}
 
-ENDPOINT = 'https://elasticsearch-test-4kl4rebkoq-an.a.run.app/'
-# ENDPOINT = 'http://localhost:9200/'
+# ENDPOINT = 'https://elasticsearch-test-4kl4rebkoq-an.a.run.app/'
+ENDPOINT = 'http://localhost:9200/'
 
 
 def insert(movie_id: str, movie: Dict[str, Any]) -> Dict[str, Any]:
@@ -73,17 +74,23 @@ def _generate_movie_model(data: Dict) -> Movie:
     id = data['_id']
     title = data['_source']['title']
     like_count = data['_source']['like_count'] if 'like_count' in data['_source'] else 0
+    date: DateTime = data['_source']['date']
     tag_dict_list = data['_source']['tags']
     tag_list: List[Tag] = list(
         map(lambda tag_dict: Tag(**tag_dict), tag_dict_list))
     tags = Tags(tags=tag_list)
-    movie = Movie(id=id, title=title, tags=tags, like_count=like_count)
+    movie = Movie(
+        id=id,
+        title=title,
+        tags=tags,
+        like_count=like_count,
+        date=date)
     return movie
 
 
 if __name__ == '__main__':
-    # insert_from_json()
+    insert_from_json()
     options = {
         'text': "内藤 8月 神宮"
     }
-    search(options)
+    print(search(options))

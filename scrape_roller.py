@@ -1,6 +1,6 @@
 import requests
 
-complete_pages = 42
+complete_pages = 74
 
 endpoint = 'http://localhost:8000/scrape/'
 false_count = 0
