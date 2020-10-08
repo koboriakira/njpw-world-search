@@ -28,19 +28,14 @@ def insert_from_json():
 def search(options: Dict) -> Optional[Movies]:
     query = _create_query(options=options)
 
-    url = f'{ENDPOINT}movies/_doc/_search?pretty'
-    print(url)
-    res = requests.get(url=url, data=json.dumps(query), headers=HEADERS)
-    print(res.status_code)
+    url = f'{ENDPOINT}movies/_search?pretty'
+    res = requests.post(url=url, data=json.dumps(query), headers=HEADERS)
     if res.status_code not in [200, 201]:
         print(res.text)
         return None
     datas = json.loads(res.text)
-
     movie_list: List[Movie] = list(
         map(lambda data: _generate_movie_model(data), datas['hits']['hits']))
-    for movie in movie_list:
-        print(movie.title)
     return Movies(movies=movie_list)
 
 
