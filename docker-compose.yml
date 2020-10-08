@@ -1,0 +1,18 @@
+version: '3'
+services:
+  app:
+    build: .
+    ports:
+      - '8000:8080'
+    volumes:
+      - ./njpw_world_search:/work/njpw_world_search
+      - ./tests:/work/tests
+      - ./credentials.json:/work/credentials.json
+    environment:
+      - GOOGLE_APPLICATION_CREDENTIALS=/work/credentials.json
+      - REQUEST_WAIT_TIME=3
+    command: >
+      uvicorn njpw_world_search.main:app
+      --host 0.0.0.0
+      --port 8080
+      --reload
