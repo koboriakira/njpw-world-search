@@ -1,8 +1,8 @@
 from typing import List, Dict
 from njpw_world_search.requests import RequestService
 from njpw_world_search.scraper import Scraper
-from njpw_world_search.model.movie import Movie, Movies
-from njpw_world_search.firestore import set_movie, delete_movie, get_movie, get_batch, set_batch, grant_seq
+from njpw_world_search.model.movie import Movies
+from njpw_world_search.firestore import set_movie, get_movie, get_batch, set_batch, grant_seq
 from njpw_world_search import elastic_search
 from njpw_world_search.slack import Slack
 
@@ -38,9 +38,13 @@ def _get_movie_id_list(page: int) -> List[str]:
 
 
 def _get_movie(movie_id: str) -> Dict:
-    url = f'{ENDPOINT}p/{movie_id}'
-    html = RequestService(url).get()
-    return Scraper(html=html).get_movie_detail()
+    try:
+        url = f'{ENDPOINT}p/{movie_id}'
+        html = RequestService(url).get()
+        return Scraper(html=html).get_movie_detail()
+    except Exception as e:
+        Slack().post_message(f'${movie_id} 動画スクレイピングに失敗しました。\n{str(e)}')
+        raise e
 
 
 def search_movies(options: Dict) -> Dict:
@@ -77,7 +81,6 @@ def batch_execute():
         return True
     except Exception as e:
         print(e)
-        Slack().post_message(f'新日本プロレスワールドの動画スクレイピングに失敗しました。\n{str(e)}')
         return False
 
 
