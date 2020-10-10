@@ -1,12 +1,16 @@
 version: 2.1
 
+executors:
+  default:
+    docker:
+      - image: koboriakira/njpw-world-search
+
 orbs:
-  python: circleci/python@0.2.1
   slack: circleci/slack@3.4.2
 
 jobs:
   build-and-test:
-    executor: python/default
+    executor: default
     steps:
       - checkout
       - run:

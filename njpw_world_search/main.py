@@ -69,3 +69,9 @@ def batch():
 def grant_seq_batch():
     is_success = grant_seq_batch_execute()
     return {"is_success": is_success}
+
+
+@app.post("/only-in-japan")
+def only_in_japan():
+    result = controller._only_in_japan()
+    return {"result": result}

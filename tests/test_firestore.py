@@ -7,7 +7,7 @@ import pytest
 movie_id = 'testid'
 
 
-@pytest.mark.skip(reason='tmp')
+@pytest.mark.skip(reason='firestoreを利用する')
 def test_set_movie():
     # setup
     tag = Tag(div='tag-man', id='tagtest', name='タグテスト')
@@ -31,7 +31,7 @@ def test_set_movie():
     firestore.delete_movie(movie_id=movie_id)
 
 
-@pytest.mark.skip(reason='tmp')
+@pytest.mark.skip(reason='firestoreを利用する')
 def test_get_movie():
     # setup
     movie_id = 's_series_00554_25_02'

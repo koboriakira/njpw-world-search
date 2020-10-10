@@ -1,9 +1,7 @@
-import pytest
 from njpw_world_search.scraper import Scraper
 from njpw_world_search.requests import RequestService
 
 
-@pytest.mark.skip(reason='tmp')
 def test_get_movie_id_list():
     # setup
     url = 'https://front.njpwworld.com/search/latest?page=534'
@@ -28,7 +26,6 @@ def test_get_movie_id_list():
     assert actual == expect
 
 
-@pytest.mark.skip(reason='tmp')
 def test_get_movie_detail():
     # setup
     url: str = 'https://njpwworld.com/p/s_series_00001_1_1'

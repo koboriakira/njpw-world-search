@@ -24,5 +24,6 @@ RUN pip install --upgrade pip && \
 
 
 ADD njpw_world_search /work/njpw_world_search
+ADD tests /work/tests
 
 CMD ["uvicorn", "njpw_world_search.main:app", "--host", "0.0.0.0", "--port", "8080"]

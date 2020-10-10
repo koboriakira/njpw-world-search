@@ -99,6 +99,8 @@ def _convert_month(month_str: str) -> int:
         return 7
     if month_str == 'Jun':
         return 6
+    if month_str == 'March':
+        return 3
     raise ValueError
 
 

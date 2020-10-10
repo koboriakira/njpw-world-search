@@ -101,3 +101,22 @@ def grant_seq_batch_execute():
                 movie['seq'] = seq
                 set_movie(movie_id, movie)
                 seq = seq + 1
+
+
+def _only_in_japan():
+    """
+    これだけローカルで処理する
+    """
+    url = 'https://front.njpwworld.com/search?query=BRITISH%20J%20CUP'
+    html = RequestService(url).get()
+    movie_id_list = Scraper(html=html).get_movie_id_list()
+
+    result: List[str] = []
+    for movie_id in movie_id_list:
+        print(movie_id)
+        if get_movie(movie_id=movie_id) is not None:
+            continue
+        movie: Dict = scrape_movie(movie_id=movie_id)
+        set_movie(movie_id, movie)
+        result.append(movie_id)
+    return result
