@@ -27,8 +27,8 @@ class RequestService:
         self.driver = _generate_drive(url)
 
     def get(self) -> str:
-        time.sleep(WAIT_TIME)
         html = self.driver.page_source.encode('utf-8')
+        time.sleep(WAIT_TIME)
         return html
 
 

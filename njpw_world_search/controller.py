@@ -25,7 +25,7 @@ def scrape_page(page: int, stop_if_exists: bool = True) -> List[str]:
                 break
             else:
                 continue
-        movie: Dict = _get_movie(movie_id=movie_id)
+        movie: Dict = scrape_movie(movie_id=movie_id)
         set_movie(movie_id, movie)
         result.append(movie_id)
     return result
@@ -37,11 +37,13 @@ def _get_movie_id_list(page: int) -> List[str]:
     return Scraper(html=html).get_movie_id_list()
 
 
-def _get_movie(movie_id: str) -> Dict:
+def scrape_movie(movie_id: str) -> Dict:
     try:
         url = f'{ENDPOINT}p/{movie_id}'
         html = RequestService(url).get()
-        return Scraper(html=html).get_movie_detail()
+        movie = Scraper(html=html).get_movie_detail()
+        set_movie(movie_id, movie)
+        return movie
     except Exception as e:
         Slack().post_message(f'${movie_id} 動画スクレイピングに失敗しました。\n{str(e)}')
         raise e
@@ -95,7 +97,7 @@ def grant_seq_batch_execute():
                 seq = grant_seq(movie_id=movie_id, seq=seq)
             else:
                 print(f'データがなかったため新規作成しました {movie_id}')
-                movie: Dict = _get_movie(movie_id=movie_id)
+                movie: Dict = scrape_movie(movie_id=movie_id)
                 movie['seq'] = seq
                 set_movie(movie_id, movie)
                 seq = seq + 1
