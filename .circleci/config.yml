@@ -9,12 +9,23 @@ jobs:
     steps:
       - checkout
       - python/load-cache
-      - python/install-deps
+      - run:
+          command: |
+            pip install pipenv
+            pipenv install --dev
+          name: install dependencies
       - python/save-cache
       - run:
-          command: ./manage.py test
+          command: pipenv run python -m pytest --junitxml=test-results/junit.xml
           name: Test
-
+      # テストサマリーに表示するテスト結果をアップロードします
+      # https://circleci.com/ja/docs/2.0/collect-test-data/
+      - store_test_results:
+          path: test-results
+      - slack/status:
+          fail_only: true
+          mentions: 'kobori'
+          webhook: $SLACK_DEVELOPMENT_WEBHOOK
 workflows:
   main:
     jobs:
