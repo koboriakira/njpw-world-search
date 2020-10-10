@@ -38,14 +38,14 @@ def _get_movie_id_list(page: int) -> List[str]:
 
 
 def scrape_movie(movie_id: str) -> Dict:
+    url = f'{ENDPOINT}p/{movie_id}'
+    html = RequestService(url).get()
     try:
-        url = f'{ENDPOINT}p/{movie_id}'
-        html = RequestService(url).get()
         movie = Scraper(html=html).get_movie_detail()
         set_movie(movie_id, movie)
         return movie
     except Exception as e:
-        Slack().post_message(f'${movie_id} 動画スクレイピングに失敗しました。\n{str(e)}')
+        Slack().post_message(f'{url}\n動画スクレイピングに失敗しました。\n{str(e)}\n{html}')
         raise e
 
 
