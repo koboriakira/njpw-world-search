@@ -1,7 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Dict, List
-from njpw_world_search.controller import sample, scrape_page, search_movies, batch_execute, grant_seq_batch_execute, get_movie
+from njpw_world_search.controller import sample, scrape_page, search_movies, batch_execute, grant_seq_batch_execute
+from njpw_world_search import controller
 from pydantic import BaseModel
 
 
@@ -33,9 +34,9 @@ def scrape(page: int):
     return {"count": len(result), "result": result}
 
 
-@app.post("/scrape/{movie_id}")
+@app.post("/scrape/movie/{movie_id}")
 def scrape_movie(movie_id: str):
-    result: Dict = get_movie(movie_id=movie_id)
+    result: Dict = controller.scrape_movie(movie_id=movie_id)
     return {"result": result}
 
 
