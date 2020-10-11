@@ -39,6 +39,7 @@ def _get_movie_id_list(page: int) -> List[str]:
 
 def scrape_movie(movie_id: str) -> Dict:
     url = f'{ENDPOINT}p/{movie_id}'
+    print(url)
     html = RequestService(url).get()
     try:
         movie = Scraper(html=html).get_movie_detail()

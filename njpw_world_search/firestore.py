@@ -75,7 +75,7 @@ def _extract_match_date(title: str) -> Optional[DateTime]:
         return DateTime(int(el[0]), int(el[1]), int(el[2]))
 
     match = re.search(
-        r'\w{3,4}\s\d{1,2},\d{4}',
+        r'\w{3,4,5}\s\d{1,2},\d{4}',
         title)
     if match is not None:
         print(match)
