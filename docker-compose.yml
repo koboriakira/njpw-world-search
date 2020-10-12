@@ -8,10 +8,11 @@ services:
       - ./njpw_world_search:/work/njpw_world_search
       - ./tests:/work/tests
       - ./credentials.json:/work/credentials.json
+    env_file:
+      - .env
     environment:
       - GOOGLE_APPLICATION_CREDENTIALS=/work/credentials.json
       - REQUEST_WAIT_TIME=0
-      - SLACK_DEVELOPMENT_WEBHOOK=https://hooks.slack.com/services/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
     command: >
       uvicorn njpw_world_search.main:app
       --host 0.0.0.0

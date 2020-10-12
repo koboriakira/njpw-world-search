@@ -2,7 +2,7 @@ from typing import List
 import requests
 import json
 
-complete_pages = 8
+complete_pages = 363
 
 endpoint = 'http://localhost:8000/movies/unregisted/'
 endpoint_movie = 'http://localhost:8000/scrape/movie/'
@@ -25,4 +25,4 @@ for page in list(map(lambda i: i + complete_pages + 1,
         for movie_id in movie_id_list:
             url = f'{endpoint_movie}{movie_id}'
             res = requests.post(url)
-            print(json.loads(res.content))
+            print(movie_id, json.loads(res.content)['result']['title'])

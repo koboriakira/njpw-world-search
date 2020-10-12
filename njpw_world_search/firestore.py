@@ -75,12 +75,12 @@ def _extract_match_date(title: str) -> Optional[DateTime]:
         return DateTime(int(el[0]), int(el[1]), int(el[2]))
 
     match = re.search(
-        r'\w{3,4,5}\s\d{1,2},\d{4}',
+        r'\w{3,5}\s\d{1,2},\s*\d{4}',
         title)
     if match is not None:
         print(match)
         date_str = match.group()
-        el = re.sub(r'(\s|,)', '-', date_str).split('-')
+        el = re.sub(r'(\s|,\s*)', '-', date_str).split('-')
         print(el)
         return DateTime(int(el[2]), _convert_month(el[0]), int(el[1]))
 
@@ -110,7 +110,3 @@ if __name__ == '__main__':
     # for movie_id, movie in get_all_movies().items():
     #     movie = get_movie(movie_id=movie_id)
     #     _update_movie_date(movie_id=movie_id, movie=movie)
-    batch = {
-        "last_page": 100,
-    }
-    set_batch(batch)
