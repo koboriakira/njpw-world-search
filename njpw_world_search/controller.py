@@ -1,8 +1,8 @@
-from typing import List, Dict
+from typing import Any, List, Dict
 from njpw_world_search.requests import RequestService
 from njpw_world_search.scraper import Scraper
 from njpw_world_search.model.movie import Movies
-from njpw_world_search.firestore import set_movie, get_movie, get_batch, set_batch, grant_seq
+from njpw_world_search.firestore import set_movie, get_movie, get_batch, set_batch, grant_seq, get_all_movies
 from njpw_world_search import elastic_search
 from njpw_world_search.slack import Slack
 
@@ -37,17 +37,53 @@ def _get_movie_id_list(page: int) -> List[str]:
     return Scraper(html=html).get_movie_id_list()
 
 
+def scrape_movie_list(movie_id_list: List[str]):
+    result: List[str] = []
+    for movie_id in movie_id_list:
+        url = f'{ENDPOINT}p/{movie_id}'
+        try:
+            html = RequestService(url).get()
+            movie = Scraper(html=html).get_movie_detail()
+            set_movie(movie_id, movie)
+            result.append(movie_id)
+        except Exception as e:
+            Slack().post_message(f'{url}\n動画スクレイピングに失敗しました。\n{str(e)}')
+            return result
+    return result
+
+
 def scrape_movie(movie_id: str) -> Dict:
     url = f'{ENDPOINT}p/{movie_id}'
-    print(url)
-    html = RequestService(url).get()
     try:
+        html = RequestService(url).get()
         movie = Scraper(html=html).get_movie_detail()
         set_movie(movie_id, movie)
         return movie
     except Exception as e:
-        Slack().post_message(f'{url}\n動画スクレイピングに失敗しました。\n{str(e)}\n{html}')
+        Slack().post_message(f'{url}\n動画スクレイピングに失敗しました。\n{str(e)}')
         raise e
+
+
+def search_unregisted_movies(
+        begin_page: int = 1,
+        end_page: int = 10) -> List[str]:
+    """
+    未登録の動画を検索し、idのリストを返却します。
+    """
+    registed_movie_id_list: List[str] = get_all_movies().keys()
+    result: List[str] = []
+    for page in list(map(lambda p: p + begin_page,
+                         range(end_page - begin_page + 1))):
+        for movie_id in _get_movie_id_list(page=page):
+            if movie_id not in registed_movie_id_list:
+                result.append(movie_id)
+    # Slackに共有
+    if len(result) > 0:
+        title = '未登録の動画IDリスト\n'
+        movie_list = "\n".join(result)
+        text = f'{title}{movie_list}'
+        Slack().post_message(text=text)
+    return result
 
 
 def search_movies(options: Dict) -> Dict:
@@ -76,11 +112,10 @@ def cooperate_to_elasticsearch():
 
 
 def batch_execute():
-    batch = get_batch()
     try:
-        scrape_page(page=batch['last_page'], stop_if_exists=False)
-        batch['last_page'] = batch['last_page'] + 1
-        set_batch(batch=batch)
+        result: List[str] = scrape_page(page=1, stop_if_exists=True)
+        if len(result) == 24:
+            scrape_page(page=2, stop_if_exists=True)
         return True
     except Exception as e:
         print(e)

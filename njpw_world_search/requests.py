@@ -34,5 +34,4 @@ class RequestService:
 
 def _generate_drive(url: str):
     driver.get(url)
-    time.sleep(1)
     return driver

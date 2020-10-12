@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from typing import Dict, List
-from njpw_world_search.controller import sample, scrape_page, search_movies, batch_execute, grant_seq_batch_execute
+from typing import Dict, List, Optional, Union
+from njpw_world_search.controller import sample, scrape_page, search_movies, batch_execute, grant_seq_batch_execute, search_unregisted_movies
 from njpw_world_search import controller
 from pydantic import BaseModel
 
@@ -37,10 +37,19 @@ def scrape(page: int):
 @app.post("/scrape/movie/{movie_id}")
 def scrape_movie(movie_id: str):
     result: Dict = controller.scrape_movie(movie_id=movie_id)
-    return {"result": result}
+    return {"status_code": 200, "result": result}
 
 
-@app.post("/sample/")
+@ app.get("/movies/unregisted/")
+def unregisted_movies(begin_page: Optional[int], end_page: Optional[int]):
+    return {
+        "status_code": 200,
+        "result": search_unregisted_movies(
+            begin_page=begin_page,
+            end_page=end_page)}
+
+
+@ app.post("/sample/")
 def test_sample():
     sample()
     return {
