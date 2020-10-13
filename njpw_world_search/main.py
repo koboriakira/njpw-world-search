@@ -56,12 +56,15 @@ def get_movies(
         text: Optional[str] = None,
         begin_date: Optional[str] = None,
         end_date: Optional[str] = None):
-    cond = SearchCondition(
-        text=text,
-        begin_date=Date.fromisoformat(begin_date) if begin_date is not None and begin_date != '' else None,
-        end_date=Date.fromisoformat(end_date) if end_date is not None and begin_date != '' else None)
-    movies = search_movies(cond=cond)
-    return {"movies": movies}
+    try:
+        cond = SearchCondition(
+            text=text,
+            begin_date=Date.fromisoformat(begin_date) if begin_date is not None and begin_date != '' else None,
+            end_date=Date.fromisoformat(end_date) if end_date is not None and begin_date != '' else None)
+        movies = search_movies(cond=cond)
+        return {"movies": movies}
+    except Exception:
+        raise RuntimeError("エラーが発生しました。詳細はサーバのログを確認してください")
 
 
 @app.put("/to-elastic/")

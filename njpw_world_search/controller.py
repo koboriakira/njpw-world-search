@@ -94,7 +94,13 @@ def search_movies(cond: SearchCondition) -> Dict:
         cond.validate()
     except SearchConditionException as e:
         return {"error": str(e)}
+
     result = search_whoosh(keywords=cond.keywords)['result']
+    if result['error']:
+        messege = f'検索中に失敗がありました {result["error"]}'
+        Slack().post_message(messege)
+        raise Exception(messege)
+
     if cond.has_begin_date():
         result = list(filter(lambda r: 'datetime' in r and r['datetime'].astimezone(
         ) >= cond.begin_date, result))
