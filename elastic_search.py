@@ -89,9 +89,17 @@ def _generate_movie_model(data: Dict) -> Movie:
     return movie
 
 
+def get_indices():
+    url = f'{ENDPOINT}_cat/indices?v'
+    print(url)
+    res = requests.get(url)
+    print(res)
+
+
 if __name__ == '__main__':
-    insert_from_json()
-    options = {
-        'text': "内藤 8月 神宮"
-    }
-    print(search(options))
+    get_indices()
+    # insert_from_json()
+    # options = {
+    #     'text': "内藤 8月 神宮"
+    # }
+    # print(search(options))
