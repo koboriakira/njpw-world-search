@@ -1,3 +1,4 @@
+from njpw_world_search.value_object.search_condition import SearchCondition
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Dict, List, Optional
@@ -49,10 +50,11 @@ def unregisted_movies(begin_page: Optional[int], end_page: Optional[int]):
             end_page=end_page)}
 
 
-@app.post("/movies/")
-def get_movies(data: SearchMoviesOptions):
-    options = {"text": data.text}
-    return search_movies(options=options)
+@app.get("/movies")
+def get_movies(text: Optional[str]):
+    cond = SearchCondition(text=text)
+    movies = search_movies(cond=cond)
+    return {"movies": movies}
 
 
 @app.put("/to-elastic/")

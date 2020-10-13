@@ -44,6 +44,7 @@ def test_get_movie():
     assert actual['title'] == title
 
 
+@pytest.mark.skip(reason='firestoreを利用する')
 def test_extract_match_date():
     title = '2019年10月7日 東京・後楽園ホール 全試合'
     actual = firestore._extract_match_date(title=title)

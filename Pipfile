@@ -17,6 +17,8 @@ google-cloud-firestore = "*"
 fastapi = "*"
 uvicorn = "*"
 pydantic = "*"
+whoosh = "*"
+mecab = "*"
 
 [requires]
 python_version = "3.8"

@@ -14,6 +14,7 @@ services:
       - GOOGLE_APPLICATION_CREDENTIALS=/work/credentials.json
       - REQUEST_WAIT_TIME=0
     command: >
+      python -m
       uvicorn njpw_world_search.main:app
       --host 0.0.0.0
       --port 8080
