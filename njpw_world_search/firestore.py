@@ -65,6 +65,7 @@ def _update_movie_date(movie_id: str, movie: Dict[str, Any]) -> None:
     date: DateTime = _extract_match_date(movie['title'])
     movie['date'] = date
     db.collection(MOVIES).document(movie_id).set(movie)
+    print(f'{movie_id}: {date}')
 
 
 def _extract_match_date(title: str) -> Optional[DateTime]:
@@ -105,8 +106,7 @@ def _convert_month(month_str: str) -> int:
 
 
 if __name__ == '__main__':
-    # 日付を作成するのに使った。今後は自動で入るようになっている
-    pass
-    # for movie_id, movie in get_all_movies().items():
-    #     movie = get_movie(movie_id=movie_id)
-    #     _update_movie_date(movie_id=movie_id, movie=movie)
+    # 日付を作成するのに使う。今後は自動で入るようになっている
+    for movie_id, movie in get_all_movies().items():
+        movie = get_movie(movie_id=movie_id)
+        _update_movie_date(movie_id=movie_id, movie=movie)

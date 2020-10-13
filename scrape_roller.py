@@ -2,7 +2,7 @@ from typing import List
 import requests
 import json
 
-complete_pages = 363
+complete_pages = 524
 
 endpoint = 'http://localhost:8000/movies/unregisted/'
 endpoint_movie = 'http://localhost:8000/scrape/movie/'

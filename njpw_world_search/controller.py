@@ -1,8 +1,8 @@
-from typing import Any, List, Dict
+from typing import List, Dict
 from njpw_world_search.requests import RequestService
 from njpw_world_search.scraper import Scraper
 from njpw_world_search.model.movie import Movies
-from njpw_world_search.firestore import set_movie, get_movie, get_batch, set_batch, grant_seq, get_all_movies
+from njpw_world_search.firestore import set_movie, get_movie, grant_seq, get_all_movies
 from njpw_world_search import elastic_search
 from njpw_world_search.slack import Slack
 
@@ -113,13 +113,13 @@ def cooperate_to_elasticsearch():
 
 def batch_execute():
     try:
-        result: List[str] = scrape_page(page=1, stop_if_exists=True)
-        if len(result) == 24:
-            scrape_page(page=2, stop_if_exists=True)
+        scrape_page(page=1, stop_if_exists=True)
         return True
     except Exception as e:
         print(e)
         return False
+    finally:
+        search_unregisted_movies(begin_page=1, end_page=5)
 
 
 def grant_seq_batch_execute():
