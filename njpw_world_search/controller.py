@@ -96,10 +96,10 @@ def search_movies(cond: SearchCondition) -> Dict:
         return {"error": str(e)}
 
     result = search_whoosh(keywords=cond.keywords)['result']
-    if result['error']:
+    if 'error' in result and result['error']:
         messege = f'検索中に失敗がありました\n{result["error"]}\n{str(cond)}'
         Slack().post_message(messege)
-        raise Exception(messege)
+        return result
 
     if cond.has_begin_date():
         result = list(filter(lambda r: 'datetime' in r and r['datetime'].astimezone(
@@ -109,7 +109,7 @@ def search_movies(cond: SearchCondition) -> Dict:
             filter(
                 lambda r: 'datetime' in r and r['datetime'].astimezone() <= cond.end_date,
                 result))
-    return result
+    return {"movies": result}
 
 
 # def cooperate_to_elasticsearch():

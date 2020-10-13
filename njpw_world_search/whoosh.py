@@ -58,7 +58,6 @@ def search_whoosh(keywords: List[str] = []):
                 parser.replace_plugin(operators_plugin)  # opをセット
                 query = parser.parse(words)  # parserに検索語を入れる
                 results = searcher.search(query, limit=None)  # 検索語で全文検索
-                print(results)
                 for result in results:
                     data = {}
                     data['title'] = result['title']
@@ -68,7 +67,7 @@ def search_whoosh(keywords: List[str] = []):
                     result_list.append(data)
     except Exception as e:
         error = str(e)
-        print(error)
+        print(f'Got an error: {error}')
         pass
     finally:
         measurement_time = str((time.time() - start) * 10000 // 10) + "ms"

@@ -10,18 +10,19 @@ import os
 
 ALLOW_ORIGIN = "https://njpw-world-search-front.vercel.app/"
 ao_value: Optional[str] = os.getenv('ALLOW_ORIGINS')
-allow_origins: List[str] = ao_value.split(',') if ao_value is not None else []
-allow_origins.append(ALLOW_ORIGIN)
-print(allow_origins)
-
+allow_origin_list: List[str] = ao_value.split(
+    ',') if ao_value is not None else []
+if "*" not in allow_origin_list:
+    allow_origin_list.append(ALLOW_ORIGIN)
+print(allow_origin_list)
 
 app = FastAPI()
 # CORSを許可
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=allow_origins,
+    allow_origins=allow_origin_list,
     # allow_credentials=True,   # 追記により追加
-    allow_methods=["GET"],      # 追記により追加
+    allow_methods=["*"],      # 追記により追加
     allow_headers=["*"]       # 追記により追加
 )
 
@@ -63,15 +64,11 @@ def get_movies(
         text: Optional[str] = None,
         begin_date: Optional[str] = None,
         end_date: Optional[str] = None):
-    try:
-        cond = SearchCondition(
-            text=text,
-            begin_date=Date.fromisoformat(begin_date) if begin_date is not None and begin_date != '' else None,
-            end_date=Date.fromisoformat(end_date) if end_date is not None and begin_date != '' else None)
-        movies = search_movies(cond=cond)
-        return {"movies": movies}
-    except Exception:
-        raise RuntimeError("エラーが発生しました。詳細はサーバのログを確認してください")
+    cond = SearchCondition(
+        text=text,
+        begin_date=Date.fromisoformat(begin_date) if begin_date is not None and begin_date != '' else None,
+        end_date=Date.fromisoformat(end_date) if end_date is not None and begin_date != '' else None)
+    return search_movies(cond=cond)
 
 
 @app.put("/to-elastic/")
