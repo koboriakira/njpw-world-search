@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import Dict, List, Optional
 from datetime import date as Date
 from datetime import datetime as DateTime
 from datetime import time, timedelta, timezone
@@ -41,6 +41,14 @@ class SearchCondition:
 
     def has_end_date(self) -> bool:
         return self.end_date is not None
+
+    def __str__(self) -> str:
+        data: Dict = {
+            "text": self.text,
+            "begin_date": self.begin_date,
+            "end_date": self.end_date
+        }
+        return str(data)
 
 
 def _generate_keywords(text: Optional[str]) -> List[str]:
