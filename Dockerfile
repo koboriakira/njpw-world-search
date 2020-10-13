@@ -20,8 +20,13 @@ RUN pip install --upgrade pip && \
   pipenv lock --dev -r > requirements.txt && \
   pip install --no-cache-dir -r requirements.txt
 
-ADD whoosh_index /work/whoosh_index
 ADD njpw_world_search /work/njpw_world_search
 ADD tests /work/tests
+
+# Whoosh用のインデックスを作成してみる
+ADD prepare_whoosh.py /work/prepare_whoosh.py
+ADD movies.json /work/movies.json
+RUN python -m prepare_whoosh
+
 
 CMD ["python", "-m","uvicorn", "njpw_world_search.main:app", "--host", "0.0.0.0", "--port", "8080"]

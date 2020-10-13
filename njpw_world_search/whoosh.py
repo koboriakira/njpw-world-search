@@ -20,13 +20,13 @@ if not os.path.exists(WHOOSH_INDEX_NAME):
 operators_plugin = OperatorsPlugin(And="&", Or="\\|", Not="~")
 
 
-def main() -> None:
+def prepare() -> None:
     try:
         # Schemaの定義
         writer = _prepare_writer()
         with open(JSON_FILE_NAME, 'r') as f:
             data = json.loads(f.read())
-            documents = _to_documents(movies=data['movies'])
+            documents = list(_to_documents(movies=data['movies']))
             count = len(documents)
             print(f'{count}件のデータを挿入')
             for document in documents:
@@ -35,7 +35,8 @@ def main() -> None:
                 if count % 100 == 0:
                     print(f'残り{count}件')
         writer.commit()
-    except BaseException:
+    except BaseException as e:
+        print(e)
         import traceback
         traceback.print_exc()
 
@@ -95,9 +96,3 @@ def _to_documents(movies: List[Dict[str, Any]]) -> Iterator[Dict[str, Any]]:
         if movie['date'] is not None:
             result['datetime'] = DateTime.fromisoformat(str(movie['date']))
         yield result
-
-
-# if __name__ == '__main__':
-#     main()
-#     result = search_whoosh([])
-#     print(result)
