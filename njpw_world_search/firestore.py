@@ -105,8 +105,8 @@ def _convert_month(month_str: str) -> int:
     raise ValueError
 
 
-if __name__ == '__main__':
-    # 日付を作成するのに使う。今後は自動で入るようになっている
-    for movie_id, movie in get_all_movies().items():
-        movie = get_movie(movie_id=movie_id)
-        _update_movie_date(movie_id=movie_id, movie=movie)
+# if __name__ == '__main__':
+#     # 日付を作成するのに使う。今後は自動で入るようになっている
+#     for movie_id, movie in get_all_movies().items():
+#         movie = get_movie(movie_id=movie_id)
+#         _update_movie_date(movie_id=movie_id, movie=movie)

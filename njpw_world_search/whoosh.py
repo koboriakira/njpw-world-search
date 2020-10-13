@@ -26,34 +26,54 @@ def main() -> None:
         writer = _prepare_writer()
         with open(JSON_FILE_NAME, 'r') as f:
             data = json.loads(f.read())
-            documents = _to_documents(movies=data['movies'][0:10])
+            documents = _to_documents(movies=data['movies'])
+            count = len(documents)
+            print(f'{count}件のデータを挿入')
             for document in documents:
-                print(document['title'])
                 writer.add_document(**document)
+                count = count - 1
+                if count % 100 == 0:
+                    print(f'残り{count}件')
         writer.commit()
     except BaseException:
         import traceback
         traceback.print_exc()
 
 
-def search_whoosh(keywords: List[str]):
+def search_whoosh(keywords: List[str] = []):
     start = time.time()
+    result_list = []
+    error = False
     ix = open_dir(WHOOSH_INDEX_NAME)  # 作成したインデックスファイルのディレクトリを指定
-    with ix.searcher() as searcher:
-        # QueryParserに"content"内を検索することを指定
-        words = "&".join(keywords)
-        parser = QueryParser("content", ix.schema)
-        parser.replace_plugin(operators_plugin)  # opをセット
-        query = parser.parse(words)  # parserに検索語を入れる
-        results = searcher.search(query, limit=None)  # 検索語で全文検索
-
-        # 返ってきた結果を扱いやすいように加工
-        # values()で、storedしてあった内容が返ってくる
-        result_list = [result.values() for result in results]
-    measurement_time = str((time.time() - start) * 10000 // 10) + "ms"
-    print(measurement_time)  # 時間計測用
-    return {"time": measurement_time,
-            "result": result_list}
+    try:
+        with ix.searcher() as searcher:
+            if len(keywords) == 0:
+                results = searcher.documents()
+                result_list = [result for result in results]
+            else:
+                # QueryParserに"content"内を検索することを指定
+                words = "&".join(keywords)
+                parser = QueryParser("content", ix.schema)
+                parser.replace_plugin(operators_plugin)  # opをセット
+                query = parser.parse(words)  # parserに検索語を入れる
+                results = searcher.search(query, limit=None)  # 検索語で全文検索
+                print(results)
+                for result in results:
+                    data = {}
+                    data['title'] = result['title']
+                    data['path'] = result['path']
+                    if 'datetime' in result:
+                        data['datetime'] = result['datetime']
+                    result_list.append(data)
+    except Exception as e:
+        error = str(e)
+        print(error)
+        pass
+    finally:
+        measurement_time = str((time.time() - start) * 10000 // 10) + "ms"
+        return {"time": measurement_time,
+                "result": result_list,
+                "error": error}
 
 
 def _prepare_writer():
@@ -77,6 +97,7 @@ def _to_documents(movies: List[Dict[str, Any]]) -> Iterator[Dict[str, Any]]:
         yield result
 
 
-if __name__ == '__main__':
-    main()
-    print(search_whoosh(["アレナメヒコ"]))
+# if __name__ == '__main__':
+#     main()
+#     result = search_whoosh([])
+#     print(result)

@@ -1,7 +1,5 @@
-credentials.json
-all_movie.json
+*.json
 .vscode
-whoosh_index
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
