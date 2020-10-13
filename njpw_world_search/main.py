@@ -6,15 +6,22 @@ from typing import Dict, List, Optional
 from njpw_world_search.controller import scrape_page, search_movies, batch_execute, grant_seq_batch_execute, search_unregisted_movies
 from njpw_world_search import controller
 from pydantic import BaseModel
+import os
+
+ALLOW_ORIGIN = "https://njpw-world-search-front.vercel.app/"
+ao_value: Optional[str] = os.getenv('ALLOW_ORIGINS')
+allow_origins: List[str] = ao_value.split(',') if ao_value is not None else []
+allow_origins.append(ALLOW_ORIGIN)
+print(allow_origins)
 
 
 app = FastAPI()
 # CORSを許可
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=allow_origins,
     # allow_credentials=True,   # 追記により追加
-    allow_methods=["*"],      # 追記により追加
+    allow_methods=["GET"],      # 追記により追加
     allow_headers=["*"]       # 追記により追加
 )
 
