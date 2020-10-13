@@ -1,5 +1,7 @@
+from njpw_world_search.value_object.search_condition import SearchCondition
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from datetime import date as Date
 from typing import Dict, List, Optional
 from njpw_world_search.controller import scrape_page, search_movies, batch_execute, grant_seq_batch_execute, search_unregisted_movies
 from njpw_world_search import controller
@@ -11,7 +13,7 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=True,   # 追記により追加
+    # allow_credentials=True,   # 追記により追加
     allow_methods=["*"],      # 追記により追加
     allow_headers=["*"]       # 追記により追加
 )
@@ -49,10 +51,17 @@ def unregisted_movies(begin_page: Optional[int], end_page: Optional[int]):
             end_page=end_page)}
 
 
-@app.post("/movies/")
-def get_movies(data: SearchMoviesOptions):
-    options = {"text": data.text}
-    return search_movies(options=options)
+@app.get("/movies")
+def get_movies(
+        text: Optional[str] = None,
+        begin_date: Optional[str] = None,
+        end_date: Optional[str] = None):
+    cond = SearchCondition(
+        text=text,
+        begin_date=Date.fromisoformat(begin_date) if begin_date is not None and begin_date != '' else None,
+        end_date=Date.fromisoformat(end_date) if end_date is not None and begin_date != '' else None)
+    movies = search_movies(cond=cond)
+    return {"movies": movies}
 
 
 @app.put("/to-elastic/")

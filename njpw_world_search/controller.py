@@ -1,10 +1,10 @@
+from njpw_world_search.value_object.search_condition import SearchCondition, SearchConditionException
 from typing import List, Dict
 from njpw_world_search.requests import RequestService
 from njpw_world_search.scraper import Scraper
-from njpw_world_search.model.movie import Movies
 from njpw_world_search.firestore import set_movie, get_movie, grant_seq, get_all_movies
-from njpw_world_search import elastic_search
 from njpw_world_search.slack import Slack
+from njpw_world_search.whoosh import search_whoosh
 
 
 ENDPOINT = 'https://njpwworld.com/'
@@ -86,29 +86,31 @@ def search_unregisted_movies(
     return result
 
 
-def search_movies(options: Dict) -> Dict:
+def search_movies(cond: SearchCondition) -> Dict:
     """
     指定されたオプションをもとに動画を検索して返却します。
     """
-    movies: Movies = elastic_search.search(options=options)
-    return movies.to_dict()
+    try:
+        cond.validate()
+    except SearchConditionException as e:
+        return {"error": str(e)}
+    result = search_whoosh(keywords=cond.keywords)['result']
+    if cond.has_begin_date():
+        result = list(filter(lambda r: 'datetime' in r and r['datetime'].astimezone(
+        ) >= cond.begin_date, result))
+    if cond.has_end_date():
+        result = list(
+            filter(
+                lambda r: 'datetime' in r and r['datetime'].astimezone() <= cond.end_date,
+                result))
+    return result
 
 
-def sample():
-    movie_id = 's_series_00559_11_1'
-    # delete_movie(movie_id=movie_id)
-
-    url = 'https://njpwworld.com/p/s_series_00559_11_1'
-    html = RequestService(url).get()
-    movie = Scraper(html=html).get_movie_detail()
-    print(set_movie(movie_id=movie_id, movie=movie))
-
-
-def cooperate_to_elasticsearch():
-    movie_id = 's_series_00553_1_01'
-    movie = get_movie(movie_id=movie_id)
-    res = elastic_search.insert(movie_id=movie_id, movie=movie)
-    return res['result'] == 'created'
+# def cooperate_to_elasticsearch():
+#     movie_id = 's_series_00553_1_01'
+#     movie = get_movie(movie_id=movie_id)
+#     res = elastic_search.insert(movie_id=movie_id, movie=movie)
+#     return res['result'] == 'created'
 
 
 def batch_execute():
