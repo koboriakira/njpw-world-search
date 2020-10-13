@@ -97,7 +97,7 @@ def search_movies(cond: SearchCondition) -> Dict:
 
     result = search_whoosh(keywords=cond.keywords)['result']
     if result['error']:
-        messege = f'検索中に失敗がありました {result["error"]}'
+        messege = f'検索中に失敗がありました\n{result["error"]}\n{str(cond)}'
         Slack().post_message(messege)
         raise Exception(messege)
 
