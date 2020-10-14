@@ -2,7 +2,6 @@ from njpw_world_search.value_object.search_condition import SearchCondition
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from datetime import date as Date
-from datetime import datetime as DateTime
 from typing import Dict, List, Optional
 from njpw_world_search.controller import scrape_page, search_movies, batch_execute, grant_seq_batch_execute, search_unregisted_movies
 from njpw_world_search import controller
@@ -35,7 +34,7 @@ class SearchMoviesOptions(BaseModel):
 @app.get("/")
 def hello():
     return {
-        "updated_at": DateTime(2020, 10, 13, 23, 0, 0)
+        "API": "is running"
     }
 
 
