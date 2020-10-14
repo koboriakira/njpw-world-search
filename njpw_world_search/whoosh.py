@@ -8,6 +8,7 @@ from whoosh.fields import Schema, TEXT, ID, KEYWORD, DATETIME
 from whoosh.index import open_dir
 from whoosh.qparser import QueryParser, OperatorsPlugin
 from njpw_world_search.mecab import generate_keywords
+from njpw_world_search.firestore import get_all_movies
 
 JSON_FILE_NAME = 'movies.json'
 
@@ -24,16 +25,25 @@ def prepare() -> None:
     try:
         # Schemaの定義
         writer = _prepare_writer()
-        with open(JSON_FILE_NAME, 'r') as f:
-            data = json.loads(f.read())
-            documents = list(_to_documents(movies=data['movies']))
-            count = len(documents)
-            print(f'{count}件のデータを挿入')
-            for document in documents:
-                writer.add_document(**document)
-                count = count - 1
-                if count % 100 == 0:
-                    print(f'残り{count}件')
+        # with open(JSON_FILE_NAME, 'r') as f:
+        #     data = json.loads(f.read())
+        #     documents = list(_to_documents(movies=data['movies']))
+        # count = len(documents)
+        # print(f'{count}件のデータを挿入')
+        # for document in documents:
+        #     writer.add_document(**document)
+        #     count = count - 1
+        #     if count % 100 == 0:
+        #         print(f'残り{count}件')
+        data = get_all_movies()
+        documents = list(_to_documents_from_database(data=data))
+        count = len(documents)
+        print(f'{count}件のデータを挿入')
+        for document in documents:
+            writer.add_document(**document)
+            count = count - 1
+            if count % 100 == 0:
+                print(f'残り{count}件')
         writer.commit()
     except BaseException as e:
         print(e)
@@ -94,4 +104,19 @@ def _to_documents(movies: List[Dict[str, Any]]) -> Iterator[Dict[str, Any]]:
         result['content'] = generate_keywords(title=movie['title'])
         if movie['date'] is not None:
             result['datetime'] = DateTime.fromisoformat(str(movie['date']))
+        yield result
+
+
+def _to_documents_from_database(
+        data: Dict[str, Any]) -> Iterator[Dict[str, Any]]:
+    for movie_id, movie in data.items():
+        result = {}
+        result['title'] = movie['title']
+        result['path'] = movie_id
+        result['content'] = generate_keywords(title=movie['title'])
+        if movie['date'] is not None:
+            try:
+                result['datetime'] = DateTime.fromisoformat(str(movie['date']))
+            except Exception:
+                pass
         yield result
