@@ -1,5 +1,6 @@
 from njpw_world_search.scraper import Scraper
 from njpw_world_search.requests import RequestService
+import pytest
 
 
 @pytest.mark.skip(reason='firestoreを利用する')

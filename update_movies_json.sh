@@ -1,5 +1,6 @@
 cd ~/git/njpw-world-search && \
-python -m njpw_world_search.generate_json && \
+source .venv/bin/activate && \
+python -m generate_json && \
 git add movies.json && \
 git cm "Auto update movies.json" && \
 git push

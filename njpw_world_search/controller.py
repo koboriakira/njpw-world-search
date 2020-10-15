@@ -2,7 +2,7 @@ from njpw_world_search.value_object.search_condition import SearchCondition, Sea
 from typing import List, Dict
 from njpw_world_search.requests import RequestService
 from njpw_world_search.scraper import Scraper
-from njpw_world_search.firestore import set_movie, get_movie, grant_seq, get_all_movies
+from njpw_world_search.firestore import set_movie, get_movie, grant_seq
 from njpw_world_search.slack import Slack
 from njpw_world_search.whoosh import search_whoosh
 
@@ -70,7 +70,7 @@ def search_unregisted_movies(
     """
     未登録の動画を検索し、idのリストを返却します。
     """
-    registed_movie_id_list: List[str] = get_all_movies().keys()
+    registed_movie_id_list: List[str] = _get_all_movie_id_by_json()
     result: List[str] = []
     for page in list(map(lambda p: p + begin_page,
                          range(end_page - begin_page + 1))):
@@ -164,3 +164,10 @@ def _only_in_japan():
         set_movie(movie_id, movie)
         result.append(movie_id)
     return result
+
+
+def _get_all_movie_id_by_json():
+    import json
+    with open('movies.json', 'r') as f:
+        data = json.loads(f.read())
+        return list(map(lambda m: m['id'], data['movies']))

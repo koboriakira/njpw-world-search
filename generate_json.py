@@ -12,6 +12,8 @@ def generate_json():
         movie['id'] = movie_id
         movies.append(movie)
 
+    movies = sorted(movies, key=lambda m: m['title'])
+
     # json形式で保存
     with open('movies.json', 'w') as f:
         json.dump(

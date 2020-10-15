@@ -1,7 +1,6 @@
 from njpw_world_search import firestore
 from njpw_world_search.model.tag import Tag
 from datetime import datetime as DateTime
-from datetime import date as Date
 import pytest
 
 movie_id = 'testid'

@@ -12,3 +12,8 @@ def test_scrape_page():
 def test_cooperate_to_elasticsearch():
     controller.cooperate_to_elasticsearch()
     assert False
+
+
+def test_get_all_movie_id_by_json():
+    print(controller._get_all_movie_id_by_json())
+    assert False
