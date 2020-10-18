@@ -166,8 +166,12 @@ def _only_in_japan():
     return result
 
 
-def _get_all_movie_id_by_json():
+def _get_all_movie_id_by_json() -> List[str]:
     import json
-    with open('movies.json', 'r') as f:
-        data = json.loads(f.read())
-        return list(map(lambda m: m['id'], data['movies']))
+    import glob
+    result: List[str] = []
+    for filepath in glob.glob('json/*'):
+        with open(filepath, 'r') as f:
+            data = json.loads(f.read())
+            result.extend(list(map(lambda m: m['id'], data['movies'])))
+    return result
