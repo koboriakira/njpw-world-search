@@ -1,0 +1,2949 @@
+{
+  "movies": [
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_1",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_137",
+          "name": "UWA世界ジュニアヘビー級選手権試合・OVER THE DREAM"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_137_1",
+          "name": "UWA世界ジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第1試合 ＵＷＡ世界ジュニア・ヘビー級選手権試合・OVER THE DREAM 大谷晋二郎 VS エル・サムライ"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_10",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_138",
+          "name": "SUPERHARD SYNDROME・タッグマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_194",
+          "name": "平田淳嗣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_195",
+          "name": "サブゥー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第10試合 SUPERHARD SYNDROME・タッグマッチ 平田淳嗣＆藤波辰爾 VS サブゥー＆蝶野正洋"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_11",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_139",
+          "name": "THE STRONGEST"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_172",
+          "name": "ホーク・ウォリアー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第11試合 THE STRONGEST ホーク・ウォリアー VS スコット・ノートン"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_12",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_140",
+          "name": "FINAL COUNT DOWN Ⅲ BVD杯・格闘技トーナメント決勝"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_150",
+          "name": "スティング"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第12試合 FINAL COUNT DOWN Ⅲ BVD杯・格闘技トーナメント決勝 アントニオ猪木 VS スティング"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_12e",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_140",
+          "name": "FINAL COUNT DOWN Ⅲ BVD杯・格闘技トーナメント決勝"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_150",
+          "name": "スティング"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム The first 12 games FINAL COUNT DOWN Ⅲ BVD Cup, Combat tournament final Antonio Inoki VS Sting (English Commentary)"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_13",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_141",
+          "name": "IWGPタッグ選手権試合・REAL NEW JAPAN"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_144",
+          "name": "スコット・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_145",
+          "name": "リック・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第13試合 IWGPタッグ選手権試合・REAL NEW JAPAN 馳浩＆武藤敬司 VS スコット・スタイナー＆リック・スタイナー"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_14",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_142",
+          "name": "IWGPヘビー級選手権試合・ULTIMATE DYNAMISM"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第14試合 IWGPヘビー級選手権試合・ULTIMATE DYNAMISM 橋本真也 VS 佐々木健介"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_2",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_122",
+          "name": "保永昇男"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_185",
+          "name": "ザ・グレート・サスケ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第2試合 IWGPジュニアヘビー級選手権試合 保永昇男 VS ザ・グレート・サスケ"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_3",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_143",
+          "name": "95闘強導夢 WELCOME TO BATTLE FIELD・６人タッグマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_117",
+          "name": "飯塚孝之"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_119",
+          "name": "野上彰"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_159",
+          "name": "齋藤彰俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_169",
+          "name": "ザ・グレート・カブキ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第3試合 95闘強導夢 WELCOME TO BATTLE FIELD・６人タッグマッチ 飯塚孝之＆野上彰＆木戸修 VS 齋藤彰俊＆小林邦昭＆ザ・グレート・カブキ"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_4",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_144",
+          "name": "平成三銃士 凱旋シングル二番勝負 THE GOLD RUSH"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第4試合 平成三銃士 凱旋シングル二番勝負 THE GOLD RUSH 金本浩二 VS 永田裕志"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_5",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_144",
+          "name": "平成三銃士 凱旋シングル二番勝負 THE GOLD RUSH"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第5試合 平成三銃士 凱旋シングル二番勝負 THE GOLD RUSH 天山広吉 VS 中西学"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_6",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_145",
+          "name": "THE SAMURAI SPIRIT"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_198",
+          "name": "タイガー・ジェット・シンＪｒ."
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第6試合 THE SAMURAI SPIRIT 小原道由＆越中詩郎 VS タイガー・ジェット・シンＪｒ.＆タイガー・ジェット・シン"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_7",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_146",
+          "name": "FINAL COUNT DOWN Ⅲ BVD杯・格闘技トーナメント１回戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_150",
+          "name": "スティング"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_199",
+          "name": "トニー・パルモラ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第7試合 FINAL COUNT DOWN Ⅲ BVD杯・格闘技トーナメント１回戦 スティング VS トニー・パルモラ"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_8",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_146",
+          "name": "FINAL COUNT DOWN Ⅲ BVD杯・格闘技トーナメント１回戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_200",
+          "name": "ジェラルド・ゴルドー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第8試合 FINAL COUNT DOWN Ⅲ BVD杯・格闘技トーナメント１回戦 アントニオ猪木 VS ジェラルド・ゴルドー"
+    },
+    {
+      "date": "1995-01-04T00:00:00+00:00",
+      "id": "s_series_00132_1_9",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_147",
+          "name": "真・維新軍ＶＳ平成維震軍“制覇”"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_48",
+          "name": "谷津嘉章"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95闘強導夢BATTLE7 1995年1月4日 東京ドーム 第9試合 真・維新軍 VS 平成維震軍“制覇” 谷津嘉章＆長州力 VS 後藤達俊＆木村健悟"
+    },
+    {
+      "date": "1995-02-03T00:00:00+00:00",
+      "id": "s_archive_31_01_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_42",
+          "name": "グラン浜田"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月3日 札幌中島体育センター 大谷晋二郎＆エル・サムライ VS 金本浩二＆グラン浜田"
+    },
+    {
+      "date": "1995-02-03T00:00:00+00:00",
+      "id": "s_archive_31_01_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_122",
+          "name": "保永昇男"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_186",
+          "name": "ディーン・マレンコ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月3日 札幌中島体育センター IWGPジュニアヘビー級選手権試合 保永昇男 VS ディーン・マレンコ"
+    },
+    {
+      "date": "1995-02-03T00:00:00+00:00",
+      "id": "s_archive_31_01_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_13",
+          "name": "北海道・札幌中島スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_144",
+          "name": "スコット・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_145",
+          "name": "リック・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月3日 札幌中島体育センター 中西学＆佐々木健介 VS リック・スタイナー＆スコット・スタイナー"
+    },
+    {
+      "date": "1995-02-03T00:00:00+00:00",
+      "id": "s_archive_31_01_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_736",
+          "name": "マイク・イーノス"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月3日 札幌中島体育センター 橋本真也 VS マイク・イーノス"
+    },
+    {
+      "date": "1995-02-03T00:00:00+00:00",
+      "id": "s_archive_31_01_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_194",
+          "name": "平田淳嗣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月3日 札幌中島体育センター 天山広吉＆平田淳嗣 VS ヒロ斎藤＆蝶野正洋"
+    },
+    {
+      "date": "1995-02-03T00:00:00+00:00",
+      "id": "s_archive_31_01_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月3日 札幌中島体育センター IWGP挑戦者決定戦 武藤敬司 VS スコット・ノートン"
+    },
+    {
+      "date": "1995-02-04T00:00:00+00:00",
+      "id": "s_archive_31_02_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_146",
+          "name": "エル・ヒガンテ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_182",
+          "name": "安田忠夫"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月4日 札幌中島体育センター 安田忠夫＆永田裕志 VS エル・ヒガンテ"
+    },
+    {
+      "date": "1995-02-04T00:00:00+00:00",
+      "id": "s_archive_31_02_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_148",
+          "name": "ロン・シモンズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月4日 札幌中島体育センター 武藤敬司 VS ロン・シモンズ"
+    },
+    {
+      "date": "1995-02-04T00:00:00+00:00",
+      "id": "s_archive_31_02_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月4日 札幌中島体育センター 馳浩＆大谷晋二郎 VS 佐々木健介＆金本浩二"
+    },
+    {
+      "date": "1995-02-04T00:00:00+00:00",
+      "id": "s_archive_31_02_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_194",
+          "name": "平田淳嗣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月4日 札幌中島体育センター 平田淳嗣＆長州力 VS ヒロ斎藤＆蝶野正洋"
+    },
+    {
+      "date": "1995-02-04T00:00:00+00:00",
+      "id": "s_archive_31_02_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_144",
+          "name": "スコット・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_145",
+          "name": "リック・スタイナー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_736",
+          "name": "マイク・イーノス"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月4日 札幌中島体育センター リック・スタイナー＆スコット・スタイナー VS マイク・イーノス＆スコット・ノートン"
+    },
+    {
+      "date": "1995-02-04T00:00:00+00:00",
+      "id": "s_archive_31_02_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’95 1995年2月4日 札幌中島体育センター IWGPヘビー級選手権試合 橋本真也 VS 天山広吉"
+    },
+    {
+      "date": "1995-02-12T00:00:00+00:00",
+      "id": "s_series_00133_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_148",
+          "name": "95RESTORATION SPIRIT PART2(平成維震軍)"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_194",
+          "name": "平田淳嗣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95RESTORATION SPIRIT PART2(平成維震軍) 1995年2月12日 後楽園ホール 蝶野正洋＆天山広吉＆ヒロ斎藤 VS 長州力＆橋本真也＆平田淳嗣"
+    },
+    {
+      "date": "1995-03-19T00:00:00+00:00",
+      "id": "s_series_00134_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_16",
+          "name": "愛知・愛知県体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_149",
+          "name": "マッスル・ストーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "マッスル・ストーム 1995年3月19日 愛知県体育館 INOKI FINAL COUNTDOWN 4th アントニオ猪木 VS 藤原喜明"
+    },
+    {
+      "date": "1995-04-16T00:00:00+00:00",
+      "id": "s_series_00312_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_28",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "武藤敬司復帰戦 1995年4月16日 広島サンプラザホール 武藤敬司 VS 天山広吉"
+    },
+    {
+      "date": "1995-04-29T00:00:00+00:00",
+      "id": "s_series_00260_1_1",
+      "tags": [
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_507",
+          "name": "北斗晶"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_508",
+          "name": "ブル中野"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_72",
+          "name": "北朝鮮・メーデー スタジアム（平壌）"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "平和の祭典 1995年4月29日 北朝鮮 平壌 メーデー・スタジアム ブル中野VS北斗晶"
+    },
+    {
+      "date": "1995-04-29T00:00:00+00:00",
+      "id": "s_series_00260_1_2",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_135",
+          "name": "リック・フレアー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_72",
+          "name": "北朝鮮・メーデー スタジアム（平壌）"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_22",
+          "name": "アントニオ猪木 視聴数ベスト10"
+        }
+      ],
+      "title": "平和の祭典 1995年4月29日 北朝鮮 平壌 メーデー・スタジアム アントニオ猪木VSリック・フレアー"
+    },
+    {
+      "date": "1995-05-03T00:00:00+00:00",
+      "id": "s_series_00135_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_48",
+          "name": "福岡・福岡ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_150",
+          "name": "95WRESTLING DONTAKU IN FUKUOKA DOME"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_118",
+          "name": "北尾光司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95WRESTLING DONTAKU IN FUKUOKA DOME 1995年5月3日 福岡ドーム アントニオ猪木＆北尾光司 VS 長州力＆天龍源一郎"
+    },
+    {
+      "date": "1995-05-03T00:00:00+00:00",
+      "id": "s_series_00135_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_30",
+          "name": "福岡・福岡国際センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_28",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "95WRESTLING DONTAKU IN FUKUOKA DOME 1995年5月3日 福岡ドーム 橋本真也 VS 武藤敬司"
+    },
+    {
+      "date": "1995-07-13T00:00:00+00:00",
+      "id": "s_series_00136_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_151",
+          "name": "BEST OF THE SUPER 2"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_183",
+          "name": "ワイルド・ペガサス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_64",
+          "name": "ブラック・タイガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_28",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "BEST OF THE SUPER Jr.II 1995年7月13日 札幌中島体育センター 優勝戦進出者決定戦  ワイルド・ペガサス VS ブラック・タイガー"
+    },
+    {
+      "date": "1995-07-13T00:00:00+00:00",
+      "id": "s_series_00136_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_172",
+          "name": "ホーク・ウォリアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_28",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "BEST OF THE SUPER Jr.II 1995年7月13日 札幌中島体育センター 武藤敬司 VS ホーク・ウォリアー"
+    },
+    {
+      "date": "1995-08-13T00:00:00+00:00",
+      "id": "s_series_00137_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_152",
+          "name": "G1 CLIMAX 5"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_135",
+          "name": "リック・フレアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "G1 CLIMAX 1995 1995年8月13日 両国国技館　 第5回 G1 CLIMAX Aブロック・リーグ戦 武藤敬司 VS リック・フレアー"
+    },
+    {
+      "date": "1995-08-13T00:00:00+00:00",
+      "id": "s_series_00137_1_1en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_152",
+          "name": "G1 CLIMAX 5"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_135",
+          "name": "リック・フレアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "G1 CLIMAX 1995 1995年8月13日 両国国技館　 5th G1 CLIMAX A block-league Keiji Mutoh VS. Ric Flair (English Commentary)"
+    },
+    {
+      "date": "1995-08-15T00:00:00+00:00",
+      "id": "s_series_00137_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_152",
+          "name": "G1 CLIMAX 5"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "G1 CLIMAX 1995 1995年8月15日 両国国技館 第5回 G1 CLIMAX 優勝決定戦 武藤敬司 VS 橋本真也"
+    },
+    {
+      "date": "1995-09-23T00:00:00+00:00",
+      "id": "s_series_00138_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_44",
+          "name": "神奈川・横浜アリーナ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_153",
+          "name": "G1 CLIMAX SPECIAL 1995"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_202",
+          "name": "安生洋二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_203",
+          "name": "中野龍雄"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_21",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "G1 CLIMAX SPECIAL 1995 1995年9月23日 横浜アリーナ 長州力＆永田裕志 VS 安生洋二＆中野龍雄"
+    },
+    {
+      "date": "1995-09-25T00:00:00+00:00",
+      "id": "s_series_00138_2_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_194",
+          "name": "平田淳嗣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "G1 CLIMAX SPECIAL 1995 1995年9月25日 大阪府立体育会館  武藤敬司 VS 平田淳嗣"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_154",
+          "name": "激突!!新日本プロレス対UWFインターナショナル全面戦争"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_204",
+          "name": "石澤常光"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_205",
+          "name": "金原弘光"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_206",
+          "name": "桜庭和志"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 1995年10月9日 東京ドーム 永田裕志＆石沢常光 VS 金原弘光＆桜庭和志"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_154",
+          "name": "激突!!新日本プロレス対UWFインターナショナル全面戦争"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_207",
+          "name": "山本健一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 1995年10月9日 東京ドーム 大谷晋二郎 VS 山本健一"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_154",
+          "name": "激突!!新日本プロレス対UWFインターナショナル全面戦争"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_212",
+          "name": "高山善廣"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 1995年10月9日 東京ドーム 飯塚高史 VS 髙山善廣"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_1_4",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_154",
+          "name": "激突!!新日本プロレス対UWFインターナショナル全面戦争"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_101",
+          "name": "佐野直喜"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 1995年10月9日 東京ドーム 獣神サンダー・ライガー VS 佐野直喜"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_1_5",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_154",
+          "name": "激突!!新日本プロレス対UWFインターナショナル全面戦争"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_202",
+          "name": "安生洋二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_99",
+          "name": "特別特集"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 1995年10月9日 東京ドーム 長州力 VS 安生洋二"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_1_6",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_154",
+          "name": "激突!!新日本プロレス対UWFインターナショナル全面戦争"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_210",
+          "name": "垣原賢人"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 1995年10月9日 東京ドーム 佐々木健介 VS 垣原賢人"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_1_7",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_154",
+          "name": "激突!!新日本プロレス対UWFインターナショナル全面戦争"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_203",
+          "name": "中野龍雄"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 1995年10月9日 東京ドーム 橋本真也 VS 中野龍雄"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_1_8",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_154",
+          "name": "激突!!新日本プロレス対UWFインターナショナル全面戦争"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_92",
+          "name": "高田延彦"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 1995年10月9日 東京ドーム IWGPヘビー級選手権試合 武藤敬司 VS 高田延彦"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_2_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_154",
+          "name": "激突!!新日本プロレス対UWFインターナショナル全面戦争"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_212",
+          "name": "高山善廣"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 Oct 9, 1995 Tokyo・Tokyo Dome (English Commentary) \"New Japan Pro Wrestling VS UWF International\" Takashi Iizuka VS Yoshihiro Takayama"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_2_4",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_154",
+          "name": "激突!!新日本プロレス対UWFインターナショナル全面戦争"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_101",
+          "name": "佐野直喜"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 Oct 9, 1995 Tokyo・Tokyo Dome (English Commentary) \"New Japan Pro Wrestling VS UWF International\" Jyushin Thunder Liger VS Naoki Sano"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_2_5",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_154",
+          "name": "激突!!新日本プロレス対UWFインターナショナル全面戦争"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_202",
+          "name": "安生洋二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 Oct 9, 1995 Tokyo・Tokyo Dome (English Commentary) \"New Japan Pro Wrestling VS UWF International\" Riki Choshu VS Yoji Anjo"
+    },
+    {
+      "date": "1995-10-09T00:00:00+00:00",
+      "id": "s_series_00139_2_8",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_92",
+          "name": "高田延彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "激突!!新日本プロレス対UWFインターナショナル全面戦争 Oct 9, 1995 Tokyo・Tokyo Dome (English Commentary) IWGP HEAVYWEIGHT CHAMPIONSHIP MATCH Keiji Muto VS Nobuhiko Takada"
+    },
+    {
+      "date": "1995-10-29T00:00:00+00:00",
+      "id": "s_series_00140_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_52",
+          "name": "福岡・マリンメッセ福岡"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_155",
+          "name": "OCTOBER SUPPRISE"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_210",
+          "name": "垣原賢人"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_212",
+          "name": "高山善廣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "OCTOBER SUPPRISE 1995年10月29日 マリンメッセ福岡 武藤敬司＆永田裕志 VS 垣原賢人＆高山善廣"
+    },
+    {
+      "date": "1995-10-29T00:00:00+00:00",
+      "id": "s_series_00140_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_52",
+          "name": "福岡・マリンメッセ福岡"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_155",
+          "name": "OCTOBER SUPPRISE"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_202",
+          "name": "安生洋二"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1995",
+          "name": "1995"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "OCTOBER SUPPRISE 1995年10月29日 マリンメッセ福岡 佐々木健介 VS 安生洋二"
+    }
+  ]
+}

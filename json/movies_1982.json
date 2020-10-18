@@ -1,0 +1,1136 @@
+{
+  "movies": [
+    {
+      "date": "1982-01-01T00:00:00+00:00",
+      "id": "s_series_00040_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_4",
+          "name": "カール・ゴッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春スーパー・ファイト 1982年1月1日 後楽園ホール 藤原喜明 VS カール・ゴッチ"
+    },
+    {
+      "date": "1982-01-01T00:00:00+00:00",
+      "id": "s_series_00040_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_56",
+          "name": "アニマル浜口"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春スーパー・ファイト 1982年1月1日 後楽園ホール 長州力 VS アニマル浜口"
+    },
+    {
+      "date": "1982-01-01T00:00:00+00:00",
+      "id": "s_series_00040_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_34",
+          "name": "ダイナマイト・キッド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "新春スーパー・ファイト 1982年1月1日 後楽園ホール WWFジュニアヘビー級王座決定戦 タイガーマスク VS ダイナマイト・キッド"
+    },
+    {
+      "date": "1982-01-01T00:00:00+00:00",
+      "id": "s_series_00040_1_4",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_21",
+          "name": "WWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_32",
+          "name": "ボブ・バックランド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春スーパー・ファイト 1982年1月1日 後楽園ホール WWFヘビー級選手権試合 ボブ・バックランド VS 藤波辰巳"
+    },
+    {
+      "date": "1982-01-01T00:00:00+00:00",
+      "id": "s_series_00040_1_5",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_23",
+          "name": "ローラン・ボック"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春スーパー・ファイト 1982年1月1日 後楽園ホール アントニオ猪木 VS ローラン・ボック"
+    },
+    {
+      "date": "1982-01-28T00:00:00+00:00",
+      "id": "s_series_00041_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_2",
+          "name": "東京・東京体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_49",
+          "name": "アブドーラ・ザ・ブッチャー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1982年1月28日 東京体育館 アントニオ猪木 VS アブドーラ・ザ・ブッチャー"
+    },
+    {
+      "date": "1982-01-28T00:00:00+00:00",
+      "id": "s_series_00041_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_2",
+          "name": "東京・東京体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_34",
+          "name": "ダイナマイト・キッド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "新春黄金シリーズ 1982年1月28日 東京体育館 WWFジュニア・ヘビー級選手権試合 タイガーマスク VS ダイナマイト・キッド"
+    },
+    {
+      "date": "1982-04-01T00:00:00+00:00",
+      "id": "s_series_00042_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_62",
+          "name": "スティーブ・ライト"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "第5回MSGシリーズ 1982年4月1日 蔵前国技館 WWFジュニア・ヘビー級選手権試合 タイガーマスク VS スティーブ・ライト"
+    },
+    {
+      "date": "1982-04-21T00:00:00+00:00",
+      "id": "s_series_00043_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_64",
+          "name": "ブラック・タイガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "難民義援金募集チャリティ特別試合 1982年4月21日 蔵前国技館 WWFジュニア・ヘビー級選手権試合 タイガーマスク VS ブラックタイガー"
+    },
+    {
+      "date": "1982-05-26T00:00:00+00:00",
+      "id": "s_series_00044_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_64",
+          "name": "ブラック・タイガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ 1982年5月26日 大阪府立体育会館 ＷＷＦジュニア・ヘビー級選手権試合 ブラック・タイガー  VS  タイガーマスク"
+    },
+    {
+      "date": "1982-05-26T00:00:00+00:00",
+      "id": "s_series_00044_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_49",
+          "name": "アブドーラ・ザ・ブッチャー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ 1982年5月26日 大阪府立体育会館 ハルク・ホーガン VS アブドーラ・ザ・ブッチャー"
+    },
+    {
+      "date": "1982-06-18T00:00:00+00:00",
+      "id": "s_series_00045_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_65",
+          "name": "ウルトラマン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "サマー・ファイト・シリーズ第1弾 1982年6月18日 蔵前国技館 WWFジュニア・ヘビー級選手権試合 タイガーマスク VS ウルトラマン"
+    },
+    {
+      "date": "1982-07-23T00:00:00+00:00",
+      "id": "s_series_00045_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_22",
+          "name": "石川・石川県産業展示館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_34",
+          "name": "ダイナマイト・キッド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "サマー・ファイト・シリーズ第1弾 1982年7月23日 石川県産業展示館 タイガーマスク VS ダイナマイト・キッド"
+    },
+    {
+      "date": "1982-08-30T00:00:00+00:00",
+      "id": "s_series_00046_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_9",
+          "name": "アメリカ・マディソン・スクエア・ガーデン（ニューヨーク）"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_34",
+          "name": "ダイナマイト・キッド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "ブラディ・ファイト・シリーズ 1982年8月30日 アメリカ・マディソン・スクエア・ガーデン ＷＷＦ ジュニア・ヘビー級選手権試合 タイガーマスク  VS  ダイナマイト・キッド"
+    },
+    {
+      "date": "1982-08-30T00:00:00+00:00",
+      "id": "s_series_00046_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_9",
+          "name": "アメリカ・マディソン・スクエア・ガーデン（ニューヨーク）"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_35",
+          "name": "WWFインターナショナル・ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_762",
+          "name": "ジノ・ブリット"
+        }
+      ],
+      "title": "ブラディ・ファイト・シリーズ 1982年8月30日 アメリカ・マディソン・スクエア・ガーデン WWFインターナショナル・ヘビー級選手権試合 ジノ・ブリット VS 藤波辰巳"
+    },
+    {
+      "date": "1982-09-21T00:00:00+00:00",
+      "id": "s_series_00046_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_54",
+          "name": "ラッシャー木村"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディ・ファイト・シリーズ 1982年9月21日 大阪府立体育会館 アントニオ猪木 VS ラッシャー木村"
+    },
+    {
+      "date": "1982-10-08T00:00:00+00:00",
+      "id": "s_series_00047_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_49",
+          "name": "アブドーラ・ザ・ブッチャー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_73",
+          "name": "バッドニュース・アレン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_533",
+          "name": "Ｓ・Ｄ・ジョーンズ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1982年10月8日 後楽園ホール アントニオ猪木＆藤波辰巳＆長州力 VS アブドーラ・ザ・ブッチャー＆バッドニュース・アレン＆Ｓ・Ｄ・ジョーンズ"
+    },
+    {
+      "date": "1982-10-26T00:00:00+00:00",
+      "id": "s_series_00047_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "闘魂シリーズ 1982年10月26日 大阪府立体育会館 WWFジュニア・ヘビー級選手権試合 タイガーマスク VS 小林邦昭"
+    },
+    {
+      "date": "1982-10-26T00:00:00+00:00",
+      "id": "s_series_00047_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_54",
+          "name": "ラッシャー木村"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_56",
+          "name": "アニマル浜口"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1982年10月26日 大阪府立体育会館 アントニオ猪木＆藤波辰巳 VS ラッシャー木村＆アニマル浜口"
+    },
+    {
+      "date": "1982-11-04T00:00:00+00:00",
+      "id": "s_series_00047_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_35",
+          "name": "WWFインターナショナル・ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_54",
+          "name": "ラッシャー木村"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_56",
+          "name": "アニマル浜口"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_67",
+          "name": "寺西勇"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1982年11月4日 蔵前国技館 アントニオ猪木 VS ラッシャー木村＆アニマル浜口＆寺西勇"
+    },
+    {
+      "date": "1982-11-04T00:00:00+00:00",
+      "id": "s_series_00047_2_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_35",
+          "name": "WWFインターナショナル・ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1982",
+          "name": "1982"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1982年11月4日 蔵前国技館 ＷＷＦインターナショナル・ヘビー級選手権試合 藤波辰巳 VS 長州力"
+    }
+  ]
+}

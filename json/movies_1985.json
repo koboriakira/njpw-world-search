@@ -1,0 +1,2310 @@
+{
+  "movies": [
+    {
+      "date": "1985-01-18T00:00:00+00:00",
+      "id": "s_archive_122_1_01",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_452",
+          "name": "キングコング・バンディ"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_176",
+          "name": "熊本･八代市総合体育館"
+        }
+      ],
+      "title": "新春黄金シリーズ 1985年1月18日 熊本・八代市総合体育館 キングコング・バンディ VS 坂口征二"
+    },
+    {
+      "date": "1985-02-05T00:00:00+00:00",
+      "id": "s_archive_122_2_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_16",
+          "name": "愛知・愛知県体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_452",
+          "name": "キングコング・バンディ"
+        }
+      ],
+      "title": "新春黄金シリーズ 1985年2月5日 愛知県体育館 １万５千ドル賞金マッチ アントニオ猪木 VS キンゴコングバンディ"
+    },
+    {
+      "date": "1985-03-08T00:00:00+00:00",
+      "id": "s_archive_97_1_01",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_423",
+          "name": "パット・ケリー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_431",
+          "name": "マイク・ケリー"
+        }
+      ],
+      "title": "'85 ビッグ・ファイト・シリーズ 1985年3月8日 横浜文化体育館 坂口征二＆木村健吾 VS パット・ケリー＆マイク・ケリー"
+    },
+    {
+      "date": "1985-04-18T00:00:00+00:00",
+      "id": "s_series_00059_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_74",
+          "name": "ブルーザー・ブロディ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ第2弾 1985年4月18日 両国国技館 アントニオ猪木 VS ブルーザー・ブロディ"
+    },
+    {
+      "date": "1985-04-18T00:00:00+00:00",
+      "id": "s_series_00059_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_400",
+          "name": "ストロング・マシン1号"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ第2弾 1985年4月18日 両国国技館 藤波辰巳 VS ストロング・マシン1号"
+    },
+    {
+      "date": "1985-04-18T00:00:00+00:00",
+      "id": "s_series_00059_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_83",
+          "name": "山田恵一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_415",
+          "name": "小杉俊二"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ第2弾 1985年4月18日 両国国技館 小杉俊二 VS 山田恵一"
+    },
+    {
+      "date": "1985-04-18T00:00:00+00:00",
+      "id": "s_series_00059_1_4",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_576",
+          "name": "ビリー・ジャック"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ第2弾 1985年4月18日 両国国技館 坂口征二 VS ビリー・ジャック"
+    },
+    {
+      "date": "1985-05-10T00:00:00+00:00",
+      "id": "s_series_00060_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_4",
+          "name": "福岡・福岡スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_80",
+          "name": "マスクド・スーパースター"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGP＆WWFチャンピオンシリーズ 1985年5月10日 福岡スポーツセンター 坂口征二 VS マスクド・スーパースター"
+    },
+    {
+      "date": "1985-05-10T00:00:00+00:00",
+      "id": "s_series_00060_3_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_4",
+          "name": "福岡・福岡スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_79",
+          "name": "ジミー・スヌーカ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGP＆WWFチャンピオンシリーズ 1985年5月10日 福岡スポーツセンター アントニオ猪木＆藤波辰巳 VS アンドレ・ザ・ジャイアント＆ジミー・スヌーカ"
+    },
+    {
+      "date": "1985-05-24T00:00:00+00:00",
+      "id": "s_series_00060_3_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_46",
+          "name": "兵庫・ワールド記念ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_489",
+          "name": "ペドロ・モラレス"
+        }
+      ],
+      "title": "'85 IWGP＆WWFチャンピオンシリーズ 1985年5月24日 神戸ワールド記念ホール スーパー・ストロング・マシン VS ペドロ・モラレス"
+    },
+    {
+      "date": "1985-05-24T00:00:00+00:00",
+      "id": "s_series_00060_4_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_46",
+          "name": "兵庫・ワールド記念ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_59",
+          "name": "ディック・マードック"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_72",
+          "name": "アドリアン・アドニス"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGP＆WWFチャンピオンシリーズ 1985年5月24日 神戸ワールド記念ホール 藤波辰巳＆木村健悟 VS ディック・マードック＆アドリアン・アドニス"
+    },
+    {
+      "date": "1985-05-24T00:00:00+00:00",
+      "id": "s_series_00060_4_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_46",
+          "name": "兵庫・ワールド記念ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGP＆WWFチャンピオンシリーズ 1985年5月24日 神戸ワールド記念ホール アントニオ猪木 VS アンドレ・ザ・ジャイアント"
+    },
+    {
+      "date": "1985-05-31T00:00:00+00:00",
+      "id": "s_series_00060_5_1",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGP＆WWFチャンピオンシリーズ 1985年5月31日 大宮市体育館 アンドレ・ザ・ジャイアント VS スーパー・ストロング・マシン"
+    },
+    {
+      "date": "1985-05-31T00:00:00+00:00",
+      "id": "s_series_00060_5_2",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_78",
+          "name": "トニー・セントクレアー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGP＆WWFチャンピオンシリーズ 1985年5月31日 大宮市体育館 ヒロ斎藤 VS トニー・セントクレアー"
+    },
+    {
+      "date": "1985-05-31T00:00:00+00:00",
+      "id": "s_series_00060_5_3",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_59",
+          "name": "ディック・マードック"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_72",
+          "name": "アドリアン・アドニス"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_452",
+          "name": "キングコング・バンディ"
+        }
+      ],
+      "title": "'85 IWGP＆WWFチャンピオンシリーズ 1985年5月31日 大宮市体育館 アントニオ猪木＆藤波辰巳＆木村健吾 VS ディック・マードック＆アドリアン・アドニス＆キングコング・バンディ"
+    },
+    {
+      "date": "1985-06-11T00:00:00+00:00",
+      "id": "s_series_00060_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_2",
+          "name": "東京・東京体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_28",
+          "name": "WWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGP＆WWFチャンピオンシリーズ 1985年6月11日 東京体育館 WWF世界ヘビー級選手権試合 ハルク・ホーガン VS 藤波辰巳"
+    },
+    {
+      "date": "1985-06-11T00:00:00+00:00",
+      "id": "s_series_00060_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_2",
+          "name": "東京・東京体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_28",
+          "name": "WWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGP＆WWFチャンピオンシリーズ 1985年6月11日 東京体育館 85IWGP優勝戦 アントニオ猪木 VS アンドレ・ザ・ジャイアント"
+    },
+    {
+      "date": "1985-06-13T00:00:00+00:00",
+      "id": "s_series_00060_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_16",
+          "name": "愛知・愛知県体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_48",
+          "name": "’８５ＩＷＧＰ優勝戦"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGP＆WWFチャンピオンシリーズ 1985年6月13日 愛知県体育館 第3回IWGPヘビー級選手権試合 アントニオ猪木 VS ハルク・ホーガン"
+    },
+    {
+      "date": "1985-08-01T00:00:00+00:00",
+      "id": "s_series_00061_1_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_49",
+          "name": "第３回IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_74",
+          "name": "ブルーザー・ブロディ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "バーニング・スピリット・イン・サマー 1985年8月1日 両国国技館 アントニオ猪木 VS ブルーザー・ブロディ"
+    },
+    {
+      "date": "1985-08-01T00:00:00+00:00",
+      "id": "s_series_00061_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_70",
+          "name": "ザ・コブラ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_484",
+          "name": "ドン荒川"
+        }
+      ],
+      "title": "バーニング・スピリット・イン・サマー 1985年8月1日 両国国技館 NWA世界ジュニアヘビー級選手権 ザ・コブラ VS ドン荒川"
+    },
+    {
+      "date": "1985-08-01T00:00:00+00:00",
+      "id": "s_series_00061_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_79",
+          "name": "ジミー・スヌーカ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "バーニング・スピリット・イン・サマー 1985年8月1日 両国国技館 藤波辰巳 VS ジミー・スヌーカ"
+    },
+    {
+      "date": "1985-08-03T00:00:00+00:00",
+      "id": "s_archive_83_1_01",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_79",
+          "name": "ジミー・スヌーカ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_458",
+          "name": "ラリー・シャープ"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_160",
+          "name": "アメリカ・アロハスタジアム（ハワイ）"
+        }
+      ],
+      "title": "'85 バーニング・スピリット・イン・サマー 1985年8月3日 アロハスタジアム ジミー・スヌーカ VS ラリー・シャープ"
+    },
+    {
+      "date": "1985-08-03T00:00:00+00:00",
+      "id": "s_archive_83_1_02",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_453",
+          "name": "ジン・ルイス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_454",
+          "name": "ゲーリー・フルトン"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_160",
+          "name": "アメリカ・アロハスタジアム（ハワイ）"
+        }
+      ],
+      "title": "'85 バーニング・スピリット・イン・サマー 1985年8月3日 アロハスタジアム 藤波辰巳＆木村健吾 VS ジン・ルイス＆ゲーリー・フルトン"
+    },
+    {
+      "date": "1985-08-03T00:00:00+00:00",
+      "id": "s_archive_83_1_03",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_461",
+          "name": "マット・ボーン"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_160",
+          "name": "アメリカ・アロハスタジアム（ハワイ）"
+        }
+      ],
+      "title": "'85 バーニング・スピリット・イン・サマー 1985年8月3日 アロハスタジアム 坂口征二 VS マット・ボーン"
+    },
+    {
+      "date": "1985-08-03T00:00:00+00:00",
+      "id": "s_archive_83_1_04",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_70",
+          "name": "ザ・コブラ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_448",
+          "name": "スーパーフライ・チュイ"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_160",
+          "name": "アメリカ・アロハスタジアム（ハワイ）"
+        }
+      ],
+      "title": "'85 バーニング・スピリット・イン・サマー 1985年8月3日 アロハスタジアム WWF認定ジュニアヘビー級選手権 ザ・コブラ VS スーパーフライ・チュイ"
+    },
+    {
+      "date": "1985-08-03T00:00:00+00:00",
+      "id": "s_archive_83_1_05",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_443",
+          "name": "アンジェロ・モスカ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_449",
+          "name": "ケビン・サリバン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_452",
+          "name": "キングコング・バンディ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_485",
+          "name": "スティーブ・コリンズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_486",
+          "name": "マーク・ルーイン"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_160",
+          "name": "アメリカ・アロハスタジアム（ハワイ）"
+        }
+      ],
+      "title": "'85 バーニング・スピリット・イン・サマー 1985年8月3日 アロハスタジアム アンドレ・ザ・ジャイアント＆アンジェロ・モスカ＆スティーブ・コリンズ VS マーク・ルーイン＆ケビン・サリバン＆キングコング・バンディ"
+    },
+    {
+      "date": "1985-08-30T00:00:00+00:00",
+      "id": "s_series_00062_1_1",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_75",
+          "name": "ジャイアント・マシーン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_76",
+          "name": "スーパー・マシーン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_111",
+          "name": "山形・山形県体育館"
+        }
+      ],
+      "title": "チャレンジ・スピリット'85 1985年8月30日 山形県体育館 アントニオ猪木＆坂口征二 VS ジャイアント・マシーン＆スーパー・マシーン"
+    },
+    {
+      "date": "1985-09-18T00:00:00+00:00",
+      "id": "s_series_00062_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_4",
+          "name": "福岡・福岡スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_78",
+          "name": "トニー・セントクレアー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "チャレンジ・スピリット'85 1985年9月18日 福岡スポーツセンター 武藤敬司 VS トニー・セントクレアー"
+    },
+    {
+      "date": "1985-09-18T00:00:00+00:00",
+      "id": "s_series_00062_2_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_30",
+          "name": "福岡・福岡国際センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_75",
+          "name": "ジャイアント・マシーン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_76",
+          "name": "スーパー・マシーン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "チャレンジ・スピリット'85 1985年9月18日 福岡スポーツセンター アントニオ猪木＆藤波辰巳 VS ジャイアント・マシーン＆スーパー・マシーン"
+    },
+    {
+      "date": "1985-09-18T00:00:00+00:00",
+      "id": "s_series_00062_2_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_4",
+          "name": "福岡・福岡スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_811",
+          "name": "ハクソー・ヒギンズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_824",
+          "name": "ケリー・ブラウン"
+        }
+      ],
+      "title": "チャレンジ・スピリット'85 1985年9月18日 福岡スポーツセンター 坂口征二＆木村健吾 VS ハクソー・ヒギンズ＆ケリー・ブラウン"
+    },
+    {
+      "date": "1985-09-19T00:00:00+00:00",
+      "id": "s_series_00062_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_2",
+          "name": "東京・東京体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "チャレンジ・スピリット'85 1985年9月19日 東京体育館 アントニオ猪木 VS 藤波辰巳"
+    },
+    {
+      "date": "1985-09-19T00:00:00+00:00",
+      "id": "s_series_00062_3_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_2",
+          "name": "東京・東京体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_75",
+          "name": "ジャイアント・マシーン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_76",
+          "name": "スーパー・マシーン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "チャレンジ・スピリット'85 1985年9月19日 東京体育館 坂口征二＆木村健吾 VS ジャイアント・マシーン＆スーパー・マシーン"
+    },
+    {
+      "date": "1985-10-11T00:00:00+00:00",
+      "id": "s_archive_96_1_01",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_38",
+          "name": "星野勘太郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_70",
+          "name": "ザ・コブラ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "バーニングスピリット イン オータム 1985年10月11日 古川市民体育館 ザ・コブラ＆星野勘太郎 VS 越中詩郎＆武藤敬司"
+    },
+    {
+      "date": "1985-10-11T00:00:00+00:00",
+      "id": "s_archive_96_1_02",
+      "tags": [
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_435",
+          "name": "ランボー・サクラダ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_436",
+          "name": "コンガ・ザ・バーバリアン"
+        }
+      ],
+      "title": "バーニングスピリット イン オータム 1985年10月11日 古川市民体育館 ランボー・サクラダ VS コンガ・ザ・バーバリアン"
+    },
+    {
+      "date": "1985-10-11T00:00:00+00:00",
+      "id": "s_archive_96_1_03",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_73",
+          "name": "バッドニュース・アレン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_74",
+          "name": "ブルーザー・ブロディ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_432",
+          "name": "リップ・オリバー"
+        }
+      ],
+      "title": "バーニングスピリット イン オータム 1985年10月11日 古川市民体育館 アントニオ猪木＆坂口征二＆木村健吾 VS ブルーザー・ブロディ＆バッドニュース・アレン＆リップ・オリバー"
+    },
+    {
+      "date": "1985-11-29T00:00:00+00:00",
+      "id": "s_series_00063_3_01",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_59",
+          "name": "ディック・マードック"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_80",
+          "name": "マスクド・スーパースター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_161",
+          "name": "福岡・北九州総合体育館"
+        }
+      ],
+      "title": "'85 IWGPタッグリーグ戦 1985年11月29日 北九州総合体育館 IWGPタッグリーグ公式戦 藤波辰巳＆木村健吾 VS ディック・マードック＆マスクド・スーパースター"
+    },
+    {
+      "date": "1985-11-29T00:00:00+00:00",
+      "id": "s_series_00063_3_02",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_74",
+          "name": "ブルーザー・ブロディ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_79",
+          "name": "ジミー・スヌーカ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_161",
+          "name": "福岡・北九州総合体育館"
+        }
+      ],
+      "title": "'85 IWGPタッグリーグ戦 1985年11月29日 北九州総合体育館 IWGPタッグリーグ公式戦 アントニオ猪木＆坂口征二 VS ブルーザー・ブロディ＆ジミー・スヌーカ"
+    },
+    {
+      "date": "1985-12-06T00:00:00+00:00",
+      "id": "s_series_00063_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_50",
+          "name": "IWGPタッグリーグ戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_59",
+          "name": "ディック・マードック"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_74",
+          "name": "ブルーザー・ブロディ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_79",
+          "name": "ジミー・スヌーカ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_80",
+          "name": "マスクド・スーパースター"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGPタッグリーグ戦 1985年12月6日 両国国技館 IWGPタッグリーグ戦 ブルーザー・ブロディ＆ジミー・スヌーカ VS ディック・マードック＆マスクド・スーパースター"
+    },
+    {
+      "date": "1985-12-06T00:00:00+00:00",
+      "id": "s_series_00063_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGPタッグリーグ戦 1985年12月6日 両国国技館 IWGPタッグリーグ戦 アントニオ猪木＆坂口征二 VS 藤波辰巳＆木村健吾"
+    },
+    {
+      "date": "1985-12-10T00:00:00+00:00",
+      "id": "s_series_00063_4_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_16",
+          "name": "愛知・愛知県体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_79",
+          "name": "ジミー・スヌーカ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGPタッグリーグ戦 1985年12月10日 愛知県体育館 木村健吾 VS ジミー・スヌーカ"
+    },
+    {
+      "date": "1985-12-10T00:00:00+00:00",
+      "id": "s_series_00063_4_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_16",
+          "name": "愛知・愛知県体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_74",
+          "name": "ブルーザー・ブロディ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGPタッグリーグ戦 1985年12月10日 愛知県体育館 藤波辰巳 VS ブルーザー・ブロディ"
+    },
+    {
+      "date": "1985-12-10T00:00:00+00:00",
+      "id": "s_series_00063_4_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_16",
+          "name": "愛知・愛知県体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_59",
+          "name": "ディック・マードック"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGPタッグリーグ戦 1985年12月10日 愛知県体育館 アントニオ猪木 VS ディック・マードック"
+    },
+    {
+      "date": "1985-12-12T00:00:00+00:00",
+      "id": "s_series_00063_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_28",
+          "name": "宮城・宮城県スポーツセンター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_50",
+          "name": "IWGPタッグリーグ戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1985",
+          "name": "1985"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'85 IWGPタッグリーグ戦 1985年12月12日 宮城県スポーツセンター 85IWGPタッグ・リーグ戦 優勝決定戦 アントニオ猪木＆坂口征二 VS 藤波辰巳＆木村健吾"
+    }
+  ]
+}

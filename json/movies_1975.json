@@ -1,0 +1,413 @@
+{
+  "movies": [
+    {
+      "date": "1975-03-20T00:00:00+00:00",
+      "id": "s_series_00007_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_24",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_6",
+          "name": "NWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1975",
+          "name": "1975"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ 1975年3月20日 蔵前国技館 ＮＷＦ世界ヘビー級選手権 タイガー・ジェット・シン VS アントニオ猪木"
+    },
+    {
+      "date": "1975-05-16T00:00:00+00:00",
+      "id": "s_series_00302_1_1",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_8",
+          "name": "大木金太郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1975",
+          "name": "1975"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ワールドリーグ戦 1975年5月16日 両国日大講堂 大木 金太郎 VS 坂口 征二"
+    },
+    {
+      "date": "1975-06-26T00:00:00+00:00",
+      "id": "s_series_00009_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_24",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_6",
+          "name": "NWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1975",
+          "name": "1975"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ゴールデン・ファイト・シリーズ 1975年6月26日 蔵前国技館 ＮＷＦ世界ヘビー級選手権試合 タイガー・ジェット・シン VS アントニオ猪木"
+    },
+    {
+      "date": "1975-10-02T00:00:00+00:00",
+      "id": "s_series_00010_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_9",
+          "name": "NWA北米タッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_11",
+          "name": "ジェリー・ブラウン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_12",
+          "name": "バディ・ロバーツ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_10",
+          "name": "鈴木庄一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1975",
+          "name": "1975"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1975年10月2日 大阪府立体育会館 NWA北米タッグ選手権試合 ジェリー・ブラウン＆バディ・ロバーツ VS アントニオ猪木＆坂口征二"
+    },
+    {
+      "date": "1975-10-09T00:00:00+00:00",
+      "id": "s_series_00010_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_24",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_6",
+          "name": "NWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_3",
+          "name": "ルー・テーズ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1975",
+          "name": "1975"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1975年10月9日 蔵前国技館 ＮＷＦ世界ヘビー級選手権試合 アントニオ猪木 VS ルー・テーズ"
+    },
+    {
+      "date": "1975-12-11T00:00:00+00:00",
+      "id": "s_series_00011_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_24",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_6",
+          "name": "NWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_13",
+          "name": "ビル・ロビンソン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1975",
+          "name": "1975"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_22",
+          "name": "アントニオ猪木 視聴数ベスト10"
+        }
+      ],
+      "title": "闘魂シリーズ第2弾 1975年12月11日 蔵前国技館 ＮＷＦ世界ヘビー級選手権試合 アントニオ猪木 VS ビル・ロビンソン"
+    },
+    {
+      "date": "1975-12-15T00:00:00+00:00",
+      "id": "s_series_00267_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_9",
+          "name": "アメリカ・マディソン・スクエア・ガーデン（ニューヨーク）"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1975",
+          "name": "1975"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_511",
+          "name": "フランク・モンティ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "1975年 WWWF on MSG Network 1975年12月15日 アメリカ・マディソン・スクエア・ガーデン アントニオ猪木VSフランク・モンティ"
+    }
+  ]
+}

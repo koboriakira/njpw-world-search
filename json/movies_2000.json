@@ -1,0 +1,870 @@
+{
+  "movies": [
+    {
+      "date": "2000-01-04T00:00:00+00:00",
+      "id": "s_series_00155_1_1",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_307",
+          "name": "IWGPジュニアタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_227",
+          "name": "高岩竜一"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_239",
+          "name": "田中稔"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_240",
+          "name": "ケンドー・カシン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘強導夢2000 2000年1月4日 東京ドーム 第1試合 IWGPジュニアタッグ選手権 高岩竜一＆大谷晋二郎 VS 田中稔＆ケンドー・カシン"
+    },
+    {
+      "date": "2000-01-04T00:00:00+00:00",
+      "id": "s_series_00155_1_11",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘強導夢2000 2000年1月4日 東京ドーム 第11試合 武藤 敬司 VS 蝶野 正洋"
+    },
+    {
+      "date": "2000-01-04T00:00:00+00:00",
+      "id": "s_series_00155_1_12",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘強導夢2000 2000年1月4日 東京ドーム 第12試合 IWGPヘビー級選手権 天龍 源一郎 VS 佐々木 健介"
+    },
+    {
+      "date": "2000-01-04T00:00:00+00:00",
+      "id": "s_series_00155_1_2",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘強導夢2000 2000年1月4日 東京ドーム 第2試合 越中 詩郎 VS 小島聡"
+    },
+    {
+      "date": "2000-01-04T00:00:00+00:00",
+      "id": "s_series_00155_1_3",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_183",
+          "name": "ワイルド・ペガサス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘強導夢2000 2000年1月4日 東京ドーム 第3試合 天山広吉 VS ワイルド・ペガサス"
+    },
+    {
+      "date": "2000-01-04T00:00:00+00:00",
+      "id": "s_series_00155_1_4",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘強導夢2000 2000年1月4日 東京ドーム 第4試合 IWGPジュニアヘビー級選手権試合 獣神サンダー・ライガー VS 金本浩二"
+    },
+    {
+      "date": "2000-01-04T00:00:00+00:00",
+      "id": "s_series_00155_1_5",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_197",
+          "name": "スーパールーキーデビュー戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_242",
+          "name": "鈴木健三"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘強導夢2000 2000年1月4日 東京ドーム 第5試合 スーパールーキーデビュー戦 中西学 VS 鈴木 健三"
+    },
+    {
+      "date": "2000-01-04T00:00:00+00:00",
+      "id": "s_series_00155_1_6",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_198",
+          "name": "山崎一夫引退試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_86",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘強導夢2000 2000年1月4日 東京ドーム 第6試合 山崎一夫引退試合 山崎 一夫 VS 永田裕志"
+    },
+    {
+      "date": "2000-01-04T00:00:00+00:00",
+      "id": "s_series_00155_1_7",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_214",
+          "name": "藤田和之"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_243",
+          "name": "キモ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘強導夢2000 2000年1月4日 東京ドーム 第7試合 藤田 和之 VS キモ"
+    },
+    {
+      "date": "2000-01-04T00:00:00+00:00",
+      "id": "s_series_00155_1_8",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_229",
+          "name": "ドン・フライ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘強導夢2000 2000年1月4日 東京ドーム 第8試合 スコット・ノートン VS ドン・フライ"
+    },
+    {
+      "date": "2000-01-04T00:00:00+00:00",
+      "id": "s_series_00155_1_9",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_145",
+          "name": "リック・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_244",
+          "name": "ランディ・サベージ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘強導夢2000 2000年1月4日 東京ドーム 第9試合 ランディ・サベージ VS リック・スタイナー"
+    },
+    {
+      "date": "2000-02-01T00:00:00+00:00",
+      "id": "s_archive_43_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_63",
+          "name": "東京・国立代々木競技場 第二体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_246",
+          "name": "真壁伸也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_249",
+          "name": "柴田勝頼"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_250",
+          "name": "井上亘"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_732",
+          "name": "福田雅一"
+        }
+      ],
+      "title": "FIGHTING SPIRIT 2000 2000年2月1日　代々木第2体育館 真壁伸也＆柴田勝頼 VS 福田雅一＆井上亘"
+    },
+    {
+      "date": "2000-02-05T00:00:00+00:00",
+      "id": "s_archive_38_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_64",
+          "name": "北海道・北海道立総合体育センター 北海きたえーる"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_152",
+          "name": "ブラック・キャット"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_246",
+          "name": "真壁伸也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2010s",
+          "name": "10年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT 2000 2000年2月5日 北海道・月寒グリーンドーム 金本浩二＆真壁伸也 VS 大谷晋二郎＆ブラック・キャット"
+    },
+    {
+      "date": "2000-03-19T00:00:00+00:00",
+      "id": "s_archive_44_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_16",
+          "name": "愛知・愛知県体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_246",
+          "name": "真壁伸也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_250",
+          "name": "井上亘"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "HYPER BATTLE 2000 2000年3月19日 愛知県体育館 真壁伸也 VS 井上亘"
+    },
+    {
+      "date": "2000-05-05T00:00:00+00:00",
+      "id": "s_series_00297_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_48",
+          "name": "福岡・福岡ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_171",
+          "name": "パワー・ウォリアー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "レスリングどんたく 2000 2000年5月5日　福岡ドーム グレートムタ VS パワーウォリアー"
+    },
+    {
+      "date": "2000-07-30T00:00:00+00:00",
+      "id": "s_series_00266_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_44",
+          "name": "神奈川・横浜アリーナ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_235",
+          "name": "大仁田厚"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_99",
+          "name": "特別特集"
+        }
+      ],
+      "title": "ノーロープ有刺鉄線電流爆破デスマッチ 2000年7月30日 横浜アリーナ ノーロープ有刺鉄線電流爆破デスマッチ 長州力VS大仁田厚"
+    },
+    {
+      "date": "2000-08-13T00:00:00+00:00",
+      "id": "s_series_00345_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_435",
+          "name": "G1 CLIMAX 10"
+        }
+      ],
+      "title": "G1 CLIMAX 2000 2000年8月13日 両国国技館 佐々木健介 VS 中西学"
+    },
+    {
+      "date": "2000-10-09T00:00:00+00:00",
+      "id": "s_series_00156_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_199",
+          "name": "Do Judge!!"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_245",
+          "name": "川田利明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000",
+          "name": "2000"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "Do Judge!! 2000年10月9日 東京ドーム 佐々木健介 VS 川田利明"
+    }
+  ]
+}

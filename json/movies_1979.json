@@ -1,0 +1,822 @@
+{
+  "movies": [
+    {
+      "date": "1979-02-06T00:00:00+00:00",
+      "id": "s_series_00024_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_17",
+          "name": "格闘技世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_25",
+          "name": "ミスターX"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_4",
+          "name": "三浦智和"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリー＆格闘技世界一決定戦 1979年2月6日 大阪府立体育会館 格闘技世界ヘビー級選手権試合 アントニオ猪木 VS ミスターX"
+    },
+    {
+      "date": "1979-04-03T00:00:00+00:00",
+      "id": "s_series_00025_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_4",
+          "name": "福岡・福岡スポーツセンター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_17",
+          "name": "格闘技世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_26",
+          "name": "レフトフック・デイトン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ＆格闘技世界一決定戦 1979年4月3日 福岡スポーツセンター 格闘技世界ヘビー級選手権試合 アントニオ猪木 VS レフトフック・デイトン"
+    },
+    {
+      "date": "1979-05-10T00:00:00+00:00",
+      "id": "s_series_00290_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_4",
+          "name": "福岡・福岡スポーツセンター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_113",
+          "name": "NWA世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_10",
+          "name": "ジャック・ブリスコ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ＮＷＦ世界ヘビー級選手権 1979年5月10日 福岡スポーツセンター アントニオ猪木 VS ジャック・ブリスコ"
+    },
+    {
+      "date": "1979-05-18T00:00:00+00:00",
+      "id": "s_series_00026_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_11",
+          "name": "新潟・新潟市体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_18",
+          "name": "第２回MSGシリーズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "第2回MSGシリーズ 1979年5月18日 新潟市体育館 第２回ＭＳＧシリーズ アンドレ・ザ・ジャイアント VS スタン・ハンセン"
+    },
+    {
+      "date": "1979-05-18T00:00:00+00:00",
+      "id": "s_series_00026_1_1en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_11",
+          "name": "新潟・新潟市体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "第2回MSGシリーズ 1979年5月18日 新潟市体育館 2nd MSG series: Andre the Giant VS. Stan Hansen (English Commentary)"
+    },
+    {
+      "date": "1979-06-07T00:00:00+00:00",
+      "id": "s_series_00026_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_28",
+          "name": "エル・カネック"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_12",
+          "name": "佐々木正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "第2回MSGシリーズ 1979年6月7日 蔵前国技館 ＷＷＦジュニア・ヘビー級選手権試合 藤波辰巳 VS エル・カネック"
+    },
+    {
+      "date": "1979-06-15T00:00:00+00:00",
+      "id": "s_series_00026_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_12",
+          "name": "アメリカ・グランド・オリンピック・オーディトリアム（ロサンゼルス）"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_9",
+          "name": "NWA北米タッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_24",
+          "name": "ヒロ・マツダ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "第2回MSGシリーズ 1979年6月15日 米国　ロサンゼルス　オリンピック・オーデトリアム NWA北米タッグ選手権試合 ヒロ・マツダ＆マサ斎藤 VS 坂口征二＆長州力"
+    },
+    {
+      "date": "1979-06-15T00:00:00+00:00",
+      "id": "s_series_00026_3_1en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_12",
+          "name": "アメリカ・グランド・オリンピック・オーディトリアム（ロサンゼルス）"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_9",
+          "name": "NWA北米タッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_24",
+          "name": "ヒロ・マツダ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "第2回MSGシリーズ 1979年6月15日 米国　ロサンゼルス　オリンピック・オーデトリアム NWA North American Tag Team Championship: Hiro Matsuda & Masa Saito VS Seiji Sakaguchi & Riki Choshu"
+    },
+    {
+      "date": "1979-10-05T00:00:00+00:00",
+      "id": "s_series_00241_1_1",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_14",
+          "name": "ウイリエム・ルスカ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_78",
+          "name": "韓国・奨忠体育館（ソウル）"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "格闘技世界ヘビー級選手権 1979年10月5日　韓国・ 奨忠体育館 アントニオ猪木 VS ウイリエム・ルスカ"
+    },
+    {
+      "date": "1979-11-01T00:00:00+00:00",
+      "id": "s_series_00027_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_13",
+          "name": "北海道・札幌中島スポーツセンター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_24",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_6",
+          "name": "NWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_31",
+          "name": "ダスティ・ローデス"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1979年11月1日 札幌中島スポーツセンター NWFヘビー級選手権試合 [王者]アントニオ猪木 VS ダスティ・ローデス[挑戦者]"
+    },
+    {
+      "date": "1979-11-30T00:00:00+00:00",
+      "id": "s_series_00027_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_14",
+          "name": "徳島・徳島市立体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_21",
+          "name": "WWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_32",
+          "name": "ボブ・バックランド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_22",
+          "name": "アントニオ猪木 視聴数ベスト10"
+        }
+      ],
+      "title": "闘魂シリーズ 1979年11月30日 徳島市立体育館 WWFヘビー級選手権試合 ボブ・バックランド VS アントニオ猪木"
+    },
+    {
+      "date": "1979-12-06T00:00:00+00:00",
+      "id": "s_series_00027_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_21",
+          "name": "WWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_32",
+          "name": "ボブ・バックランド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1979年12月6日 蔵前国技館 WWFヘビー級選手権試合 アントニオ猪木 VS ボブ・バックランド"
+    },
+    {
+      "date": "1979-12-13T00:00:00+00:00",
+      "id": "s_series_00028_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_15",
+          "name": "京都・京都府立体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "格闘技世界一決定戦 1979年12月13日 京都府立体育館 WWFジュニア・ヘビー級選手権試合 藤波辰巳 VS 木村健吾"
+    },
+    {
+      "date": "1979-12-17T00:00:00+00:00",
+      "id": "s_archive_119_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_9",
+          "name": "アメリカ・マディソン・スクエア・ガーデン（ニューヨーク）"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1979",
+          "name": "1979"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_722",
+          "name": "ジョニー・リベラ"
+        }
+      ],
+      "title": "新春プロレススペシャル 1979年12月17日 アメリカ・マディソン・スクエア・ガーデン NWFヘビー級選手権試合 藤波辰爾 VS ジョニー・リベラ"
+    }
+  ]
+}

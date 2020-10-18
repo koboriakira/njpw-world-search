@@ -1,0 +1,2227 @@
+{
+  "movies": [
+    {
+      "date": "1999-01-04T00:00:00+00:00",
+      "id": "s_series_00153_1_1",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_214",
+          "name": "藤田和之"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "99 WRESTLING WORLD in 闘強導夢 1999年1月4日 東京ドーム 第1試合 中西学 VS 藤田和之"
+    },
+    {
+      "date": "1999-01-04T00:00:00+00:00",
+      "id": "s_series_00153_1_10",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "99 WRESTLING WORLD in 闘強導夢 1999年1月4日 東京ドーム 第10試合 IWGPヘビー級選手権 スコット・ノートン VS 武藤敬司"
+    },
+    {
+      "date": "1999-01-04T00:00:00+00:00",
+      "id": "s_series_00153_1_2",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_188",
+          "name": "新日本プロレス 対 維震軍"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_182",
+          "name": "安田忠夫"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "99 WRESTLING WORLD in 闘強導夢 1999年1月4日 東京ドーム 第2試合 新日本プロレス 対 維震軍 安田忠夫＆木戸修＆藤波辰爾 VS 小原道由＆木村健吾＆後藤達俊"
+    },
+    {
+      "date": "1999-01-04T00:00:00+00:00",
+      "id": "s_series_00153_1_3",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_307",
+          "name": "IWGPジュニアタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_227",
+          "name": "高岩竜一"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_240",
+          "name": "ケンドー・カシン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_731",
+          "name": "ドクトル・ワグナー・ジュニア"
+        }
+      ],
+      "title": "99 WRESTLING WORLD in 闘強導夢 1999年1月4日 東京ドーム 第3試合 IWGPジュニア・タッグ級選手権 大谷晋二郎＆高岩竜一 VS ドクトル・ワグナーJr.＆カシン"
+    },
+    {
+      "date": "1999-01-04T00:00:00+00:00",
+      "id": "s_series_00153_1_4",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "99 WRESTLING WORLD in 闘強導夢 1999年1月4日 東京ドーム 第4試合 IWGPジュニアヘビー級選手権試合 獣神サンダー・ライガー VS 金本浩二"
+    },
+    {
+      "date": "1999-01-04T00:00:00+00:00",
+      "id": "s_series_00153_1_5",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_191",
+          "name": "特別試合（特別レフェリー 山本小鉄）"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_235",
+          "name": "大仁田厚"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "99 WRESTLING WORLD in 闘強導夢 1999年1月4日 東京ドーム 第5試合 特別試合（特別レフェリー 山本小鉄） 佐々木健介 VS 大仁田厚"
+    },
+    {
+      "date": "1999-01-04T00:00:00+00:00",
+      "id": "s_series_00153_1_6",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_192",
+          "name": "新日本vsU.F.O."
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_236",
+          "name": "デイブ・ベネトゥー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "99 WRESTLING WORLD in 闘強導夢 1999年1月4日 東京ドーム 第6試合 新日本 VS U.F.O. 永田裕志 VS デイブ・ベネトゥー"
+    },
+    {
+      "date": "1999-01-04T00:00:00+00:00",
+      "id": "s_series_00153_1_7",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_192",
+          "name": "新日本vsU.F.O."
+        },
+        {
+          "div": "tag-man",
+          "id": "man_229",
+          "name": "ドン・フライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_237",
+          "name": "ブライアン・ジョンストン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "99 WRESTLING WORLD in 闘強導夢 1999年1月4日 東京ドーム 第7試合 新日本 VS U.F.O. ブライアン・ジョンストン VS ドン・フライ"
+    },
+    {
+      "date": "1999-01-04T00:00:00+00:00",
+      "id": "s_series_00153_1_9",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "99 WRESTLING WORLD in 闘強導夢 1999年1月4日 東京ドーム 第9試合 IWGPタッグ選手権 天龍源一郎＆越中詩郎 VS 天山広吉＆小島聡"
+    },
+    {
+      "date": "1999-02-05T00:00:00+00:00",
+      "id": "s_archive_35_01_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_214",
+          "name": "藤田和之"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_226",
+          "name": "吉江豊"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_732",
+          "name": "福田雅一"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月5日 札幌中島体育センター 福田雅一＆飯塚高史 VS 藤田和之＆吉江豊"
+    },
+    {
+      "date": "1999-02-05T00:00:00+00:00",
+      "id": "s_archive_35_01_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_227",
+          "name": "高岩竜一"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月5日 札幌中島体育センター 高岩竜一＆大谷晋二郎＆金本浩二 VS 小原道由＆後藤達俊＆小林邦昭 "
+    },
+    {
+      "date": "1999-02-05T00:00:00+00:00",
+      "id": "s_archive_35_01_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_240",
+          "name": "ケンドー・カシン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_42",
+          "name": "グラン浜田"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_731",
+          "name": "ドクトル・ワグナー・ジュニア"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月5日 札幌中島体育センター グラン浜田＆獣神サンダー・ライガー VS ドクトル・ワグナーJr.＆ケンドー・カシン"
+    },
+    {
+      "date": "1999-02-05T00:00:00+00:00",
+      "id": "s_archive_35_01_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月5日 札幌中島体育センター 木戸修デビュー３０周年記念試合 木戸修 VS 木村健悟"
+    },
+    {
+      "date": "1999-02-05T00:00:00+00:00",
+      "id": "s_archive_35_01_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_229",
+          "name": "ドン・フライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_236",
+          "name": "デイブ・ベネトゥー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_86",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月5日 札幌中島体育センター ブライアン・ジョンストン＆山崎一夫 VS デイブ・ベネトゥー＆ドン・フライ"
+    },
+    {
+      "date": "1999-02-05T00:00:00+00:00",
+      "id": "s_archive_35_01_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_182",
+          "name": "安田忠夫"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_194",
+          "name": "平田淳嗣"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_515",
+          "name": "ｎWoスティング"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月5日 札幌中島体育センター 安田忠夫＆平田淳嗣 VS ＮＷＯスティング＆スコット・ノートン"
+    },
+    {
+      "date": "1999-02-05T00:00:00+00:00",
+      "id": "s_archive_35_01_07",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月5日 札幌中島体育センター 佐々木健介＆藤波辰爾 VS 越中詩郎＆天龍源一郎"
+    },
+    {
+      "date": "1999-02-05T00:00:00+00:00",
+      "id": "s_archive_35_01_08",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_252",
+          "name": "AKIRA"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月5日 札幌中島体育センター 蝶野正洋復帰戦 蝶野正洋 VS ヒロ斎藤＆武藤敬司 "
+    },
+    {
+      "date": "1999-02-05T00:00:00+00:00",
+      "id": "s_archive_35_01_09",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月5日 札幌中島体育センター IWGPタッグ選手権試合 小島聡＆天山広吉 VS 永田裕志＆中西学 "
+    },
+    {
+      "date": "1999-02-06T00:00:00+00:00",
+      "id": "s_archive_35_02_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_240",
+          "name": "ケンドー・カシン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月6日 札幌中島体育センター ケンドー・カシン VS 金本浩二"
+    },
+    {
+      "date": "1999-02-06T00:00:00+00:00",
+      "id": "s_archive_35_02_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月6日 札幌中島体育センター 飯塚高史＆木戸修 VS 後藤達俊＆木村健悟"
+    },
+    {
+      "date": "1999-02-06T00:00:00+00:00",
+      "id": "s_archive_35_02_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_227",
+          "name": "高岩竜一"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_42",
+          "name": "グラン浜田"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月6日 札幌中島体育センター エル・サムライ＆グラン浜田 VS 高岩竜一＆大谷晋二郎 "
+    },
+    {
+      "date": "1999-02-06T00:00:00+00:00",
+      "id": "s_archive_35_02_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_86",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月6日 札幌中島体育センター 山崎一夫 VS 天山広吉"
+    },
+    {
+      "date": "1999-02-06T00:00:00+00:00",
+      "id": "s_archive_35_02_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_13",
+          "name": "北海道・札幌中島スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_214",
+          "name": "藤田和之"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_229",
+          "name": "ドン・フライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_236",
+          "name": "デイブ・ベネトゥー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_237",
+          "name": "ブライアン・ジョンストン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月6日 札幌中島体育センター 藤田和之＆ブライアンジョンストン VS デイブ・ベネトゥー＆ドン・フライ"
+    },
+    {
+      "date": "1999-02-06T00:00:00+00:00",
+      "id": "s_archive_35_02_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_182",
+          "name": "安田忠夫"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_194",
+          "name": "平田淳嗣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_515",
+          "name": "ｎWoスティング"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_730",
+          "name": "マイケル・ウォールストリート"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月6日 札幌中島体育センター 安田忠夫＆平田淳嗣＆藤波辰爾 VS マイケル・ウォールストリート＆ＮＷＯスティング＆スコッ ト・ノートン "
+    },
+    {
+      "date": "1999-02-06T00:00:00+00:00",
+      "id": "s_archive_35_02_07",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月6日 札幌中島体育センター 永田裕志＆中西学＆佐々木健介 VS 小原道由＆越中詩郎＆天龍源一郎 "
+    },
+    {
+      "date": "1999-02-06T00:00:00+00:00",
+      "id": "s_archive_35_02_08",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_37",
+          "name": "静岡・静岡産業館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_731",
+          "name": "ドクトル・ワグナー・ジュニア"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月6日 札幌中島体育センター IWGPジュニアヘビー級選手権試合 獣神サンダー・ライガー VS ドクトル・ワグナーJr."
+    },
+    {
+      "date": "1999-02-06T00:00:00+00:00",
+      "id": "s_archive_35_02_09",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_252",
+          "name": "AKIRA"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT’99 1999年2月6日 札幌中島体育センター 蝶野正洋＆ＡＫＩＲＡ VS 小島聡＆武藤敬司 "
+    },
+    {
+      "date": "1999-04-10T00:00:00+00:00",
+      "id": "s_series_00154_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_194",
+          "name": "STRONG STYLE SYMPHONY NEW JAPAN SPIRIT 1999"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_235",
+          "name": "大仁田厚"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_30",
+          "name": "ザ・グレート・サスケ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "STRONG STYLE SYMPHONY NEW JAPAN SPIRIT 1999 1999年4月10日 東京ドーム 有刺鉄線電流爆破デスマッチ 蝶野正洋 VS 大仁田厚"
+    },
+    {
+      "date": "1999-05-03T00:00:00+00:00",
+      "id": "s_series_00271_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_30",
+          "name": "福岡・福岡国際センター"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_42",
+          "name": "北海道・月寒グリーンドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_67",
+          "name": "IWGPヘビー級王座決定戦"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "STRONG ENERGY 1999 1999年5月3日 福岡国際センター IWGPヘビー級選手権試合 武藤敬司VS天龍源一郎"
+    },
+    {
+      "date": "1999-05-31T00:00:00+00:00",
+      "id": "s_archive_110_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_497",
+          "name": "ミング"
+        }
+      ],
+      "title": "BEST OF THE SUPER Jr. VI 1999年5月31日 大阪府立体育会館 藤波辰爾＆ミング VS 中西学＆天龍源一郎"
+    },
+    {
+      "date": "1999-05-31T00:00:00+00:00",
+      "id": "s_archive_110_1_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_229",
+          "name": "ドン・フライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_515",
+          "name": "ｎWoスティング"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "BEST OF THE SUPER Jr. VI 1999年5月31日 大阪府立体育会館 蝶野正洋＆ドン・フライ＆nWoスティング VS 武藤敬司＆天山広吉＆小島聡"
+    },
+    {
+      "date": "1999-06-27T00:00:00+00:00",
+      "id": "s_archive_111_1_01",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_182",
+          "name": "安田忠夫"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_497",
+          "name": "ミング"
+        }
+      ],
+      "title": "SUMMER STRUGGLE '99 1999年6月27日 静岡グランシップ 安田忠夫＆ミング VS スコットノートン＆天山広吉"
+    },
+    {
+      "date": "1999-07-21T00:00:00+00:00",
+      "id": "s_archive_111_2_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_13",
+          "name": "北海道・札幌中島スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_235",
+          "name": "大仁田厚"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "SUMMER STRUGGLE '99 1999年7月21日 札幌中島体育センター 武藤敬司＆天山広吉＆ヒロ斎藤VS蝶野正洋＆ＡＫＩＲＡ＆大仁田厚"
+    },
+    {
+      "date": "1999-08-15T00:00:00+00:00",
+      "id": "s_series_00337_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_33",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_434",
+          "name": "G1 CLIMAX 9"
+        }
+      ],
+      "title": "G1 CLIMAX 1999 1999年8月15日 両国国技館 中西学 VS 武藤敬司"
+    },
+    {
+      "date": "1999-08-28T00:00:00+00:00",
+      "id": "s_series_00265_1_1",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_235",
+          "name": "大仁田厚"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "512",
+          "name": "グレート・ニタ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_178",
+          "name": "東京・明治神宮野球場"
+        }
+      ],
+      "title": "GINGU CLIMAX \"BATTLE OF LAST SUMMER\" 1999年8月28日 明治神宮野球場 第8試合 ノーロープ有刺鉄線電流地雷爆破ダブルヘルデスマッチ グレート・ムタ VS グレート・ニタ"
+    },
+    {
+      "date": "1999-08-28T00:00:00+00:00",
+      "id": "s_series_00265_1_2",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_178",
+          "name": "東京・明治神宮野球場"
+        }
+      ],
+      "title": "GINGU CLIMAX \"BATTLE OF LAST SUMMER\" 1999年8月28日 明治神宮野球場 第5試合 IWGPタッグ選手権試合 中西学＆永田裕志 VS 後藤達俊＆小原道由"
+    },
+    {
+      "date": "1999-08-28T00:00:00+00:00",
+      "id": "s_series_00265_1_3",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_229",
+          "name": "ドン・フライ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_178",
+          "name": "東京・明治神宮野球場"
+        }
+      ],
+      "title": "GINGU CLIMAX \"BATTLE OF LAST SUMMER\" 1999年8月28日 明治神宮野球場 第6試合 ドン・フライ VS スコット・ノートン"
+    },
+    {
+      "date": "1999-08-28T00:00:00+00:00",
+      "id": "s_series_00265_1_4",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_178",
+          "name": "東京・明治神宮野球場"
+        }
+      ],
+      "title": "GINGU CLIMAX \"BATTLE OF LAST SUMMER\" 1999年8月28日 明治神宮野球場 第7試合 蝶野正洋 VS 橋本真也"
+    },
+    {
+      "date": "1999-08-28T00:00:00+00:00",
+      "id": "s_series_00265_1_5",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_214",
+          "name": "藤田和之"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_237",
+          "name": "ブライアン・ジョンストン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_178",
+          "name": "東京・明治神宮野球場"
+        }
+      ],
+      "title": "GINGU CLIMAX \"BATTLE OF LAST SUMMER\" 1999年8月28日 明治神宮野球場 第1試合 藤田和之 VS ブライアン・ジョンストン"
+    },
+    {
+      "date": "1999-08-28T00:00:00+00:00",
+      "id": "s_series_00265_1_6",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_227",
+          "name": "高岩竜一"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_178",
+          "name": "東京・明治神宮野球場"
+        }
+      ],
+      "title": "GINGU CLIMAX \"BATTLE OF LAST SUMMER\" 1999年8月28日 明治神宮野球場 第2試合 獣神サンダー・ライガー＆エル・サムライ VS 大谷晋二郎＆高岩竜一"
+    },
+    {
+      "date": "1999-08-28T00:00:00+00:00",
+      "id": "s_series_00265_1_7",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_240",
+          "name": "ケンドー・カシン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_178",
+          "name": "東京・明治神宮野球場"
+        }
+      ],
+      "title": "GINGU CLIMAX \"BATTLE OF LAST SUMMER\" 1999年8月28日 明治神宮野球場 第3試合 金本浩二 VS ケンドー・カシン"
+    },
+    {
+      "date": "1999-08-28T00:00:00+00:00",
+      "id": "s_series_00265_1_8",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_178",
+          "name": "東京・明治神宮野球場"
+        }
+      ],
+      "title": "GINGU CLIMAX \"BATTLE OF LAST SUMMER\" 1999年8月28日 明治神宮野球場 第4試合 天山広吉＆小島聡 VS 藤波辰爾＆越中詩郎"
+    },
+    {
+      "date": "1999-11-01T00:00:00+00:00",
+      "id": "s_series_00270_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_246",
+          "name": "真壁伸也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ＦＡＬＬ　ＩＮ　ＢＬＡＣＫ｀９９ 1999年11月1日 広島サンプラザ 真壁伸也VS棚橋弘至"
+    },
+    {
+      "date": "1999-12-10T00:00:00+00:00",
+      "id": "s_archive_186_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1999",
+          "name": "1999"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_60",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "BATTLE FINAL 1999 1999年12月10日 大阪・大阪府立体育会館 IWGPヘビー級選手権試合 武藤敬司 VS 天龍源一郎"
+    }
+  ]
+}

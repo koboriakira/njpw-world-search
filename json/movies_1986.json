@@ -1,0 +1,2251 @@
+{
+  "movies": [
+    {
+      "date": "1986-01-03T00:00:00+00:00",
+      "id": "s_series_00064_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_51",
+          "name": "85IWGPタッグ・リーグ戦　優勝決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_82",
+          "name": "高田伸彦"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ニューイヤー・ダッシュ’86 1986年1月3日 後楽園ホール 前田日明 VS 高田伸彦"
+    },
+    {
+      "date": "1986-02-05T00:00:00+00:00",
+      "id": "s_series_00064_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_52",
+          "name": "UWF代表者決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ニューイヤー・ダッシュ’86 1986年2月5日 大阪城ホール ＵＷＦ代表者決定戦 前田日明 VS 藤原喜明"
+    },
+    {
+      "date": "1986-02-05T00:00:00+00:00",
+      "id": "s_series_00064_2_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_82",
+          "name": "高田伸彦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_83",
+          "name": "山田恵一"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ニューイヤー・ダッシュ’86 1986年2月5日 大阪城ホール アントニオ猪木＆山田恵一 VS 木戸修＆高田伸彦"
+    },
+    {
+      "date": "1986-02-06T00:00:00+00:00",
+      "id": "s_series_00064_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ニューイヤー・ダッシュ’86 1986年2月6日 両国国技館 アントニオ猪木 VS 藤原喜明"
+    },
+    {
+      "date": "1986-02-06T00:00:00+00:00",
+      "id": "s_series_00064_3_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_70",
+          "name": "ザ・コブラ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ニューイヤー・ダッシュ’86 1986年2月6日 両国国技館 IWGPジュニアヘビー級王座決定戦 ザ・コブラ VS 越中詩郎"
+    },
+    {
+      "date": "1986-03-14T00:00:00+00:00",
+      "id": "s_series_00065_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_2",
+          "name": "東京・東京体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_38",
+          "name": "星野勘太郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_92",
+          "name": "高田延彦"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ニューウェイブ・ダッシュ 1986年3月14日 東京体育館 星野勘太郎、木村健吾、藤波辰巳 VS 高田伸彦、藤原喜明、前田日明"
+    },
+    {
+      "date": "1986-03-26T00:00:00+00:00",
+      "id": "s_series_00065_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_2",
+          "name": "東京・東京体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_16",
+          "name": "上田馬之助"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_38",
+          "name": "星野勘太郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_82",
+          "name": "高田伸彦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_86",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ニューウェイブ・ダッシュ 1986年3月26日 東京体育館 ５ VS ５イリミネーションマッチ アントニオ猪木＆藤波辰巳＆木村健吾＆上田馬之助＆星野勘太郎 VS 前田日明＆藤原喜明＆木戸 修＆高田伸彦＆山崎一夫"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_10",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 藤波辰巳 VS 前田日明"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_10e",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 Tatsumi Fujinami vs. Akira Maeda (English Commentary)"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_11",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_16",
+          "name": "上田馬之助"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_87",
+          "name": "将軍KYワカマツ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 アントニオ猪木＆上田馬之助 VS アンドレ・ザ・ジャイアント＆将軍KYワカマツ"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_82",
+          "name": "高田伸彦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_83",
+          "name": "山田恵一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 山田恵一 VS 高田伸彦"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_82",
+          "name": "高田伸彦"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 坂口征二 VS 高田伸彦"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_4",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_86",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 坂口征二 VS 山崎一夫"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_5",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 坂口征二 VS 木戸修"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_6",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 越中詩郎 VS 木戸修"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_7",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 木村健吾 VS 木戸修"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_8",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 木村健吾 VS 藤原喜明"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_9",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 藤波辰巳 VS 藤原喜明"
+    },
+    {
+      "date": "1986-05-01T00:00:00+00:00",
+      "id": "s_series_00066_1_9e",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "ビッグファイター・シリーズ 1986年5月1日 両国国技館 Tatsumi Fujinami vs. Yoshiaki Fujiwara (English Commentary)"
+    },
+    {
+      "date": "1986-06-06T00:00:00+00:00",
+      "id": "s_series_00067_1_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_57",
+          "name": "第４回IWGPヘビー級王座決定リーグ戦　Ａグループ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_16",
+          "name": "上田馬之助"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "IWGPチャンピオン・シリーズ 1986年6月6日 札幌中島体育センター 第4回IWGPヘビー級王座決定リーグ戦Ｂグループ 上田馬之助 VS 前田日明"
+    },
+    {
+      "date": "1986-06-06T00:00:00+00:00",
+      "id": "s_series_00067_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_13",
+          "name": "北海道・札幌中島スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_488",
+          "name": "キューバン・アサシン"
+        }
+      ],
+      "title": "IWGPチャンピオン・シリーズ 1986年6月6日 札幌中島体育センター アントニオ猪木＆坂口征二 VS アンドレ・ザ・ジャイアント＆キューバン・アサシン"
+    },
+    {
+      "date": "1986-06-06T00:00:00+00:00",
+      "id": "s_series_00067_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_13",
+          "name": "北海道・札幌中島スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_79",
+          "name": "ジミー・スヌーカ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_581",
+          "name": "ワイルド・サモアン"
+        }
+      ],
+      "title": "IWGPチャンピオン・シリーズ 1986年6月6日 札幌中島体育センター IWGPタッグ選手権 藤波辰巳＆木村健吾 VS ジミー・スヌーカ＆ワイルド・サモアン"
+    },
+    {
+      "date": "1986-06-12T00:00:00+00:00",
+      "id": "s_series_00067_2_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_56",
+          "name": "IWGPヘビー級王座決定リーグ戦"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "IWGPチャンピオン・シリーズ 1986年6月12日 大阪城ホール IWGPヘビー級王座決定リーグ戦 藤波辰巳 VS 前田日明"
+    },
+    {
+      "date": "1986-06-12T00:00:00+00:00",
+      "id": "s_series_00067_2_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_16",
+          "name": "上田馬之助"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_59",
+          "name": "ディック・マードック"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_80",
+          "name": "マスクド・スーパースター"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "IWGPチャンピオン・シリーズ 1986年6月12日 大阪城ホール 坂口征二＆木村健吾＆上田馬之助 VS アンドレ・ザ・ジャイアント＆ディック・マードック＆マスクド・スーパースター"
+    },
+    {
+      "date": "1986-06-17T00:00:00+00:00",
+      "id": "s_series_00067_3_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_16",
+          "name": "愛知・愛知県体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_57",
+          "name": "第４回IWGPヘビー級王座決定リーグ戦　Ａグループ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "IWGPチャンピオン・シリーズ 1986年6月17日 愛知県体育館 第4回IWGPヘビー級王座決定リーグ戦Ａグループ アントニオ猪木 VS アンドレ・ザ・ジャイアント"
+    },
+    {
+      "date": "1986-06-19T00:00:00+00:00",
+      "id": "s_series_00067_4_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_58",
+          "name": "第４回IWGPヘビー級王座決定戦"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_59",
+          "name": "ディック・マードック"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_16",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "IWGPチャンピオン・シリーズ 1986年6月19日 両国国技館 第4回IWGPヘビー級王座決定戦 アントニオ猪木 VS ディック・マードック"
+    },
+    {
+      "date": "1986-06-19T00:00:00+00:00",
+      "id": "s_series_00067_4_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_79",
+          "name": "ジミー・スヌーカ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_581",
+          "name": "ワイルド・サモアン"
+        }
+      ],
+      "title": "IWGPチャンピオン・シリーズ 1986年6月19日 両国国技館 前田日明＆木戸修 VS ジミー・スヌーカ＆ワイルド・サモアン"
+    },
+    {
+      "date": "1986-07-25T00:00:00+00:00",
+      "id": "s_series_00068_2_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_66",
+          "name": "秋田・秋田県立体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_124",
+          "name": "スティーブ・ウィリアムス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_73",
+          "name": "バッドニュース・アレン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'86 バーニング・スピリット・イン・サマー 1986年7月25日 秋田県立体育館 前田日明＆藤原喜明 VS スティーブ・ウィリアムス＆バッドニュース・アレン"
+    },
+    {
+      "date": "1986-07-25T00:00:00+00:00",
+      "id": "s_series_00068_2_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_66",
+          "name": "秋田・秋田県立体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_437",
+          "name": "アレックス・スミルノフ"
+        }
+      ],
+      "title": "'86 バーニング・スピリット・イン・サマー 1986年7月25日 秋田県立体育館 アントニオ猪木 VS アレックス・スミルノフ"
+    },
+    {
+      "date": "1986-07-25T00:00:00+00:00",
+      "id": "s_series_00068_2_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_66",
+          "name": "秋田・秋田県立体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_220",
+          "name": "ケンドー・ナガサキ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_572",
+          "name": "ミスターポーゴ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'86 バーニング・スピリット・イン・サマー 1986年7月25日 秋田県立体育館 IWGPタッグ選手権 藤波辰巳＆木村健吾 VS ケンドー・ナガサキ＆ミスターポーゴ"
+    },
+    {
+      "date": "1986-08-05T00:00:00+00:00",
+      "id": "s_series_00068_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'86 バーニング・スピリット・イン・サマー 1986年8月5日 両国国技館 IWGPタッグ選手権試合 藤波辰巳＆木村健吾 VS 前田日明＆木戸修"
+    },
+    {
+      "date": "1986-08-05T00:00:00+00:00",
+      "id": "s_series_00068_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_82",
+          "name": "高田伸彦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "'86 バーニング・スピリット・イン・サマー 1986年8月5日 両国国技館 IWGPジュニアヘビー級選手権試合 高田伸彦 VS 越中詩郎"
+    },
+    {
+      "date": "1986-09-16T00:00:00+00:00",
+      "id": "s_series_00069_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_74",
+          "name": "ブルーザー・ブロディ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディ・ファイト・シリーズ＆ファン感謝スーパー・ファイト 1986年9月16日 大阪城ホール アントニオ猪木 VS ブルーザー・ブロディ"
+    },
+    {
+      "date": "1986-09-19T00:00:00+00:00",
+      "id": "s_series_00070_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_4",
+          "name": "福岡・福岡スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_74",
+          "name": "ブルーザー・ブロディ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "チャレンジ・スピリット’86 1986年9月19日 福岡スポーツセンター 藤波辰巳 VS ブルーザー・ブロディ"
+    },
+    {
+      "date": "1986-10-09T00:00:00+00:00",
+      "id": "s_series_00071_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_61",
+          "name": "プロレス対マーシャルアーツ異種格闘技戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_88",
+          "name": "ドン・ナカヤ・ニールセン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_16",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "INOKI闘魂LIVEパート1 1986年10月9日 両国国技館 プロレス対マーシャルアーツ異種格闘技戦 前田日明 VS ドン・ナカヤ・ニールセン"
+    },
+    {
+      "date": "1986-10-20T00:00:00+00:00",
+      "id": "s_series_00305_1_01",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_82",
+          "name": "高田伸彦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_99",
+          "name": "神奈川・神奈川県社会工業体育館"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ '86 1986年10月20日 神奈川県社会工業体育館 越中詩郎 木村健吾 VS 高田伸彦 木戸修"
+    },
+    {
+      "date": "1986-11-03T00:00:00+00:00",
+      "id": "s_series_00072_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_89",
+          "name": "ケビン・フォン・エリック"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "A猪木レスラー生活25周年記念闘魂シリーズ 1986年11月3日 後楽園ホール アントニオ猪木＆ケビン・フォン・エリック VS 木村健吾＆武藤敬司"
+    },
+    {
+      "date": "1986-12-10T00:00:00+00:00",
+      "id": "s_series_00073_2_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’86ジャパン・カップ争奪タッグ・リーグ戦 1986年12月10日 大阪城ホール 藤波辰巳 VS 木村健吾"
+    },
+    {
+      "date": "1986-12-10T00:00:00+00:00",
+      "id": "s_series_00073_2_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_103",
+          "name": "ジョージ高野"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_220",
+          "name": "ケンドー・ナガサキ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_572",
+          "name": "ミスターポーゴ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’86ジャパン・カップ争奪タッグ・リーグ戦 1986年12月10日 大阪城ホール 武藤敬司＆ジョージ高野 VS ケンドーナガサキ＆ミスターポーゴ"
+    },
+    {
+      "date": "1986-12-10T00:00:00+00:00",
+      "id": "s_series_00073_2_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_68",
+          "name": "前田明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’86ジャパン・カップ争奪タッグ・リーグ戦 1986年12月10日 大阪城ホール アントニオ猪木＆藤原喜明 VS 前田日明＆木戸修"
+    },
+    {
+      "date": "1986-12-11T00:00:00+00:00",
+      "id": "s_series_00073_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_62",
+          "name": "ジャパンカップ争奪タッグ・リーグ戦　優勝決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1986",
+          "name": "1986"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_62_1",
+          "name": "ジャパンカップ争奪タッグ・リーグ戦"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’86ジャパン・カップ争奪タッグ・リーグ戦 1986年12月11日 両国国技館 ジャパンカップ争奪タッグ・リーグ戦 優勝決定戦 アントニオ猪木＆藤原喜明 VS 前田日明＆木戸修"
+    }
+  ]
+}

@@ -1,0 +1,1000 @@
+{
+  "movies": [
+    {
+      "date": "1980-02-05T00:00:00+00:00",
+      "id": "s_series_00029_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_16",
+          "name": "愛知・愛知県体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_34",
+          "name": "ダイナマイト・キッド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1980年2月5日 愛知県体育館 ＷＷＦジュニア・ヘビー級選手権試合 藤波辰巳 VS ダイナマイト・キッド"
+    },
+    {
+      "date": "1980-02-08T00:00:00+00:00",
+      "id": "s_series_00029_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_2",
+          "name": "東京・東京体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_24",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_6",
+          "name": "NWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1980年2月8日 東京体育館 NWFヘビー級選手権試合 アントニオ猪木 VS スタン・ハンセン"
+    },
+    {
+      "date": "1980-02-27T00:00:00+00:00",
+      "id": "s_series_00030_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_17",
+          "name": "格闘技世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_223",
+          "name": "ウィリー・ウィリアムス"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_13",
+          "name": "中島成雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "格闘技世界ヘビー級選手権試合＆ビッグ・ファイト・シリーズ 1980年2月27日 蔵前国技館 格闘技世界ヘビー級選手権試合 アントニオ猪木 VS ウィリー・ウイリアムス"
+    },
+    {
+      "date": "1980-04-03T00:00:00+00:00",
+      "id": "s_series_00030_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_36",
+          "name": "阿修羅・原"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "格闘技世界ヘビー級選手権試合＆ビッグ・ファイト・シリーズ 1980年4月3日 蔵前国技館 ＷＷＦジュニア・ヘビー級選手権試合 藤波辰巳 VS 阿修羅・原"
+    },
+    {
+      "date": "1980-04-03T00:00:00+00:00",
+      "id": "s_series_00030_2_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_24",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_6",
+          "name": "NWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "格闘技世界ヘビー級選手権試合＆ビッグ・ファイト・シリーズ 1980年4月3日 蔵前国技館 NWFヘビー級選手権試合 スタン・ハンセン VS アントニオ猪木"
+    },
+    {
+      "date": "1980-04-04T00:00:00+00:00",
+      "id": "s_series_00030_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_17",
+          "name": "神奈川・川崎市体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_25",
+          "name": "山本小鉄試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_37",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_38",
+          "name": "星野勘太郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_39",
+          "name": "鶴見五郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_40",
+          "name": "大位山勝三"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "格闘技世界ヘビー級選手権試合＆ビッグ・ファイト・シリーズ 1980年4月4日 川崎市体育館 山本小鉄試合 山本小鉄＆星野勘太郎 VS 鶴見五郎＆大位山勝三"
+    },
+    {
+      "date": "1980-04-13T00:00:00+00:00",
+      "id": "s_series_00030_4_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_19",
+          "name": "メキシコ・エル・トレオ・デ・クアトロ・カミノス（メキシコシティ）"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_26",
+          "name": "UWA世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_41",
+          "name": "佐山サトル"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_42",
+          "name": "グラン浜田"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_43",
+          "name": "ベビー・フェイス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_44",
+          "name": "ペロ・アグアヨ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "格闘技世界ヘビー級選手権試合＆ビッグ・ファイト・シリーズ 1980年4月13日 メキシコシティ・トレオ・デ・クアトロ・カミノス 佐山サトル＆グラン浜田  VS  ベビー・フェイス＆ペロ・アグアヨ"
+    },
+    {
+      "date": "1980-04-13T00:00:00+00:00",
+      "id": "s_series_00030_4_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_19",
+          "name": "メキシコ・エル・トレオ・デ・クアトロ・カミノス（メキシコシティ）"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_26",
+          "name": "UWA世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "格闘技世界ヘビー級選手権試合＆ビッグ・ファイト・シリーズ 1980年4月13日 メキシコシティ・トレオ・デ・クアトロ・カミノス UWA世界ヘビー級選手権試合 タイガー・ジェット・シン VS アントニオ猪木"
+    },
+    {
+      "date": "1980-05-09T00:00:00+00:00",
+      "id": "s_series_00031_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_4",
+          "name": "福岡・福岡スポーツセンター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_45",
+          "name": "チャボ・ゲレロ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "第3回MSGシリーズ 1980年5月9日 福岡スポーツセンター WWFジュニア・ヘビー級選手権試合 藤波辰巳 VS チャボ・ゲレロ"
+    },
+    {
+      "date": "1980-06-05T00:00:00+00:00",
+      "id": "s_series_00238_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "第3回MSGシリーズ 1980年6月5日 蔵前国技館 スタンハンセン VS アンドレ・ザ・ジャイアント"
+    },
+    {
+      "date": "1980-06-05T00:00:00+00:00",
+      "id": "s_series_00238_1_1en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_50",
+          "name": "熊本・熊本市体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "第3回MSGシリーズ 1980年6月5日 蔵前国技館 2nd MSG series: Andre the Giant VS. Stan Hansen (English Commentary)"
+    },
+    {
+      "date": "1980-08-09T00:00:00+00:00",
+      "id": "s_series_00032_3_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_45",
+          "name": "チャボ・ゲレロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディ・ファイト・シリーズ＆ファン感謝スーパー・ファイト 1980年8月9日 米国ニューヨーク州 センチュリー・シェア・スタジアム WWFジュニア・ヘビー級選手権試合 藤波辰巳VSチャボ・ゲレロ"
+    },
+    {
+      "date": "1980-09-25T00:00:00+00:00",
+      "id": "s_series_00032_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_3",
+          "name": "広島・広島県立体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_24",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_6",
+          "name": "NWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディ・ファイト・シリーズ＆ファン感謝スーパー・ファイト 1980年9月25日 広島県立体育館 ＮＷＦヘビー級選手権試合 アントニオ猪木 VS スタン・ハンセン"
+    },
+    {
+      "date": "1980-09-30T00:00:00+00:00",
+      "id": "s_series_00032_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_28",
+          "name": "WWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_32",
+          "name": "ボブ・バックランド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディ・ファイト・シリーズ＆ファン感謝スーパー・ファイト 1980年9月30日 日本武道館 WWF世界ヘビー級選手権試合 ボブ・バックランド VS スタン・ハンセン"
+    },
+    {
+      "date": "1980-12-10T00:00:00+00:00",
+      "id": "s_series_00033_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_29",
+          "name": "第１回MSGタッグリーグ優勝決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_32",
+          "name": "ボブ・バックランド"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "第1回MSGタッグ・リーグ戦 1980年12月10日 大阪府立体育会館 第１回ＭＳＧタッグリーグ優勝決定戦 アントニオ猪木＆ボブ・バックランド VS スタン・ハンセン＆ハルク・ホーガン"
+    },
+    {
+      "date": "1980-12-29T00:00:00+00:00",
+      "id": "s_archive_120_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_9",
+          "name": "アメリカ・マディソン・スクエア・ガーデン（ニューヨーク）"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_760",
+          "name": "ワイルド・サモアン1号"
+        }
+      ],
+      "title": "新春プロレススペシャル 1980年12月29日 アメリカ・マディソン・スクエア・ガーデン 坂口征二 VS ワイルド・サモアン1号"
+    },
+    {
+      "date": "1980-12-29T00:00:00+00:00",
+      "id": "s_archive_120_1_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_9",
+          "name": "アメリカ・マディソン・スクエア・ガーデン（ニューヨーク）"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_761",
+          "name": "ダン・ダイヤモンド"
+        }
+      ],
+      "title": "新春プロレススペシャル 1980年12月29日 アメリカ・マディソン・スクエア・ガーデン 藤波辰爾 VS ダン・ダイヤモンド"
+    },
+    {
+      "date": "1980-12-29T00:00:00+00:00",
+      "id": "s_archive_120_1_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_9",
+          "name": "アメリカ・マディソン・スクエア・ガーデン（ニューヨーク）"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980",
+          "name": "1980"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_743",
+          "name": "ボビー・ダンカン"
+        }
+      ],
+      "title": "新春プロレススペシャル 1980年12月29日 アメリカ・マディソン・スクエア・ガーデン アントニオ猪木 VS ボビー・ダンカン"
+    }
+  ]
+}

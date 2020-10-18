@@ -1,0 +1,2316 @@
+{
+  "movies": [
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_1",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_100",
+          "name": "超戦士 IN 闘強導夢オープニングマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_152",
+          "name": "ブラック・キャット"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_153",
+          "name": "山本広吉"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第1試合 超戦士 IN 闘強導夢オープニングマッチ ブラック・キャット VS 山本広吉"
+    },
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_10",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_101",
+          "name": "ドリームタッグマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_144",
+          "name": "スコット・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_145",
+          "name": "リック・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_150",
+          "name": "スティング"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第10試合 ドリームタッグマッチ スティング＆グレート・ムタ VS スコット・スタイナー＆リック・スタイナー"
+    },
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_11",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_102",
+          "name": "WCW世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_154",
+          "name": "レックス・ルガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第11試合 ＷＣＷ世界ヘビー級選手権試合 レックス・ルガー VS 蝶野正洋"
+    },
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_12",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_103",
+          "name": "IWGPヘビー＆グレーテスト１８クラブ認定両選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第12試合 IWGPヘビー＆グレーテスト１８クラブ認定両選手権試合 藤波辰爾 VS 長州力"
+    },
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_2",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_38",
+          "name": "星野勘太郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第2試合 タッグマッチ 星野勘太郎＆木村健悟 VS 小林邦昭＆木戸修"
+    },
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_3",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_122",
+          "name": "保永昇男"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_130",
+          "name": "青柳政司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_252",
+          "name": "AKIRA"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第3試合 ６人タッグマッチ ＡＫＩＲＡ＆青柳政司＆獣神サンダー・ライガー VS 保永昇男＆ヒロ斎藤＆スーパー・ストロング・マシン"
+    },
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_4",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_104",
+          "name": "新日本VSＷＣＷタッグマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_125",
+          "name": "ラリー・ズビスコ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_142",
+          "name": "アーン・アンダーソン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第4試合 新日本 VS ＷＣＷタッグマッチ 小原道由＆越中詩郎 VS ラリー・ズビスコ＆アーン・アンダーソン"
+    },
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_5",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_104",
+          "name": "新日本VSＷＣＷタッグマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_156",
+          "name": "キム・ドク"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_157",
+          "name": "ダスティ・ローデスＪr."
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_31",
+          "name": "ダスティ・ローデス"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第5試合 新日本 VS ＷＣＷタッグマッチ キム・ドク＆マサ斎藤 VS ダスティ・ローデスＪr.＆ダスティ・ローデス"
+    },
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_6",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_105",
+          "name": "スーパーパワー・スペシャルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_151",
+          "name": "トニー・ホーム"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第6試合 スーパーパワー・スペシャルマッチ スコット・ノートン VS トニー・ホーム"
+    },
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_7",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_106",
+          "name": "新日本VSＷＣＷペシャルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_158",
+          "name": "ビル・カズマイヤー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第7試合 新日本 VS ＷＣＷペシャルマッチ 橋本真也 VS ビル・カズマイヤー"
+    },
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_8",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_107",
+          "name": "スーパーヘビー・スペシャルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_146",
+          "name": "エル・ヒガンテ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第8試合 スーパーヘビー・スペシャルマッチ ビッグバン・ベイダー VS エル・ヒガンテ"
+    },
+    {
+      "date": "1992-01-04T00:00:00+00:00",
+      "id": "s_series_00104_1_9",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_108",
+          "name": "スペシャルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN闘強導夢 1992年1月4日 東京ドーム 第9試合 スペシャルマッチ アントニオ猪木 VS 馳 浩"
+    },
+    {
+      "date": "1992-02-08T00:00:00+00:00",
+      "id": "s_series_00273_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_13",
+          "name": "北海道・札幌中島スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_159",
+          "name": "齋藤彰俊"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’92 1992年2月8日 札幌中島体育センター プロレス対空手・異種格闘技戦 小原道由VS齋藤彰俊"
+    },
+    {
+      "date": "1992-02-08T00:00:00+00:00",
+      "id": "s_series_00273_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_119",
+          "name": "野上彰"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_121",
+          "name": "ペガサス・キッド"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_582",
+          "name": "ブラッド・アームストロング"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’92 1992年2月8日 札幌中島体育センター 橋本真也＆野上彰 VS ブラッドアームストロング＆ペガサスキッド"
+    },
+    {
+      "date": "1992-02-08T00:00:00+00:00",
+      "id": "s_series_00273_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_151",
+          "name": "トニー・ホーム"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’92 1992年2月8日 札幌中島体育センター スコット・ノートン VS トニー・ホーム"
+    },
+    {
+      "date": "1992-02-08T00:00:00+00:00",
+      "id": "s_series_00273_1_4",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’92 1992年2月8日 札幌中島体育センター 藤波辰爾＆越中詩郎 VS 馳浩＆武藤敬司"
+    },
+    {
+      "date": "1992-02-08T00:00:00+00:00",
+      "id": "s_series_00273_1_5",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_122",
+          "name": "保永昇男"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’92 1992年2月8日 札幌中島体育センター IWGPジュニアWCW世界ライトヘビー級ダブルタイトルマッチ 獣神サンダー・ライガー VS 保永昇男"
+    },
+    {
+      "date": "1992-02-08T00:00:00+00:00",
+      "id": "s_series_00273_1_6",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_554",
+          "name": "ムッシュランボー"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’92 1992年2月8日 札幌中島体育センター 長州力＆蝶野正洋 VS クラッシャー・バンバン・ビガロ＆ムッシュランボー"
+    },
+    {
+      "date": "1992-03-01T00:00:00+00:00",
+      "id": "s_series_00105_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_44",
+          "name": "神奈川・横浜アリーナ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN横浜アリーナ＆’92ビッグファイト・シリーズ 1992年3月1日 神奈川・横浜アリーナ 20周年記念特別試合 アントニオ猪木＆木戸修 VS 長州力＆木村健吾"
+    },
+    {
+      "date": "1992-03-09T00:00:00+00:00",
+      "id": "s_series_00105_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_15",
+          "name": "京都・京都府立体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_109",
+          "name": "プロレス対空手・異種格闘技タッグマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_130",
+          "name": "青柳政司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_159",
+          "name": "齋藤彰俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN横浜アリーナ＆’92ビッグファイト・シリーズ 1992年3月9日 京都府立体育館 プロレス対空手・異種格闘技タッグマッチ 越中詩郎＆小林邦昭 VS 青柳政司＆齋藤彰俊"
+    },
+    {
+      "date": "1992-04-30T00:00:00+00:00",
+      "id": "s_series_00106_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_111",
+          "name": "プロレス対空手・異種格闘技戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_159",
+          "name": "齋藤彰俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "エクスプロージョン・ツアー’92 1992年4月30日 両国国技館 プロレス対空手 異種格闘技戦 小林邦昭 VS 齋藤彰俊"
+    },
+    {
+      "date": "1992-04-30T00:00:00+00:00",
+      "id": "s_series_00106_1_09",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "エクスプロージョン・ツアー’92 1992年4月30日 両国国技館 第3回 TOP OF THE SUPER Jr. 優勝決定戦 獣神サンダー・ライガー VS エル・サムライ"
+    },
+    {
+      "date": "1992-05-01T00:00:00+00:00",
+      "id": "s_series_00106_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_45",
+          "name": "千葉・千葉ポートアリーナ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_111",
+          "name": "プロレス対空手・異種格闘技戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_130",
+          "name": "青柳政司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "エクスプロージョン・ツアー’92 1992年5月1日 千葉ポートアリーナ プロレス対空手・異種格闘技戦 越中詩郎 VS 青柳政司"
+    },
+    {
+      "date": "1992-05-01T00:00:00+00:00",
+      "id": "s_series_00106_2_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_45",
+          "name": "千葉・千葉ポートアリーナ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "エクスプロージョン・ツアー’92 1992年5月1日 千葉ポートアリーナ クラッシャー・バンバン・ビガロ＆ビッグバン・ベイダー VS 武藤敬司＆馳浩"
+    },
+    {
+      "date": "1992-05-17T00:00:00+00:00",
+      "id": "s_series_00321_01_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_99",
+          "name": "特別特集"
+        }
+      ],
+      "title": "超戦士IN大阪城ホール OVER HEAT NIGHT 1992年5月17日 大阪城ホール IWGPヘビー級選手権試合 長州力 VS 武藤敬司"
+    },
+    {
+      "date": "1992-05-17T00:00:00+00:00",
+      "id": "s_series_00321_01_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_151",
+          "name": "トニー・ホーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN大阪城ホール OVER HEAT NIGHT 1992年5月17日 大阪城ホール トニーホーム VS ビッグバンベイダー"
+    },
+    {
+      "date": "1992-05-17T00:00:00+00:00",
+      "id": "s_series_00321_01_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_121",
+          "name": "ペガサス・キッド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_849",
+          "name": "タイガーマスク（3代目）"
+        }
+      ],
+      "title": "超戦士IN大阪城ホール OVER HEAT NIGHT 1992年5月17日 大阪城ホール ペガサスキッド VS タイガーマスク"
+    },
+    {
+      "date": "1992-05-17T00:00:00+00:00",
+      "id": "s_series_00321_01_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_123",
+          "name": "ブラッド・レイガンス"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_554",
+          "name": "ムッシュランボー"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN大阪城ホール OVER HEAT NIGHT 1992年5月17日 大阪城ホール アントニオ猪木 馳浩 VS ブラッドレイガンズ ムッシュランボー"
+    },
+    {
+      "date": "1992-05-17T00:00:00+00:00",
+      "id": "s_series_00321_01_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_555",
+          "name": "ザ・グレート・オズ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN大阪城ホール OVER HEAT NIGHT 1992年5月17日 大阪城ホール ザ・グレート・オズ VS 橋本真也"
+    },
+    {
+      "date": "1992-05-17T00:00:00+00:00",
+      "id": "s_series_00321_01_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "超戦士IN大阪城ホール OVER HEAT NIGHT 1992年5月17日 大阪城ホール IWGPジュニアヘビー級選手権試合 獣神サンダー・ライガー VS エルサムライ"
+    },
+    {
+      "date": "1992-05-17T00:00:00+00:00",
+      "id": "s_series_00321_1_5en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_555",
+          "name": "ザ・グレート・オズ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "超戦士IN大阪城ホール OVER HEAT NIGHT 1992年5月17日 大阪城ホール Great OZ VS. Hashimoto Shinya (English Commentary)"
+    },
+    {
+      "date": "1992-06-26T00:00:00+00:00",
+      "id": "s_series_00107_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_160",
+          "name": "スタイナー・ブラザーズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "マスターズ・オブ・レスルング＆DRAGON THE REVIVAL 1992年6月26日 日本武道館 IWGPタッグ選手権試合 ビッグバン・ベイダー＆クラッシャー・バンバン・ビガロ VS スタイナー・ブラザーズ"
+    },
+    {
+      "date": "1992-07-31T00:00:00+00:00",
+      "id": "s_series_00108_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’92サマー・ストラグル 1992年7月31日 札幌中島体育センター 蝶野正洋 VS 越中詩郎"
+    },
+    {
+      "date": "1992-08-12T00:00:00+00:00",
+      "id": "s_series_00109_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_112",
+          "name": "G1 CLIMAX 2"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_113",
+          "name": "NWA世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_161",
+          "name": "リック・ルード"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "G1 CLIMAX 1992 1992年8月12日 両国国技館 第2回 G1 CLIMAX NWA世界ヘビー級王座決定トーナメント決勝戦 蝶野正洋 VS リック・ルード"
+    },
+    {
+      "date": "1992-08-12T00:00:00+00:00",
+      "id": "s_series_00109_1_1en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_112",
+          "name": "G1 CLIMAX 2"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_24",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_6",
+          "name": "NWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_161",
+          "name": "リック・ルード"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "G1 CLIMAX 1992 1992年8月12日 両国国技館 2nd G1 CLIMAX NWA World Heavyweight Championship tournament finals Masahiro Chono VS. Rick Rude (English Commentary)"
+    },
+    {
+      "date": "1992-08-15T00:00:00+00:00",
+      "id": "s_series_00110_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_46",
+          "name": "兵庫・ワールド記念ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_130",
+          "name": "青柳政司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "G1 CLIMAX SPECIAL 1992 1992年8月15日 神戸ワールド記念ホール 藤波辰爾＆長州力＆木戸 修 VS 木村健悟＆越中詩郎＆青柳政司"
+    },
+    {
+      "date": "1992-09-23T00:00:00+00:00",
+      "id": "s_series_00111_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_44",
+          "name": "神奈川・横浜アリーナ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_113",
+          "name": "NWA世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_162",
+          "name": "スティーブ・オースチン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "BATTLE AUTUMN'92＆BATTLE HOLD ARENA 1992年9月23日 横浜アリーナ NWA世界ヘビー級選手権試合 蝶野正洋 VS スティーブ・オースチン"
+    },
+    {
+      "date": "1992-09-23T00:00:00+00:00",
+      "id": "s_series_00111_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_44",
+          "name": "神奈川・横浜アリーナ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "BATTLE AUTUMN'92＆BATTLE HOLD ARENA 1992年9月23日 横浜アリーナ IWGPヘビー級選手権試合 グレート・ムタ VS 橋本真也"
+    },
+    {
+      "date": "1992-10-23T00:00:00+00:00",
+      "id": "s_series_00274_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_175",
+          "name": "北原光騎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ＷＡＲ興行ノンタイトル   1992年10月23日 後楽園ホール 越中詩郎＆木村健悟VS天龍源一郎＆北原光騎"
+    },
+    {
+      "date": "1992-11-23T00:00:00+00:00",
+      "id": "s_series_00112_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_130",
+          "name": "青柳政司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_173",
+          "name": "石川敬士"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_175",
+          "name": "北原光騎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_21",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "レスリング・スクランブル’92＆両国BATTLE ZONE SPACE I・II 1992年11月23日 両国国技館 木村健悟&越中詩郎&青柳政司 VS 天龍源一郎&石川敬士&北原光騎"
+    },
+    {
+      "date": "1992-12-14T00:00:00+00:00",
+      "id": "s_series_00113_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1992",
+          "name": "1992"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "バトル・ファイナル’92 1992年12月14日 大阪府立体育会館 越中詩郎 VS 天龍源一郎"
+    }
+  ]
+}

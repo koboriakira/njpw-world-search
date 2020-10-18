@@ -1,0 +1,289 @@
+{
+  "movies": [
+    {
+      "date": "1977-02-02T00:00:00+00:00",
+      "id": "s_series_00014_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_9",
+          "name": "NWA北米タッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_16",
+          "name": "上田馬之助"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_6",
+          "name": "ストロング小林"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1977",
+          "name": "1977"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1977年2月2日 大阪府立体育会館 NWA北米タッグ選手権試合 坂口征二＆ストロング小林 VS タイガー・ジェット・シン＆上田馬之助"
+    },
+    {
+      "date": "1977-04-01T00:00:00+00:00",
+      "id": "s_series_00015_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_9",
+          "name": "NWA北米タッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_16",
+          "name": "上田馬之助"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1977",
+          "name": "1977"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "第4回ワールド・リーグ戦 1977年4月1日 蔵前国技館 NWA北米タッグ選手権 アントニオ猪木＆坂口征二 VS タイガー・ジェット・シン＆上田馬之助"
+    },
+    {
+      "date": "1977-08-02T00:00:00+00:00",
+      "id": "s_series_00016_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_10",
+          "name": "格闘技世界一決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_17",
+          "name": "ザ・モンスターマン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1977",
+          "name": "1977"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "アジア・チャンピオン・シリーズ＆世界格闘技世界一決定戦 1977年8月2日 日本武道館 格闘技世界一決定戦 アントニオ猪木 VS ザ・モンスターマン"
+    },
+    {
+      "date": "1977-10-25T00:00:00+00:00",
+      "id": "s_series_00017_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_10",
+          "name": "格闘技世界一決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_18",
+          "name": "チャック・ウェップナー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1977",
+          "name": "1977"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "格闘技世界一決定戦 1977年10月25日 日本武道館 格闘技世界一決定戦 アントニオ猪木 VS チャック・ウェップナー"
+    },
+    {
+      "date": "1977-12-08T00:00:00+00:00",
+      "id": "s_series_00018_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_19",
+          "name": "グレート・アントニオ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1977",
+          "name": "1977"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ第2弾 1977年12月8日 蔵前国技館　 アントニオ猪木 VS グレート・アントニオ"
+    }
+  ]
+}

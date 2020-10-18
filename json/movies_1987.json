@@ -1,0 +1,931 @@
+{
+  "movies": [
+    {
+      "date": "1987-02-04T00:00:00+00:00",
+      "id": "s_series_00074_2_1",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_103",
+          "name": "ジョージ高野"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_86",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_92",
+          "name": "高田延彦"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_98",
+          "name": "岐阜・岐阜産業会館 "
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ニューイヤー・ダッシュ’87 1987年2月4日 岐阜産業会館 後藤達俊 ジョージ高野 越中詩郎 VS 山崎 一夫 高田伸彦 木戸修"
+    },
+    {
+      "date": "1987-02-05T00:00:00+00:00",
+      "id": "s_series_00074_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_82",
+          "name": "高田伸彦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ニューイヤー・ダッシュ’87 1987年2月5日 両国国技館 IWGPジュニアヘビー級選手権試合 越中詩郎 VS 高田伸彦"
+    },
+    {
+      "date": "1987-03-20T00:00:00+00:00",
+      "id": "s_series_00075_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_323",
+          "name": "IWGPタッグ王座決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_82",
+          "name": "高田伸彦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "スプリング・フレアーアップ’87 1987年3月20日 後楽園ホール IWGPタッグ王座決定戦 武藤敬司＆越中詩郎 VS 前田日明＆高田伸彦"
+    },
+    {
+      "date": "1987-03-20T00:00:00+00:00",
+      "id": "s_series_00075_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_64",
+          "name": "第３回ヤングライオン杯争奪リーグ戦　優勝決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "スプリング・フレアーアップ’87 1987年3月20日 後楽園ホール 第３回ヤングライオン杯争奪リーグ戦 優勝決定戦 橋本真也 VS 蝶野正洋"
+    },
+    {
+      "date": "1987-03-26T00:00:00+00:00",
+      "id": "s_series_00076_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_82",
+          "name": "高田伸彦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "INOKI闘魂LIVEパート2 1987年3月26日 大阪城ホール IWGPタッグ選手権試合 武藤敬司＆越中詩郎 VS 前田日明＆高田伸彦"
+    },
+    {
+      "date": "1987-03-26T00:00:00+00:00",
+      "id": "s_series_00076_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "INOKI闘魂LIVEパート2 1987年3月26日 大阪城ホール アントニオ猪木 VS マサ斎藤"
+    },
+    {
+      "date": "1987-04-27T00:00:00+00:00",
+      "id": "s_series_00077_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブレイジング・チェリーブロッサム・ビガロ’87 1987年4月27日 両国国技館 アントニオ猪木 VS マサ斎藤"
+    },
+    {
+      "date": "1987-05-18T00:00:00+00:00",
+      "id": "s_series_00078_1_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_25",
+          "name": "千葉・千葉公園体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_65",
+          "name": "第５回IWGPヘビー級王座決定リーグ戦　Bグループ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’87IWGPチャンピオン・シリーズ 1987年5月18日 千葉公園体育館 第5回IWGPヘビー級王座決定リーグ戦 Bグループ 前田日明 VS マサ斎藤"
+    },
+    {
+      "date": "1987-06-12T00:00:00+00:00",
+      "id": "s_series_00078_2_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_66",
+          "name": "第５回IWGPヘビー級王座決定戦"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_16",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_17",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’87IWGPチャンピオン・シリーズ 1987年6月12日 両国国技館 第5回IWGPヘビー級王座決定戦 アントニオ猪木 VS マサ斎藤"
+    },
+    {
+      "date": "1987-08-02T00:00:00+00:00",
+      "id": "s_archive_143_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ʼ87ビッグサマーファイトシリーズ 1987年8月2日 東京・両国国技館 IWGPヘビー級選手権試合 アントニオ猪木 VS クラッシャー・バンバン・ビガロ"
+    },
+    {
+      "date": "1987-08-20T00:00:00+00:00",
+      "id": "s_series_00079_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "サマー・ナイト・フィーバー・イン国技館 1987年8月20日 両国国技館 アントニオ猪木＆武藤敬司 VS 藤波辰巳＆長州力"
+    },
+    {
+      "date": "1987-09-01T00:00:00+00:00",
+      "id": "s_series_00080_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_30",
+          "name": "福岡・福岡国際センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_81",
+          "name": "前田日明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_86",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_92",
+          "name": "高田延彦"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "戦国合戦シリーズ 1987年9月1日 福岡国際センター IWGPタッグ選手権試合 前田日明＆高田延彦 VS 藤原喜明＆山崎一夫"
+    },
+    {
+      "date": "1987-09-14T00:00:00+00:00",
+      "id": "s_series_00080_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_31",
+          "name": "岡山・岡山武道館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_92",
+          "name": "高田延彦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "戦国合戦シリーズ 1987年9月14日 岡山武道館 アントニオ猪木＆高田延彦＆武藤敬司 VS 藤波辰巳＆スーパー・ストロング・マシン＆小林邦昭"
+    },
+    {
+      "date": "1987-10-04T00:00:00+00:00",
+      "id": "s_archive_243",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_208",
+          "name": "巌流島"
+        }
+      ],
+      "title": "巌流島決戦 1987年10月4日 巌流島 アントニオ猪木 VS マサ斎藤"
+    },
+    {
+      "date": "1987-12-27T00:00:00+00:00",
+      "id": "s_series_00081_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_22",
+          "name": "アントニオ猪木 視聴数ベスト10"
+        }
+      ],
+      "title": "’87イヤーエンド・イン国技館 1987年12月27日 両国国技館 藤波辰巳&木村健吾 VS マサ斎藤&長州力 アントニオ猪木 VS 長州力 アントニオ猪木 VS ビッグバン・ベイダー"
+    },
+    {
+      "date": "1987-12-27T00:00:00+00:00",
+      "id": "s_series_00081_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_83",
+          "name": "山田恵一"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_95",
+          "name": "船木優治"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1987",
+          "name": "1987"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’87イヤーエンド・イン国技館 1987年12月27日 両国国技館 山田恵一 VS 船木優治"
+    }
+  ]
+}

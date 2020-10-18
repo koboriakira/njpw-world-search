@@ -1,0 +1,898 @@
+{
+  "movies": [
+    {
+      "date": "2003-01-04T00:00:00+00:00",
+      "id": "s_series_00162_1_1",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_215",
+          "name": "西村修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2003 2003年1月4日 東京ドーム 第1試合 西村修 VS 藤波辰爾"
+    },
+    {
+      "date": "2003-01-04T00:00:00+00:00",
+      "id": "s_series_00162_1_10",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_212",
+          "name": "KING OF GLADIATOR Final NWF 王座決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_212",
+          "name": "高山善廣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_268",
+          "name": "高阪剛"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2003 2003年1月4日 東京ドーム 第10試合 KING OF GLADIATOR Final NWF 王座決定戦 高山善広 VS 高阪剛"
+    },
+    {
+      "date": "2003-01-04T00:00:00+00:00",
+      "id": "s_series_00162_1_11",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_269",
+          "name": "ジョシュ・バーネット"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2003 2003年1月4日 東京ドーム 第11試合 IWGPヘビー級選手権試合 永田裕志 VS ジョシュ・バーネット"
+    },
+    {
+      "date": "2003-01-04T00:00:00+00:00",
+      "id": "s_series_00162_1_2",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_213",
+          "name": "ヤングジェネレーション杯"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_226",
+          "name": "吉江豊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_246",
+          "name": "真壁伸也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2003 2003年1月4日 東京ドーム 第2試合 ヤングジェネレーション杯 吉江豊 VS 真壁伸也"
+    },
+    {
+      "date": "2003-01-04T00:00:00+00:00",
+      "id": "s_series_00162_1_3",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_213",
+          "name": "ヤングジェネレーション杯"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_255",
+          "name": "鈴木健想"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_270",
+          "name": "柳澤龍志"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2003 2003年1月4日 東京ドーム 第3試合 ヤングジェネレーション杯 鈴木健想 VS 柳澤龍志"
+    },
+    {
+      "date": "2003-01-04T00:00:00+00:00",
+      "id": "s_series_00162_1_4",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_271",
+          "name": "魔界1号"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_272",
+          "name": "大魔人"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2003 2003年1月4日 東京ドーム 第4試合 魔界1号＆大魔人 VS ヒロ斎藤＆後藤達俊"
+    },
+    {
+      "date": "2003-01-04T00:00:00+00:00",
+      "id": "s_series_00162_1_5",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_214",
+          "name": "魔界倶楽部総裁指名試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_210",
+          "name": "垣原賢人"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_273",
+          "name": "魔界4号"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_274",
+          "name": "魔界5号"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2003 2003年1月4日 東京ドーム 第5試合 魔界倶楽部総裁指名試合 魔界4号＆魔界5号（破悧魔王'Z） VS 飯塚高史＆垣原賢人"
+    },
+    {
+      "date": "2003-01-04T00:00:00+00:00",
+      "id": "s_series_00162_1_6",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_248",
+          "name": "成瀬昌由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_276",
+          "name": "村浜武洋"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_277",
+          "name": "ヒート"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_850",
+          "name": "タイガーマスク（4代目）"
+        }
+      ],
+      "title": "WRESTLING WORLD 2003 2003年1月4日 東京ドーム 第6試合 金本浩二＆獣神サンダー・ライガー＆村浜武洋 VS ヒート＆成瀬昌由＆タイガーマスク"
+    },
+    {
+      "date": "2003-01-04T00:00:00+00:00",
+      "id": "s_series_00162_1_7",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_213",
+          "name": "ヤングジェネレーション杯"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_215",
+          "name": "ヤングジェネレーション杯　優勝決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_226",
+          "name": "吉江豊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_270",
+          "name": "柳澤龍志"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2003 2003年1月4日 東京ドーム 第7試合 ヤングジェネレーション杯 決勝戦 柳澤龍志 VS 吉江豊"
+    },
+    {
+      "date": "2003-01-04T00:00:00+00:00",
+      "id": "s_series_00162_1_8",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_182",
+          "name": "安田忠夫"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_253",
+          "name": "村上和成"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_278",
+          "name": "中邑真輔"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2003 2003年1月4日 東京ドーム 第8試合 中邑真輔＆小原道由 VS 安田忠夫＆村上和成"
+    },
+    {
+      "date": "2003-01-04T00:00:00+00:00",
+      "id": "s_series_00162_1_9",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2003 2003年1月4日 東京ドーム 第9試合 天山広吉＆小島聡 VS 蝶野正洋＆中西学"
+    },
+    {
+      "date": "2003-02-02T00:00:00+00:00",
+      "id": "s_archive_40_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_42",
+          "name": "北海道・月寒グリーンドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_246",
+          "name": "真壁伸也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_271",
+          "name": "魔界1号"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT 2003 2003年2月2日 札幌・月寒グ リーンドーム 木村健悟＆真壁伸也 VS 魔界1号＆魔界2号"
+    },
+    {
+      "date": "2003-03-09T00:00:00+00:00",
+      "id": "s_archive_62_01_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_33",
+          "name": "愛知・名古屋レインボーホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ＨＹＰＥＲ　ＢＡＴＴＬＥ 2003年3月9日 名古屋レインボーホール IWGPヘビー級選手権試合 永田裕志 VS 中西学"
+    },
+    {
+      "date": "2003-04-23T00:00:00+00:00",
+      "id": "s_archive_200_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_182",
+          "name": "安田忠夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_32",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_36",
+          "name": "安田拡了"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_138",
+          "name": "高山善廣"
+        }
+      ],
+      "title": "STRONG ENERGY 2003 2003年4月23日 広島・広島サンプラザホール IWGPヘビー級選手権試合 永田裕志 VS 安田忠夫"
+    },
+    {
+      "date": "2003-05-02T00:00:00+00:00",
+      "id": "s_series_00163_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_208",
+          "name": "GHCヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_216",
+          "name": "ULTIMATE CRUSH"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_279",
+          "name": "小橋健太"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_32",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ULTIMATE CRUSH 2003年5月2日 東京ドーム GHCヘビー級選手権試合 小橋健太 VS 蝶野正洋"
+    },
+    {
+      "date": "2003-08-17T00:00:00+00:00",
+      "id": "s_series_00278_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_247",
+          "name": "秋山準"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_32",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_438",
+          "name": "G1 CLIMAX 13"
+        }
+      ],
+      "title": "G1 CLIMAX 2003 2003年8月17日 両国国技館 G1 CLIMAX 優勝決定戦 天山広吉 VS 秋山準"
+    },
+    {
+      "date": "2003-12-09T00:00:00+00:00",
+      "id": "s_archive_205_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_278",
+          "name": "中邑真輔"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_33",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2003",
+          "name": "2003"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_139",
+          "name": "中丸徹"
+        }
+      ],
+      "title": "BATTLE FINAL 2003  2003年12月9日 大阪・大阪府立体育会館 IWGPヘビー級選手権試合 天山広吉 VS 中邑真輔"
+    }
+  ]
+}

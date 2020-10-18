@@ -1,0 +1,1729 @@
+{
+  "movies": [
+    {
+      "date": "1993-01-04T00:00:00+00:00",
+      "id": "s_series_00114_1_1",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_114",
+          "name": "新日本プロレス対ＷＡＲオープニングバトル・６人タッグマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_117",
+          "name": "飯塚孝之"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_119",
+          "name": "野上彰"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_166",
+          "name": "平井伸和"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_167",
+          "name": "折原昌夫"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_175",
+          "name": "北原光騎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FANTASTIC STORY IN 闘強導夢 1993年1月4日 東京ドーム 第1試合 新日本プロレス対ＷＡＲオープニングバトル・６人タッグマッチ 野上彰＆飯塚孝之＆エル・サムライ VS 平井伸和＆折原昌夫＆北原光騎"
+    },
+    {
+      "date": "1993-01-04T00:00:00+00:00",
+      "id": "s_series_00114_1_10",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_115",
+          "name": "ザ・クライマックス・オブ・レスリング"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_99",
+          "name": "特別特集"
+        }
+      ],
+      "title": "FANTASTIC STORY IN 闘強導夢 1993年1月4日 東京ドーム 第10試合 ザ・クライマックス・オブ・レスリング 長州力 VS 天龍源一郎"
+    },
+    {
+      "date": "1993-01-04T00:00:00+00:00",
+      "id": "s_series_00114_1_2",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_116",
+          "name": "パワーストラグル・オブ・エイトメン・８人タッグマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_122",
+          "name": "保永昇男"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_130",
+          "name": "青柳政司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_159",
+          "name": "齋藤彰俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_169",
+          "name": "ザ・グレート・カブキ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FANTASTIC STORY IN 闘強導夢 1993年1月4日 東京ドーム 第2試合 パワーストラグル・オブ・エイトメン・８人タッグマッチ 齋藤彰俊＆青柳政司＆ザ・グレート・カブキ＆越中詩郎 VS 保永昇男＆後藤達俊＆ヒロ斎藤＆スーパー・ストロング・マシン"
+    },
+    {
+      "date": "1993-01-04T00:00:00+00:00",
+      "id": "s_series_00114_1_3",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_170",
+          "name": "ウルティモ・ドラゴン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FANTASTIC STORY IN 闘強導夢 1993年1月4日 東京ドーム 第3試合 IWGPジュニアヘビー級選手権試合 ウルティモ・ドラゴン VS 獣神サンダー・ライガー"
+    },
+    {
+      "date": "1993-01-04T00:00:00+00:00",
+      "id": "s_series_00114_1_4",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_148",
+          "name": "ロン・シモンズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_151",
+          "name": "トニー・ホーム"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FANTASTIC STORY IN 闘強導夢 1993年1月4日 東京ドーム 第4試合 ロン・シモンズ VS トニー・ホーム"
+    },
+    {
+      "date": "1993-01-04T00:00:00+00:00",
+      "id": "s_series_00114_1_5",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_117",
+          "name": "バトル・オブ・バーニングスターズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_150",
+          "name": "スティング"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FANTASTIC STORY IN 闘強導夢 1993年1月4日 東京ドーム 第5試合 バトル・オブ・バーニングスターズ 馳 浩 VS スティング"
+    },
+    {
+      "date": "1993-01-04T00:00:00+00:00",
+      "id": "s_series_00114_1_6",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_118",
+          "name": "サクシード・トゥ・ファイティングスピリット・タッグマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_157",
+          "name": "ダスティ・ローデスＪr."
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FANTASTIC STORY IN 闘強導夢 1993年1月4日 東京ドーム 第6試合 サクシード・トゥ・ファイティングスピリット・タッグマッチ 橋本真也＆マサ斎藤 VS ダスティ・ローデスＪr.＆スコット・ノートン"
+    },
+    {
+      "date": "1993-01-04T00:00:00+00:00",
+      "id": "s_series_00114_1_7",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_119",
+          "name": "NWA世界＆IWGP両ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FANTASTIC STORY IN 闘強導夢 1993年1月4日 東京ドーム 第7試合 NWA世界＆IWGP両ヘビー級選手権試合 蝶野正洋 VS グレート・ムタ"
+    },
+    {
+      "date": "1993-01-04T00:00:00+00:00",
+      "id": "s_series_00114_1_8",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_144",
+          "name": "スコット・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_145",
+          "name": "リック・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_171",
+          "name": "パワー・ウォリアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_172",
+          "name": "ホーク・ウォリアー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FANTASTIC STORY IN 闘強導夢 1993年1月4日 東京ドーム 第8試合 IWGPタッグ選手権試合 パワー・ウォリアー＆ホーク・ウォリアー VS スコット・スタイナー＆リック・スタイナー"
+    },
+    {
+      "date": "1993-01-04T00:00:00+00:00",
+      "id": "s_series_00114_1_8en",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_144",
+          "name": "スコット・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_145",
+          "name": "リック・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_171",
+          "name": "パワー・ウォリアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_172",
+          "name": "ホーク・ウォリアー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "FANTASTIC STORY IN 闘強導夢 1993年1月4日 東京ドーム 8TH MATCH IWGP Tag Team Championship match Power Waryer and Hawk Waryer VS. Scott Steiner and Rick Steiner (English Commentary)"
+    },
+    {
+      "date": "1993-01-04T00:00:00+00:00",
+      "id": "s_series_00114_1_9",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_121",
+          "name": "スーパーエクスプロージョン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_173",
+          "name": "石川敬士"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FANTASTIC STORY IN 闘強導夢 1993年1月4日 東京ドーム 第9試合 スーパーエクスプロージョン 藤波辰爾 VS 石川敬士"
+    },
+    {
+      "date": "1993-02-05T00:00:00+00:00",
+      "id": "s_archive_29_01_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_159",
+          "name": "齋藤彰俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_175",
+          "name": "北原光騎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’93 1993年2月5日 札幌中島体育センター 北原光騎 VS 齋藤彰俊"
+    },
+    {
+      "date": "1993-02-05T00:00:00+00:00",
+      "id": "s_archive_29_01_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_582",
+          "name": "ブラッド・アームストロング"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’93 1993年2月5日 札幌中島体育センター 獣神サンダー・ライガー VS ブラッド・アームストロング"
+    },
+    {
+      "date": "1993-02-05T00:00:00+00:00",
+      "id": "s_archive_29_01_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’93 1993年2月5日 札幌中島体育センター 越中詩郎＆木村健悟 VS 飯塚孝之＆長州力"
+    },
+    {
+      "date": "1993-02-05T00:00:00+00:00",
+      "id": "s_archive_29_01_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_171",
+          "name": "パワー・ウォリアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_172",
+          "name": "ホーク・ウォリアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’93 1993年2月5日 札幌中島体育センター パワーウォリアー＆ホークウォリアー VS 馳浩＆蝶野正洋"
+    },
+    {
+      "date": "1993-02-05T00:00:00+00:00",
+      "id": "s_archive_29_01_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_169",
+          "name": "ザ・グレート・カブキ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’93 1993年2月5日 札幌中島体育センター 藤波辰爾 VS ザ・グレートカブキ"
+    },
+    {
+      "date": "1993-02-05T00:00:00+00:00",
+      "id": "s_archive_29_01_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_119",
+          "name": "野上彰"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_173",
+          "name": "石川敬士"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_36",
+          "name": "阿修羅・原"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’93 1993年2月5日 札幌中島体育センター 天龍源一郎＆阿修羅原＆石川敬士 VS 武藤敬司＆橋本真也＆野上彰"
+    },
+    {
+      "date": "1993-02-10T00:00:00+00:00",
+      "id": "s_series_00115_2_1",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_152",
+          "name": "ブラック・キャット"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_98",
+          "name": "岐阜・岐阜産業会館 "
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ファイティング・スピリット’93 1993年2月10日 岐阜産業会館 ブラック・キャット VS 木戸修"
+    },
+    {
+      "date": "1993-02-16T00:00:00+00:00",
+      "id": "s_series_00115_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_169",
+          "name": "ザ・グレート・カブキ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ファイティング・スピリット’93 1993年2月16日 両国国技館 武藤敬司＆蝶野正洋＆橋本真也 VS 木村健悟＆越中詩郎＆ザ・グレート・カブキ"
+    },
+    {
+      "date": "1993-02-16T00:00:00+00:00",
+      "id": "s_series_00115_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_117",
+          "name": "飯塚孝之"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_173",
+          "name": "石川敬士"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_174",
+          "name": "冬木弘道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_175",
+          "name": "北原光騎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_36",
+          "name": "阿修羅・原"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ファイティング・スピリット’93 1993年2月16日 両国国技館 藤波辰爾＆長州力＆木戸修＆馳浩＆飯塚孝之 VS 天龍源一郎＆阿修羅・原＆石川敬士＆冬木弘道＆北原光騎"
+    },
+    {
+      "date": "1993-03-23T00:00:00+00:00",
+      "id": "s_series_00116_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_2",
+          "name": "東京・東京体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_174",
+          "name": "冬木弘道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ハイパー・バトル’93 1993年3月23日 東京体育館 橋本真也 VS 冬木弘道"
+    },
+    {
+      "date": "1993-05-03T00:00:00+00:00",
+      "id": "s_series_00117_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_48",
+          "name": "福岡・福岡ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_24",
+          "name": "清水勉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING DONTAKU IN FUKUOKA DOME 1993年5月3日 福岡ドーム グレート・ムタ VS ハルク・ホーガン"
+    },
+    {
+      "date": "1993-05-03T00:00:00+00:00",
+      "id": "s_series_00117_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_48",
+          "name": "福岡・福岡ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_25",
+          "name": "山本隆司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING DONTAKU IN FUKUOKA DOME 1993年5月3日 福岡ドーム アントニオ猪木＆藤波辰爾 VS 長州力＆天龍源一郎"
+    },
+    {
+      "date": "1993-06-15T00:00:00+00:00",
+      "id": "s_series_00118_1_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_169",
+          "name": "ザ・グレート・カブキ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "エクスプロージョン・ツアー'93 1993年6月15日 日本武道館 IWGPヘビー級選手権試合 グレート・ムタ VS ザ・グレート・カブキ"
+    },
+    {
+      "date": "1993-07-22T00:00:00+00:00",
+      "id": "s_series_00347_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_152",
+          "name": "ブラック・キャット"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_227",
+          "name": "高岩竜一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "サマーストラグル９3 1993年7月22日 後楽園ホール ブラック・キャット VS 高岩竜一"
+    },
+    {
+      "date": "1993-08-07T00:00:00+00:00",
+      "id": "s_series_00334_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_431",
+          "name": "G1 CLIMAX 3"
+        }
+      ],
+      "title": "G1 CLIMAX 1993 1993年8月7日 両国国技館 藤波辰爾 VS 馳浩"
+    },
+    {
+      "date": "1993-09-23T00:00:00+00:00",
+      "id": "s_series_00119_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_44",
+          "name": "神奈川・横浜アリーナ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_26",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "G1 CLIMAX SPECIAL 1993 1993年9月23日 横浜アリーナ 馳 浩 VS 天龍源一郎"
+    },
+    {
+      "date": "1993-09-23T00:00:00+00:00",
+      "id": "s_series_00119_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_44",
+          "name": "神奈川・横浜アリーナ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_176",
+          "name": "ヘルレイザーズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "G1 CLIMAX SPECIAL 1993 1993年9月23日 横浜アリーナ ハルク・ホーガン＆グレート・ムタ VS ヘルレイザーズ"
+    },
+    {
+      "date": "1993-09-23T00:00:00+00:00",
+      "id": "s_series_00119_1_2en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_44",
+          "name": "神奈川・横浜アリーナ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_176",
+          "name": "ヘルレイザーズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "G1 CLIMAX SPECIAL 1993 1993年9月23日 横浜アリーナ Hulk Hogan＆The Great Muta VS. Hellraisers (English Commentary)"
+    },
+    {
+      "date": "1993-12-10T00:00:00+00:00",
+      "id": "s_series_00120_1_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_16",
+          "name": "愛知・愛知県体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1993",
+          "name": "1993"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "バトル・ファイナル’93 1993年12月10日 愛知県体育館 IWGPヘビー級選手権試合 橋本真也 VS 武藤敬司"
+    }
+  ]
+}

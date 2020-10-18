@@ -1,0 +1,1064 @@
+{
+  "movies": [
+    {
+      "date": "2005-01-04T00:00:00+00:00",
+      "id": "s_series_00165_1_1",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_228",
+          "name": "闘魂杯タッグマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_184",
+          "name": "外道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_250",
+          "name": "井上亘"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_259",
+          "name": "邪道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_283",
+          "name": "竹村豪氏"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂祭り WRESTLING WORLD 2005 2005年1月4日 東京ドーム 第1試合 闘魂杯タッグマッチ 井上亘 竹村豪氏 VS 外道 邪道"
+    },
+    {
+      "date": "2005-01-04T00:00:00+00:00",
+      "id": "s_series_00165_1_2",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_229",
+          "name": "IWGPジュニアヘビー級王座挑戦権争奪シングルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂祭り WRESTLING WORLD 2005 2005年1月4日 東京ドーム 第2試合 IWGPジュニアヘビー級王座挑戦権争奪シングルマッチ 金本浩二 VS 獣神サンダー・ライガー"
+    },
+    {
+      "date": "2005-01-04T00:00:00+00:00",
+      "id": "s_series_00165_1_3",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_277",
+          "name": "ヒート"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_850",
+          "name": "タイガーマスク（4代目）"
+        }
+      ],
+      "title": "闘魂祭り WRESTLING WORLD 2005 2005年1月4日 東京ドーム 第3試合 IWGPジュニアヘビー級選手権試合 ヒート VS タイガーマスク"
+    },
+    {
+      "date": "2005-01-04T00:00:00+00:00",
+      "id": "s_series_00165_1_4",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_230",
+          "name": "レスリングエキシビジョンマッチ・プロアマ兄弟戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_293",
+          "name": "永田克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂祭り WRESTLING WORLD 2005 2005年1月4日 東京ドーム 第4試合 レスリングエキシビジョンマッチ・プロアマ兄弟戦 永田裕志 VS 永田克彦"
+    },
+    {
+      "date": "2005-01-04T00:00:00+00:00",
+      "id": "s_series_00165_1_5",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_231",
+          "name": "闘魂杯シングルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_282",
+          "name": "鈴木みのる"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂祭り WRESTLING WORLD 2005 2005年1月4日 東京ドーム 第5試合 闘魂杯シングルマッチ 飯塚高史 VS 鈴木みのる"
+    },
+    {
+      "date": "2005-01-04T00:00:00+00:00",
+      "id": "s_series_00165_1_6",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_231",
+          "name": "闘魂杯シングルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_215",
+          "name": "西村修"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂祭り WRESTLING WORLD 2005 2005年1月4日 東京ドーム 第6試合 闘魂杯シングルマッチ 西村修 VS 小島聡"
+    },
+    {
+      "date": "2005-01-04T00:00:00+00:00",
+      "id": "s_series_00165_1_7",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_232",
+          "name": "アルティメットロワイヤル ８選手参加Ｕ・Ｃルールバトルロイヤル"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_248",
+          "name": "成瀬昌由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_286",
+          "name": "長井満也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_287",
+          "name": "ブルー・ウルフ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_288",
+          "name": "矢野通"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_294",
+          "name": "ロン・ウォーターマン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_295",
+          "name": "ドルゴルスレン・スミヤバザル"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂祭り WRESTLING WORLD 2005 2005年1月4日 東京ドーム 第7試合 アルティメットロワイヤル ８選手参加Ｕ・Ｃルールバトルロイヤル 1本目 ロン・ウォーターマン VS 成瀬昌由2本目 中西学 VS 矢野通3本目 ドルゴルスレン・スミヤバザル VS 長井満也4本目 永田裕志 VS ブルー・ウルフ5本目 ロン・ウォーターマン VS 中西学6本目 永田裕志 VS ドルゴルスレン・スミヤバザル7本目 ロン・ウォーターマン VS 永田裕志"
+    },
+    {
+      "date": "2005-01-04T00:00:00+00:00",
+      "id": "s_series_00165_1_8",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_233",
+          "name": "闘魂杯巴戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂祭り WRESTLING WORLD 2005 2005年1月4日 東京ドーム 第8試合 闘魂杯巴戦 第1試合 蝶野正洋 VS 長州力第2試合 蝶野正洋 VS 天山広吉"
+    },
+    {
+      "date": "2005-01-04T00:00:00+00:00",
+      "id": "s_series_00165_1_9",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_234",
+          "name": "IWGP・U-30無差別級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_278",
+          "name": "中邑真輔"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂祭り WRESTLING WORLD 2005 2005年1月4日 東京ドーム 第9試合 IWGP・U-30無差別級選手権試合 棚橋弘至 VS 中邑真輔"
+    },
+    {
+      "date": "2005-01-30T00:00:00+00:00",
+      "id": "s_archive_42_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_42",
+          "name": "北海道・月寒グリーンドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_215",
+          "name": "西村修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_246",
+          "name": "真壁伸也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_304",
+          "name": "石井智宏"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_99",
+          "name": "特別特集"
+        }
+      ],
+      "title": "FIGHTING SPIRIT 2005 2005年1月30日 札幌・月寒グ リーンドーム大会 西村修＆真壁伸也 VS 長州力＆石井智宏"
+    },
+    {
+      "date": "2005-02-20T00:00:00+00:00",
+      "id": "s_series_00285_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_60",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_61",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_403",
+          "name": "IWGPヘビー&三冠ヘビーダブルタイトル"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "IWGPヘビー&三冠ヘビーダブルタイトルマッチ 2005年2月20日　両国国技館 天山広吉VS小島聡"
+    },
+    {
+      "date": "2005-03-26T00:00:00+00:00",
+      "id": "s_archive_215_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_278",
+          "name": "中邑真輔"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_139",
+          "name": "中丸徹"
+        }
+      ],
+      "title": "NEXESS 2005年3月26日 東京・両国国技館 IWGPヘビー級選手権試合 小島聡 VS 中邑真輔"
+    },
+    {
+      "date": "2005-04-24T00:00:00+00:00",
+      "id": "s_archive_73_01_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_240",
+          "name": "ケンドー・カシン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_35",
+          "name": "古澤琢"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "NEW JAPAN CUP 2005年4月24日 大阪府立体育館 NEW JAPAN CUP トーナメント準決勝 ケンドーカシン VS 中西学"
+    },
+    {
+      "date": "2005-04-24T00:00:00+00:00",
+      "id": "s_archive_73_01_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "NEW JAPAN CUP 2005年4月24日 大阪府立体育館 NEW JAPAN CUP トーナメント準決勝 天山広吉 VS 棚橋弘至"
+    },
+    {
+      "date": "2005-04-24T00:00:00+00:00",
+      "id": "s_archive_73_01_08",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "NEW JAPAN CUP 2005年4月24日 大阪府立体育館 NEW JAPAN CUP トーナメント決勝 中西学 VS 棚橋弘至"
+    },
+    {
+      "date": "2005-05-14T00:00:00+00:00",
+      "id": "s_series_00166_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_265",
+          "name": "三沢光晴"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_35",
+          "name": "古澤琢"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_36",
+          "name": "安田拡了"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "NEXESS 2005年5月14日 東京ドーム スーパードリームタッグマッチ 藤波辰爾＆三沢光晴 VS 蝶野正洋＆獣神サンダー・ライガー"
+    },
+    {
+      "date": "2005-06-19T00:00:00+00:00",
+      "id": "s_archive_253_1_09",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_184",
+          "name": "外道"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_850",
+          "name": "タイガーマスク（4代目）"
+        }
+      ],
+      "title": "BEST OF THE SUPER Jr. Ⅻ 2005年6月19日 東京・後楽園ホール 第9試合 BEST OF THE SUPER Jr. XIII 優勝決定戦 タイガーマスク VS 外道"
+    },
+    {
+      "date": "2005-06-19T00:00:00+00:00",
+      "id": "s_archive_253_2_09",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_184",
+          "name": "外道"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "BEST OF THE SUPER Jr. Ⅻ June 19, 2005 Tokyo・Korakuen (English Commentary) 9TH MATCH BEST OF THE SUPER Jr. XIII FINAL MATCH Tiger Mask VS Gedo"
+    },
+    {
+      "date": "2005-08-14T00:00:00+00:00",
+      "id": "s_series_00341_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_214",
+          "name": "藤田和之"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_36",
+          "name": "安田拡了"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_440",
+          "name": "G1 CLIMAX 15"
+        }
+      ],
+      "title": "G1 CLIMAX 2005 2005年8月14日 両国国技館 優勝決定戦 蝶野正洋 VS 藤田和之"
+    },
+    {
+      "date": "2005-09-30T00:00:00+00:00",
+      "id": "s_ac_128_20_01_extmx",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_278",
+          "name": "中邑真輔"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_456",
+          "name": "レイ・ブカネロ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2005",
+          "name": "2005"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_67",
+          "name": "村田晴郎"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_84",
+          "name": "メキシコ・アレナ メヒコ（メキシコシティ）"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_107",
+          "name": "元井美貴"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_46",
+          "name": "トーク番組"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_852",
+          "name": "オリンピコ"
+        }
+      ],
+      "title": "オリジナル CMLL 2005年9月30日 アレナメヒコ IWGPタッグ選手権試合 棚橋弘至＆中邑真輔 vs レイ・ブカネロ＆オリンピコ"
+    }
+  ]
+}

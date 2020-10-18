@@ -1,0 +1,368 @@
+{
+  "movies": [
+    {
+      "date": "1978-01-23T00:00:00+00:00",
+      "id": "s_series_00019_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_9",
+          "name": "アメリカ・マディソン・スクエア・ガーデン（ニューヨーク）"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_20",
+          "name": "カルロス・ホセ・エストラーダ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1978",
+          "name": "1978"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1978年1月23日 アメリカ・マディソン・スクエア・ガーデン ＷＷＦジュニア・ヘビー級選手権試合 カルロス・ホセ・エストラーダ VS 藤波辰巳"
+    },
+    {
+      "date": "1978-04-21T00:00:00+00:00",
+      "id": "s_series_00020_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_14",
+          "name": "第１回MSGシリーズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1978",
+          "name": "1978"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "第１回MSGシリーズ＆格闘技世界一決定戦 1978年4月21日 蔵前国技館 第1回MSGシリーズ アントニオ猪木 VS 坂口征二"
+    },
+    {
+      "date": "1978-05-30T00:00:00+00:00",
+      "id": "s_series_00020_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1978",
+          "name": "1978"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "第１回MSGシリーズ＆格闘技世界一決定戦 1978年5月30日 大阪府立体育会館 アントニオ猪木 VS アンドレ・ザ・ジャイアント"
+    },
+    {
+      "date": "1978-07-27T00:00:00+00:00",
+      "id": "s_series_00021_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_22",
+          "name": "剛竜馬"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_4",
+          "name": "三浦智和"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1978",
+          "name": "1978"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "サマー・ファイト・シリーズ 1978年7月27日 日本武道館 ＷＷＷＦジュニア・ヘビー級選手権試合 藤波辰巳 VS 剛 竜馬"
+    },
+    {
+      "date": "1978-09-19T00:00:00+00:00",
+      "id": "s_series_00022_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_16",
+          "name": "上田馬之助"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_4",
+          "name": "三浦智和"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1978",
+          "name": "1978"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ゴールデン・ファイト・シリーズ 1978年9月19日 大阪府立体育会館 タイガー・ジェット・シン VS 上田馬之助"
+    },
+    {
+      "date": "1978-11-25T00:00:00+00:00",
+      "id": "s_series_00023_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_10",
+          "name": "西ドイツ・シュツットガルト ギルスベルクホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_15",
+          "name": "世界選手権シリーズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_23",
+          "name": "ローラン・ボック"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1978",
+          "name": "1978"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "プレ日本選手権 1978年11月25日 西ドイツ　シュツットガルト　ギルスベルクホール 世界選手権シリーズ アントニオ猪木 VS ローラン・ボック"
+    },
+    {
+      "date": "1978-12-16T00:00:00+00:00",
+      "id": "s_series_00023_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_16",
+          "name": "プレ日本選手権　優勝決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_24",
+          "name": "ヒロ・マツダ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_11",
+          "name": "銅谷志朗"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_4",
+          "name": "三浦智和"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1978",
+          "name": "1978"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_16_1",
+          "name": "プレ日本選手権"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "プレ日本選手権 1978年12月16日 蔵前国技館 プレ日本選手権 優勝決定戦 アントニオ猪木 VS ヒロ・マツダ"
+    }
+  ]
+}

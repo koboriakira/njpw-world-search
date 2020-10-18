@@ -1,0 +1,1715 @@
+{
+  "movies": [
+    {
+      "date": "1990-01-18T00:00:00+00:00",
+      "id": "s_series_00089_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_39",
+          "name": "山口・徳山市体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90 新春黄金シリーズ 1990年1月18日 徳山市体育館 長州力 VS 後藤達俊"
+    },
+    {
+      "date": "1990-01-25T00:00:00+00:00",
+      "id": "s_series_00089_3_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_64",
+          "name": "ブラック・タイガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_577",
+          "name": "オーエン・ハート"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90 新春黄金シリーズ 1990年1月25日 札幌中島体育センター IWGPジュニアヘビー級挑戦者決定戦 ブラックタイガー VS オーエン・ハート"
+    },
+    {
+      "date": "1990-01-25T00:00:00+00:00",
+      "id": "s_series_00089_3_01e",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_13",
+          "name": "北海道・札幌中島スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_64",
+          "name": "ブラック・タイガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_577",
+          "name": "オーエン・ハート"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "’90 新春黄金シリーズ 1990年1月25日 札幌中島体育センター IWGP Junior Heavyweight challenger finals Black Tiger VS. Owen Hart (English Commentary)"
+    },
+    {
+      "date": "1990-01-25T00:00:00+00:00",
+      "id": "s_series_00089_3_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_119",
+          "name": "野上彰"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90 新春黄金シリーズ 1990年1月25日 札幌中島体育センター IWGPジュニアヘビー級挑戦者決定戦 獣神サンダー・ライガー VS 野上彰"
+    },
+    {
+      "date": "1990-01-25T00:00:00+00:00",
+      "id": "s_series_00089_3_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90 新春黄金シリーズ 1990年1月25日 札幌中島体育センター スーパー・ストロング・マシン VS 小林邦昭"
+    },
+    {
+      "date": "1990-01-25T00:00:00+00:00",
+      "id": "s_series_00089_3_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90 新春黄金シリーズ 1990年1月25日 札幌中島体育センター 長州力＆馳浩 VS ヒロ斎藤＆後藤達俊"
+    },
+    {
+      "date": "1990-01-25T00:00:00+00:00",
+      "id": "s_series_00089_3_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90 新春黄金シリーズ 1990年1月25日 札幌中島体育センター 蝶野正洋 VS ビッグバン・ベイダー"
+    },
+    {
+      "date": "1990-01-31T00:00:00+00:00",
+      "id": "s_series_00089_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_101",
+          "name": "佐野直喜"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90 新春黄金シリーズ 1990年1月31日 大阪府立体育会館 IWGPジュニアヘビー級選手権試合 佐野直喜 VS 獣神サンダー・ライガー"
+    },
+    {
+      "date": "1990-01-31T00:00:00+00:00",
+      "id": "s_series_00089_2_1e",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_101",
+          "name": "佐野直喜"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_132",
+          "name": "ジノ・ガンビーノ"
+        }
+      ],
+      "title": "’90 新春黄金シリーズ 1990年1月31日 大阪府立体育会館 IWGP Jr. HEAVYWEIGHT CHAMPIONSHIP MATCH Naoki Sano VS. Jyushin Thunder Liger(English Commentary)"
+    },
+    {
+      "date": "1990-02-10T00:00:00+00:00",
+      "id": "s_series_00090_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_116",
+          "name": "松田納"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_117",
+          "name": "飯塚孝之"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90スーパー・ファイトIN闘強導夢 1990年2月10日 東京ドーム 第1試合 松田納 VS 飯塚孝之"
+    },
+    {
+      "date": "1990-02-10T00:00:00+00:00",
+      "id": "s_series_00090_1_10",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_118",
+          "name": "北尾光司"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90スーパー・ファイトIN闘強導夢 1990年2月10日 東京ドーム 第10試合 北尾光司 VS クラッシャー・バンバン・ビガロ"
+    },
+    {
+      "date": "1990-02-10T00:00:00+00:00",
+      "id": "s_series_00090_1_11",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90スーパー・ファイトIN闘強導夢 1990年2月10日 東京ドーム 第11試合 タッグマッチ 坂口征二＆アントニオ猪木 VS 蝶野正洋＆橋本真也"
+    },
+    {
+      "date": "1990-02-10T00:00:00+00:00",
+      "id": "s_series_00090_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_101",
+          "name": "佐野直喜"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_119",
+          "name": "野上彰"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_121",
+          "name": "ペガサス・キッド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90スーパー・ファイトIN闘強導夢 1990年2月10日 東京ドーム 第2試合 タッグマッチ 野上彰＆獣神サンダー・ライガー VS  佐野直喜＆ペガサス・キッド"
+    },
+    {
+      "date": "1990-02-10T00:00:00+00:00",
+      "id": "s_series_00090_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_122",
+          "name": "保永昇男"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_38",
+          "name": "星野勘太郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90スーパー・ファイトIN闘強導夢 1990年2月10日 東京ドーム 第3試合 ６人タッグマッチ 馳 浩＆星野勘太郎＆小林邦昭 VS 保永昇男＆後藤達俊＆ヒロ斎藤"
+    },
+    {
+      "date": "1990-02-10T00:00:00+00:00",
+      "id": "s_series_00090_1_4",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_110",
+          "name": "ビクトル・ザンギエフ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_123",
+          "name": "ブラッド・レイガンス"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90スーパー・ファイトIN闘強導夢 1990年2月10日 東京ドーム 第4試合 ブラッド・レイガンス VS ビクトル・ザンギエフ"
+    },
+    {
+      "date": "1990-02-10T00:00:00+00:00",
+      "id": "s_series_00090_1_5",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_106",
+          "name": "サルマン・ハシミコフ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_124",
+          "name": "スティーブ・ウィリアムス"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90スーパー・ファイトIN闘強導夢 1990年2月10日 東京ドーム 第5試合 スティーブ・ウィリアムス VS サルマン・ハシミコフ"
+    },
+    {
+      "date": "1990-02-10T00:00:00+00:00",
+      "id": "s_series_00090_1_6",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_84",
+          "name": "AWA世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_125",
+          "name": "ラリー・ズビスコ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90スーパー・ファイトIN闘強導夢 1990年2月10日 東京ドーム 第6試合 ＡＷＡ世界ヘビー級選手権試合 ラリー・ズビスコ VS マサ斎藤"
+    },
+    {
+      "date": "1990-02-10T00:00:00+00:00",
+      "id": "s_series_00090_1_9",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’90スーパー・ファイトIN闘強導夢 1990年2月10日 東京ドーム 第9試合 IWGPヘビー級選手権試合 ビッグバン・ベイダー VS スタン・ハンセン"
+    },
+    {
+      "date": "1990-02-10T00:00:00+00:00",
+      "id": "s_series_00090_2_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "’90スーパー・ファイトIN闘強導夢 Feb 10, 1990 Tokyo Dome (English Commentary) 9TH MATCH IWGP HEAVYWEIGHT CHAMPIONSHIP MATCH Big Van Vader vs. Stan Hansen"
+    },
+    {
+      "date": "1990-03-02T00:00:00+00:00",
+      "id": "s_series_00091_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_129",
+          "name": "パニッシャー・ダイス・モーガン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ 1990年3月2日 後楽園ホール マサ斎藤＆橋本真也 VS クラッシャー・バンバン・ビガロ＆パニッシャー・ダイス・モーガン"
+    },
+    {
+      "date": "1990-04-27T00:00:00+00:00",
+      "id": "s_series_00092_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_41",
+          "name": "千葉・東京ベイNKホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新闘強STATION BAY NK 1990年4月27日 東京ベイＮＫホール IWGPタッグ選手権試合 マサ斎藤＆橋本真也 VS 武藤敬司＆蝶野正洋"
+    },
+    {
+      "date": "1990-05-24T00:00:00+00:00",
+      "id": "s_series_00093_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_41",
+          "name": "千葉・東京ベイNKホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_118",
+          "name": "北尾光司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_124",
+          "name": "スティーブ・ウィリアムス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "クラッシュ・ザ・スーパーヘビー 1990年5月24日 東京ベイNKホール マサ斎藤＆橋本真也＆北尾光司 VS ビッグバン・ベイダー＆クラッシャー・バンバン・ビガロ＆スティーブ・ウィリアムス"
+    },
+    {
+      "date": "1990-05-28T00:00:00+00:00",
+      "id": "s_series_00093_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "クラッシュ・ザ・スーパーヘビー 1990年5月28日 大阪府立体育会館 長州力 VS 橋本真也"
+    },
+    {
+      "date": "1990-06-12T00:00:00+00:00",
+      "id": "s_series_00094_1_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_30",
+          "name": "福岡・福岡国際センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_27",
+          "name": "スタン・ハンセン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "バトルライン九州 1990年6月12日 福岡国際センター IWGPヘビー級選手権試合 ビッグバン・ベイダー VS スタン・ハンセン"
+    },
+    {
+      "date": "1990-06-12T00:00:00+00:00",
+      "id": "s_series_00094_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_30",
+          "name": "福岡・福岡国際センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_130",
+          "name": "青柳政司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "バトルライン九州 1990年6月12日 福岡国際センター 獣神サンダー・ライガー VS 青柳政司"
+    },
+    {
+      "date": "1990-07-22T00:00:00+00:00",
+      "id": "s_series_00095_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_42",
+          "name": "北海道・月寒グリーンドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_131",
+          "name": "ロード・ウォリアーズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_21",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "レスリング・スクランブル 1990年7月22日 月寒グリーンドーム 武藤敬司＆蝶野正洋 VS ロード・ウォーリアーズ"
+    },
+    {
+      "date": "1990-07-22T00:00:00+00:00",
+      "id": "s_series_00095_1_1en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_42",
+          "name": "北海道・月寒グリーンドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_131",
+          "name": "ロード・ウォリアーズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "レスリング・スクランブル 1990年7月22日 月寒グリーンドーム Keiji Mutoh＆Masahiro Chono VS. Road Warriors (English Commentary)"
+    },
+    {
+      "date": "1990-08-16T00:00:00+00:00",
+      "id": "s_series_00096_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_25",
+          "name": "千葉・千葉公園体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_132",
+          "name": "栗栖正伸"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_56",
+          "name": "アニマル浜口"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "サマー・ナイト・フィーバーII 1990年8月16日 千葉公園体育館 アニマル浜口 VS 栗栖正伸"
+    },
+    {
+      "date": "1990-08-19T00:00:00+00:00",
+      "id": "s_series_00096_2_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_16",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "サマー・ナイト・フィーバーII 1990年8月19日 両国国技館 IWGPヘビー級選手権試合 ビッグバン・ベイダー VS 長州力"
+    },
+    {
+      "date": "1990-09-14T00:00:00+00:00",
+      "id": "s_series_00097_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "エクスプロージョン・ツアー 1990年9月14日 広島サンプラザ グレート・ムタ VS 馳浩"
+    },
+    {
+      "date": "1990-09-30T00:00:00+00:00",
+      "id": "s_series_00098_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_44",
+          "name": "神奈川・横浜アリーナ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_86",
+          "name": "アントニオ猪木30周年メモリアル・フェスティバル"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_56",
+          "name": "アニマル浜口"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "アントニオ猪木30周年メモリアル・フェスティバルIN横浜アリーナ＆闘魂ツアー’90 1990年9月30日 横浜アリーナ アントニオ猪木30周年メモリアル・フェスティバル アントニオ猪木＆タイガー・ジェット・シン VS ビッグバン・ベイダー＆アニマル浜口"
+    },
+    {
+      "date": "1990-11-01T00:00:00+00:00",
+      "id": "s_series_00099_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ドリーム・ツアー’90 1990年11月1日 日本武道館 IWGPタッグ選手権試合 武藤敬司＆蝶野正洋 VS 馳浩＆佐々木健介"
+    },
+    {
+      "date": "1990-11-01T00:00:00+00:00",
+      "id": "s_series_00099_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990",
+          "name": "1990"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ドリーム・ツアー’90 1990年11月1日 日本武道館 IWGPヘビー級選手権試合 長州力 VS 橋本真也"
+    }
+  ]
+}

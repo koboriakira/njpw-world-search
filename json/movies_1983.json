@@ -1,0 +1,1525 @@
+{
+  "movies": [
+    {
+      "date": "1983-01-06T00:00:00+00:00",
+      "id": "s_series_00048_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_398",
+          "name": "NWA世界ジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "新春黄金シリーズ 1983年1月6日 後楽園ホール NWA世界ジュニア・ヘビー級選手権試合 タイガーマスク VS 小林邦昭"
+    },
+    {
+      "date": "1983-04-03T00:00:00+00:00",
+      "id": "s_series_00049_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_35",
+          "name": "WWFインターナショナル・ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_99",
+          "name": "特別特集"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ第2弾 1983年4月3日 蔵前国技館 ＷＷＦインターナショナル・ヘビー級選手権試合 藤波辰巳 VS 長州力"
+    },
+    {
+      "date": "1983-04-21T00:00:00+00:00",
+      "id": "s_series_00049_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_68",
+          "name": "前田明"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_69",
+          "name": "ポール・オンドーフ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ第2弾 1983年4月21日 蔵前国技館 前田明 VS ポール・オンドーフ"
+    },
+    {
+      "date": "1983-04-21T00:00:00+00:00",
+      "id": "s_series_00049_2_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_398",
+          "name": "NWA世界ジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_34",
+          "name": "ダイナマイト・キッド"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ第2弾 1983年4月21日 蔵前国技館 NWA世界ジュニア・ヘビー級王座決定戦 タイガーマスク VS ダイナマイト・キッド"
+    },
+    {
+      "date": "1983-04-21T00:00:00+00:00",
+      "id": "s_series_00049_2_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_99",
+          "name": "特別特集"
+        }
+      ],
+      "title": "ビッグ・ファイト・シリーズ第2弾 1983年4月21日 蔵前国技館 WWF認定インターナショナルヘビー級選手権 長州力 VS 藤波辰巳"
+    },
+    {
+      "date": "1983-05-27T00:00:00+00:00",
+      "id": "s_series_00050_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_24",
+          "name": "香川・高松市民文化センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_39",
+          "name": "第１回IWGP決勝リーグ戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_68",
+          "name": "前田明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "IWGP決勝リーグ 1983年5月27日 高松市民文化センター 第1回IWGP 決勝リーグ戦 アントニオ猪木  VS  前田 明"
+    },
+    {
+      "date": "1983-05-27T00:00:00+00:00",
+      "id": "s_series_00050_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_24",
+          "name": "香川・高松市民文化センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_40",
+          "name": "IWGP決勝リーグ戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        }
+      ],
+      "title": "IWGP決勝リーグ 1983年5月27日 高松市民文化センター IWGP決勝リーグ戦 ハルク・ホーガン VS アンドレ・ザ・ジャイアント"
+    },
+    {
+      "date": "1983-05-27T00:00:00+00:00",
+      "id": "s_series_00050_1_2en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_24",
+          "name": "香川・高松市民文化センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_40",
+          "name": "IWGP決勝リーグ戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "IWGP決勝リーグ 1983年5月27日 高松市民文化センター IWGP final league game Hulk Hogan VS. Andre the Giant (English Commentary)"
+    },
+    {
+      "date": "1983-05-30T00:00:00+00:00",
+      "id": "s_series_00050_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_25",
+          "name": "千葉・千葉公園体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_68",
+          "name": "前田明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "IWGP決勝リーグ 1983年5月30日 千葉公園体育館 前田明 VS ハルク・ホーガン"
+    },
+    {
+      "date": "1983-06-02T00:00:00+00:00",
+      "id": "s_series_00050_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        }
+      ],
+      "title": "IWGP決勝リーグ 1983年6月2日 蔵前国技館 第1回IWGP 優勝決定戦 アントニオ猪木 VS ハルク・ホーガン"
+    },
+    {
+      "date": "1983-06-02T00:00:00+00:00",
+      "id": "s_series_00050_4_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "IWGP決勝リーグ Jun 2, 1983 Tokyo・Kuramae Kokugikan (English Commentary) 1st IWGP CHAMPIONSHIP MATCH Antonio Inoki VS Hulk Hogan"
+    },
+    {
+      "date": "1983-06-02T00:00:00+00:00",
+      "id": "s_series_00051_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_398",
+          "name": "NWA世界ジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "IWGP決勝リーグ 1983年6月2日 蔵前国技館 NWA世界ジュニア・ヘビー級王座決定戦 タイガーマスクVS小林邦昭"
+    },
+    {
+      "date": "1983-06-12T00:00:00+00:00",
+      "id": "s_series_00051_4_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_19",
+          "name": "メキシコ・エル・トレオ・デ・クアトロ・カミノス（メキシコシティ）"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_23",
+          "name": "WWFジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_509",
+          "name": "フィッシュマン"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "サマー・ファイト・シリーズ 1983年6月12日 メキシコシティ・エル・トレオ・デ・クアトロ・カミノス WWFジュニア・ヘビー級王座決定戦 タイガーマスクVSフィッシュマン"
+    },
+    {
+      "date": "1983-07-07T00:00:00+00:00",
+      "id": "s_series_00051_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_398",
+          "name": "NWA世界ジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_67",
+          "name": "寺西勇"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "サマー・ファイト・シリーズ 1983年7月7日 大阪府立体育会館 NWA世界ジュニア・ヘビー級選手権 タイガーマスク VS 寺西 勇"
+    },
+    {
+      "date": "1983-07-07T00:00:00+00:00",
+      "id": "s_series_00051_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_35",
+          "name": "WWFインターナショナル・ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "サマー・ファイト・シリーズ 1983年7月7日 大阪府立体育会館 ＷＷＦインターナショナル・ヘビー級選手権試合 長州力 VS 藤波辰巳"
+    },
+    {
+      "date": "1983-07-07T00:00:00+00:00",
+      "id": "s_series_00051_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_49",
+          "name": "アブドーラ・ザ・ブッチャー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_59",
+          "name": "ディック・マードック"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "サマー・ファイト・シリーズ 1983年7月7日 大阪府立体育会館 アブドーラ・ザ・ブッチャー VS ディック・マードック"
+    },
+    {
+      "date": "1983-08-04T00:00:00+00:00",
+      "id": "s_series_00051_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_35",
+          "name": "WWFインターナショナル・ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "サマー・ファイト・シリーズ 1983年8月4日 蔵前国技館 ＷＷＦインターナショナル・ヘビー級選手権試合 長州力 VS 藤波辰巳"
+    },
+    {
+      "date": "1983-08-04T00:00:00+00:00",
+      "id": "s_series_00051_2_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_398",
+          "name": "NWA世界ジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_67",
+          "name": "寺西勇"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_847",
+          "name": "タイガーマスク（初代）"
+        }
+      ],
+      "title": "サマー・ファイト・シリーズ 1983年8月4日 蔵前国技館 NWA世界ジュニアヘビー級選手権  タイガーマスク VS 寺西勇"
+    },
+    {
+      "date": "1983-08-13T00:00:00+00:00",
+      "id": "s_series_00269_1_1",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_82",
+          "name": "高田伸彦"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_21",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_510",
+          "name": "アソール・フォーリー"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "1983年 カルガリー スタンピード・レスリング大会 1983年8月13日 カナダ スタンピート・グランド・ビクトリア・パビリオン アソール・フォーリー VS 高田伸彦"
+    },
+    {
+      "date": "1983-08-28T00:00:00+00:00",
+      "id": "s_series_00052_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_20",
+          "name": "東京・田園コロシアム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_54",
+          "name": "ラッシャー木村"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディ・ファイト・シリーズ 1983年8月28日 田園コロシアム アントニオ猪木 VS ラッシャー木村"
+    },
+    {
+      "date": "1983-09-21T00:00:00+00:00",
+      "id": "s_series_00052_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_54",
+          "name": "ラッシャー木村"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディ・ファイト・シリーズ 1983年9月21日 大阪府立体育会館 アントニオ猪木 VS ラッシャー木村"
+    },
+    {
+      "date": "1983-11-03T00:00:00+00:00",
+      "id": "s_series_00053_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_68",
+          "name": "前田明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_99",
+          "name": "特別特集"
+        }
+      ],
+      "title": "闘魂シリーズ 1983年11月3日 蔵前国技館 前田明 VS 長州力"
+    },
+    {
+      "date": "1983-11-03T00:00:00+00:00",
+      "id": "s_series_00053_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_48",
+          "name": "谷津嘉章"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1983年11月3日 蔵前国技館 アントニオ猪木 VS 谷津嘉章"
+    },
+    {
+      "date": "1983-11-03T00:00:00+00:00",
+      "id": "s_series_00053_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_56",
+          "name": "アニマル浜口"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1983年11月3日 蔵前国技館 坂口征二 VS アニマル浜口"
+    },
+    {
+      "date": "1983-11-03T00:00:00+00:00",
+      "id": "s_series_00053_1_4",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_398",
+          "name": "NWA世界ジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_70",
+          "name": "ザ・コブラ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_394",
+          "name": "デイビーボーイ・スミス"
+        }
+      ],
+      "title": "闘魂シリーズ 1983年11月3日 蔵前国技館 NWA世界ジュニア・ヘビー級王座決定戦 ザ・コブラ VS デイビーボーイ・スミス（ザ・バンピート） "
+    },
+    {
+      "date": "1983-11-03T00:00:00+00:00",
+      "id": "s_series_00053_1_4en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_398",
+          "name": "NWA世界ジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_70",
+          "name": "ザ・コブラ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_394",
+          "name": "デイビーボーイ・スミス"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "闘魂シリーズ 1983年11月3日 蔵前国技館 NWA World Junior Heavyweight Championship finals Cobra VS. Davey Boy Smith (The Banpito) (English Commentary)"
+    },
+    {
+      "date": "1983-12-07T00:00:00+00:00",
+      "id": "s_series_00054_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_24",
+          "name": "香川・高松市民文化センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_43",
+          "name": "MSGタッグリーグ公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_68",
+          "name": "前田明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "第4回MSGタッグ・リーグ戦 1983年12月7日 高松市民文化センター ＭＳＧタッグリーグ公式戦 アントニオ猪木＆ハルク・ホーガン VS 藤波辰巳＆前田明"
+    },
+    {
+      "date": "1983-12-07T00:00:00+00:00",
+      "id": "s_series_00054_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_24",
+          "name": "香川・高松市民文化センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_44",
+          "name": "第４回MSGタッグ・リーグ戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_56",
+          "name": "アニマル浜口"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_59",
+          "name": "ディック・マードック"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_72",
+          "name": "アドリアン・アドニス"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1983",
+          "name": "1983"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "第4回MSGタッグ・リーグ戦 1983年12月7日 高松市民文化センター 第４回MSGタッグ・リーグ戦 長州力＆アニマル浜口 VS ディック・マードック＆アドリアン・アドニス"
+    }
+  ]
+}

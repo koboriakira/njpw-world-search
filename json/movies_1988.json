@@ -1,0 +1,752 @@
+{
+  "movies": [
+    {
+      "date": "1988-01-25T00:00:00+00:00",
+      "id": "s_series_00307_1_01",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_83",
+          "name": "山田恵一"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_98",
+          "name": "岐阜・岐阜産業会館 "
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "トップ・オブ・ザ・スーパー・ジュニア 1988年1月25日 岐阜産業会館 越中詩郎 VS 山田恵一"
+    },
+    {
+      "date": "1988-02-07T00:00:00+00:00",
+      "id": "s_archive_26_01_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_14",
+          "name": "保坂正紀"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1988年2月7日 札幌中島体育センター トップオブスーパージュニア優勝決定戦 越中詩郎 VS 馳浩 "
+    },
+    {
+      "date": "1988-02-07T00:00:00+00:00",
+      "id": "s_archive_26_01_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1988年2月7日 札幌中島体育センター アントニオ猪木 VS ビッグバン・ベイダー "
+    },
+    {
+      "date": "1988-02-07T00:00:00+00:00",
+      "id": "s_archive_26_01_02en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "新春黄金シリーズ 1988年2月7日 札幌中島体育センター Antonio Inoki VS. Big Van Vader (English Commentary)"
+    },
+    {
+      "date": "1988-02-07T00:00:00+00:00",
+      "id": "s_archive_26_01_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1988年2月7日 札幌中島体育センター IWGPタッグ選手権 藤波辰巳＆木村健悟 VS 長州力＆スーパー・ストロング・マシン "
+    },
+    {
+      "date": "1988-04-22T00:00:00+00:00",
+      "id": "s_series_00082_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_32",
+          "name": "沖縄・奥武山体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’88スーパーファイト・シリーズ 1988年4月22日 奥武山体育館 アントニオ猪木＆藤波辰巳 VS \tビッグバン・ベイダー＆マサ斎藤"
+    },
+    {
+      "date": "1988-06-24T00:00:00+00:00",
+      "id": "s_series_00083_1_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_67",
+          "name": "IWGPヘビー級王座決定戦"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’88IWGPチャンピオン・シリーズ 1988年6月24日 大阪府立体育会館 IWGPヘビー級王座決定戦 藤波辰巳 VS 長州力"
+    },
+    {
+      "date": "1988-06-26T00:00:00+00:00",
+      "id": "s_series_00083_2_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_33",
+          "name": "愛知・名古屋レインボーホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’88IWGPチャンピオン・シリーズ 1988年6月26日 名古屋レインボーホール IWGPヘビー級選手権試合 藤波辰巳 VS ビッグバン・ベイダー"
+    },
+    {
+      "date": "1988-07-22T00:00:00+00:00",
+      "id": "s_series_00084_1_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_69",
+          "name": "IWGPヘビー級王座挑戦者決定リーグ戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_99",
+          "name": "特別特集"
+        }
+      ],
+      "title": "88サマーファイト・シリーズ＆スーパー・マンデーナイト・イン・ヨコハマ 1988年7月22日 札幌中島体育センター IWGPヘビー級王座挑戦者決定リーグ戦 アントニオ猪木 VS 長州力"
+    },
+    {
+      "date": "1988-07-29T00:00:00+00:00",
+      "id": "s_series_00084_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_34",
+          "name": "東京・有明コロシアム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "88サマーファイト・シリーズ＆スーパー・マンデーナイト・イン・ヨコハマ 1988年7月29日 有明コロシアム 藤波辰巳＆木村健吾＆越中詩郎 VS 武藤敬司＆蝶野正洋＆橋本真也"
+    },
+    {
+      "date": "1988-07-29T00:00:00+00:00",
+      "id": "s_series_00084_2_2",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_34",
+          "name": "東京・有明コロシアム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_69",
+          "name": "IWGPヘビー級王座挑戦者決定リーグ戦"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_70",
+          "name": "IWGPヘビー級挑戦者決定リーグ戦"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "88サマーファイト・シリーズ＆スーパー・マンデーナイト・イン・ヨコハマ 1988年7月29日 有明コロシアム IWGPヘビー級挑戦者決定リーグ戦 アントニオ猪木 VS ビッグバン・ベイダー"
+    },
+    {
+      "date": "1988-08-08T00:00:00+00:00",
+      "id": "s_series_00084_3_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_35",
+          "name": "神奈川・横浜文化体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_8",
+          "name": "古舘伊知郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "88サマーファイト・シリーズ＆スーパー・マンデーナイト・イン・ヨコハマ 1988年8月8日 横浜文化体育館 IWGPヘビー級選手権試合 藤波辰巳 VS アントニオ猪木"
+    },
+    {
+      "date": "1988-09-12T00:00:00+00:00",
+      "id": "s_series_00085_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_30",
+          "name": "福岡・福岡国際センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’88戦国シリーズ 1988年9月12日 福岡国際センター ビッグバン・ベイダー VS クラッシャー・バンバン・ビガロ"
+    },
+    {
+      "date": "1988-10-19T00:00:00+00:00",
+      "id": "s_series_00085_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_37",
+          "name": "静岡・静岡産業館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1988",
+          "name": "1988"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’88戦国シリーズ 1988年10月19日 静岡産業館　 アントニオ猪木 VS 長州力"
+    }
+  ]
+}

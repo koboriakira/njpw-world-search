@@ -1,0 +1,2161 @@
+{
+  "movies": [
+    {
+      "date": "1989-01-10T00:00:00+00:00",
+      "id": "s_series_00310_2_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_25",
+          "name": "千葉・千葉公園体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1989年1月10日 千葉公園体育館 藤波辰巳 VS クラッシャー・バンバン・ビガロ"
+    },
+    {
+      "date": "1989-01-16T00:00:00+00:00",
+      "id": "s_series_00310_3_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_25",
+          "name": "千葉・千葉公園体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1989年1月16日 大阪府立体育会館 IWGPヘビー級選手権試合 藤波辰爾 VS クラッシャー・バンバン・ビガロ"
+    },
+    {
+      "date": "1989-02-09T00:00:00+00:00",
+      "id": "s_series_00310_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_13",
+          "name": "北海道・札幌中島スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1989年2月9日 札幌中島体育センター アントニオ猪木 VS クラッシャー・バンバン・ビガロ"
+    },
+    {
+      "date": "1989-02-09T00:00:00+00:00",
+      "id": "s_series_00310_1_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_103",
+          "name": "ジョージ高野"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_74",
+          "name": "ブルーザー・ブロディ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_575",
+          "name": "イタリアン・スタリオン"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1989年2月9日 札幌中島体育センター イタリアン・スタリオン＆リップ・モーガン VS ジョージ高野＆スーパー・ストロング・マシン"
+    },
+    {
+      "date": "1989-02-09T00:00:00+00:00",
+      "id": "s_series_00310_1_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1989年2月9日 札幌中島体育センター IWGPタッグ選手権試合 藤原喜明＆木村健吾 VS 長州力＆マサ斎藤"
+    },
+    {
+      "date": "1989-02-09T00:00:00+00:00",
+      "id": "s_series_00310_1_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ 1989年2月9日 札幌中島体育センター ビッグバン・ベイダー VS 藤波辰巳"
+    },
+    {
+      "date": "1989-02-22T00:00:00+00:00",
+      "id": "s_series_00086_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "スペシャル・ファイト・イン国技館＆ビッグファイト・シリーズ 1989年2月22日 両国国技館 アントニオ猪木  VS  長州力"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_72",
+          "name": "ヤング闘強導夢杯決勝戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_101",
+          "name": "佐野直喜"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第1試合 ヤング闘強導夢杯決勝戦 佐野直喜 VS ヒロ斎藤"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_10",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_73",
+          "name": "IWGPヘビー級王座決定戦＆闘強導夢杯争奪トーナメント決勝"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第10試合 IWGPヘビー級王座決定戦＆闘強導夢杯争奪トーナメント決勝 ビッグバン・ベイダー VS 橋本真也"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_11",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_297",
+          "name": "スペシャルタッグマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_103",
+          "name": "ジョージ高野"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第11試合 スペシャル・タッグマッチ スーパー・ストロング・マシン＆ジョージ高野 VS 馳 浩＆越中詩郎"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_12",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_288",
+          "name": "スペシャルシングルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第12試合 スペシャル・シングルマッチ 獣神ライガー VS 小林邦昭 獣神サンダー・ライガー デビュー戦"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_12e",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_288",
+          "name": "スペシャルシングルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_132",
+          "name": "ジノ・ガンビーノ"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 12TH MATCH SPECIAL SINGLES MATCH Jyushin Thunder Liger VS. Kuniaki Kobayashi \"Jyushin Thunder Liger Debut Match\"(English Commentary)"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_13",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_76",
+          "name": "米ソスペシャル・シングルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_106",
+          "name": "サルマン・ハシミコフ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第13試合 米ソスペシャル・シングルマッチ サルマン・ハシミコフ VS クラッシャー・バンバン・ビガロ"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_14",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_77",
+          "name": "日ソ異種格闘技戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_107",
+          "name": "ショータ・チョチョシビリ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第14試合 日ソ異種格闘技戦 アントニオ猪木 VS ショータ・チョチョシビリ"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_2",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_78",
+          "name": "IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント１回戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第2試合 IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント１回戦 蝶野正洋 VS ビッグバン・ベイダー"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_3",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_78",
+          "name": "IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント１回戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_108",
+          "name": "ウラジミル・ベルコビッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第3試合 IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント１回戦 藤波辰巳 VS ウラジミル・ベルコビッチ"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_4",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_78",
+          "name": "IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント１回戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_109",
+          "name": "バズ・ソイヤー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_110",
+          "name": "ビクトル・ザンギエフ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第4試合 IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント１回戦 バズ・ソイヤー VS ビクトル・ザンギエフ"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_5",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_78",
+          "name": "IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント１回戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第5試合 IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント１回戦 橋本真也 VS 長州力"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_6",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_79",
+          "name": "マーシャルアーツ日米決戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_111",
+          "name": "ベニー・ユキーデ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_112",
+          "name": "飛鳥信也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第6試合 マーシャルアーツ日米決戦 ベニー・ユキーデ VS 飛鳥信也"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_7",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_80",
+          "name": "IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント準決勝"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第7試合 IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント準決勝 ビッグバン・ベイダー VS 藤波辰巳"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_8",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_80",
+          "name": "IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント準決勝"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_110",
+          "name": "ビクトル・ザンギエフ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第8試合 IWGPヘビー級王座決定＆闘強導夢杯争奪トーナメント準決勝 橋本真也 VS ビクトル・ザンギエフ"
+    },
+    {
+      "date": "1989-04-24T00:00:00+00:00",
+      "id": "s_series_00087_1_9",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_81",
+          "name": "日ソスペシャル・シングルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_113",
+          "name": "ワッハ・エブロエフ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89 格闘衛星☆闘強導夢 1989年4月24日 東京ドーム 第9試合 日ソスペシャル・シングルマッチ マサ斎藤 VS ワッハ・エブロエフ"
+    },
+    {
+      "date": "1989-05-25T00:00:00+00:00",
+      "id": "s_series_00326_01_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_117",
+          "name": "飯塚孝之"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89格闘衛星 日米ソ三国対抗戦シリーズ 1989年5月25日 大阪城ホール 飯塚孝之 VS ハビーリビクタシェフ"
+    },
+    {
+      "date": "1989-05-25T00:00:00+00:00",
+      "id": "s_series_00326_01_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89格闘衛星 日米ソ三国対抗戦シリーズ 1989年5月25日 大阪城ホール IWGPジュニアヘビー級選手権試合 馳浩 VS 獣神ライガー"
+    },
+    {
+      "date": "1989-05-25T00:00:00+00:00",
+      "id": "s_series_00326_01_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_106",
+          "name": "サルマン・ハシミコフ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89格闘衛星 日米ソ三国対抗戦シリーズ 1989年5月25日 大阪城ホール IWGPヘビー級選手権試合 ビッグバンベイダー VS サルマン・ハシミコフ"
+    },
+    {
+      "date": "1989-05-25T00:00:00+00:00",
+      "id": "s_series_00326_01_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_107",
+          "name": "ショータ・チョチョシビリ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89格闘衛星 日米ソ三国対抗戦シリーズ 1989年5月25日 大阪城ホール アントニオ猪木 VS ショータ・チョチョシビリ"
+    },
+    {
+      "date": "1989-05-25T00:00:00+00:00",
+      "id": "s_series_00326_01_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_101",
+          "name": "佐野直喜"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89格闘衛星 日米ソ三国対抗戦シリーズ 1989年5月25日 大阪城ホール ヒロ斎藤 小林邦昭 VS 越中詩郎 佐野直喜"
+    },
+    {
+      "date": "1989-05-25T00:00:00+00:00",
+      "id": "s_series_00326_01_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_103",
+          "name": "ジョージ高野"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89格闘衛星 日米ソ三国対抗戦シリーズ 1989年5月25日 大阪城ホール IWGPタッグ選手権試合 ジョージ高野＆スーパー・ストロング・マシン VS 木村健吾＆木戸修"
+    },
+    {
+      "date": "1989-05-25T00:00:00+00:00",
+      "id": "s_series_00326_01_07",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_113",
+          "name": "ワッハ・エブロエフ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89格闘衛星 日米ソ三国対抗戦シリーズ 1989年5月25日 大阪城ホール クラッシャー・バンバン・ビガロ VS ワッハ・エブロエフ"
+    },
+    {
+      "date": "1989-05-25T00:00:00+00:00",
+      "id": "s_series_00326_01_08",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_108",
+          "name": "ウラジミル・ベルコビッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_110",
+          "name": "ビクトル・ザンギエフ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_21",
+          "name": "藤波辰巳"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89格闘衛星 日米ソ三国対抗戦シリーズ 1989年5月25日 大阪城ホール 藤波辰巳 長州力 VS ウラジミル・ベルコビッチ ビクトル・ザンギエフ"
+    },
+    {
+      "date": "1989-05-25T00:00:00+00:00",
+      "id": "s_series_00326_01_09",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "89格闘衛星 日米ソ三国対抗戦シリーズ 1989年5月25日 大阪城ホール マサ斎藤 VS チムールザラソフ"
+    },
+    {
+      "date": "1989-07-13T00:00:00+00:00",
+      "id": "s_series_00088_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_101",
+          "name": "佐野直喜"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "サマー・ファイト・シリーズ 1989年7月13日 両国国技館 IWGPジュニアヘビー級選手権試合 獣神ライガー VS 佐野直喜"
+    },
+    {
+      "date": "1989-08-10T00:00:00+00:00",
+      "id": "s_archive_153_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ʼ89 格闘衛生・日米ソ三国対抗戦Ⅱ 1989年8月10日 東京・両国国技館 IWGPヘビー級選手権試合 長州力 VS ビッグバン・ベイダー"
+    },
+    {
+      "date": "1989-09-20T00:00:00+00:00",
+      "id": "s_series_00327_01_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_101",
+          "name": "佐野直喜"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_578",
+          "name": "獣神ライガー"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディファイト・シリーズ 1989年9月20日 大阪城ホール IWGPジュニアヘビー級選手権試合 佐野直喜 VS 獣神ライガー"
+    },
+    {
+      "date": "1989-09-20T00:00:00+00:00",
+      "id": "s_series_00327_01_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_100",
+          "name": "クラッシャー・バンバン・ビガロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディファイト・シリーズ 1989年9月20日 大阪城ホール IWGPヘビー級選手権試合 ビッグ・バン・ベイダー VS クラッシャー・バンバン・ビガロ"
+    },
+    {
+      "date": "1989-09-20T00:00:00+00:00",
+      "id": "s_series_00327_01_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_117",
+          "name": "飯塚孝之"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディファイト・シリーズ 1989年9月20日 大阪城ホール IWGPタッグ選手権試合 橋本真也＆マサ斎藤 VS 飯塚孝之＆長州力"
+    },
+    {
+      "date": "1989-09-20T00:00:00+00:00",
+      "id": "s_series_00327_01_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_577",
+          "name": "オーエン・ハート"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディファイト・シリーズ 1989年9月20日 大阪城ホール 後藤達俊 VS オーエンハート"
+    },
+    {
+      "date": "1989-09-20T00:00:00+00:00",
+      "id": "s_series_00327_01_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_220",
+          "name": "ケンドー・ナガサキ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_20",
+          "name": "藤井暁"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_576",
+          "name": "ビリー・ジャック"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディファイト・シリーズ 1989年9月20日 大阪城ホール 木戸修＆木村健吾 VS ビリー・ジャック＆ケンドー・ナガサキ"
+    },
+    {
+      "date": "1989-09-20T00:00:00+00:00",
+      "id": "s_series_00327_01_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_29",
+          "name": "大阪・大阪城ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_106",
+          "name": "サルマン・ハシミコフ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_575",
+          "name": "イタリアン・スタリオン"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ブラディファイト・シリーズ 1989年9月20日 大阪城ホール サルマン・ハシミコフ VS イタリアン・スタリオン"
+    },
+    {
+      "date": "1989-12-31T00:00:00+00:00",
+      "id": "s_series_00258_1_1",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_110",
+          "name": "ビクトル・ザンギエフ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_71",
+          "name": "ロシア・レーニン運動公園 ルイージニキ室内競技場（モスクワ）"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "モスクワ格闘技フェスティバル 1989年12月31日 ソビエト連邦 モスクワ市 レーニン運動公園内 ルイージニキ室内競技場 ビクトル・ザンギエフVS長州力"
+    },
+    {
+      "date": "1989-12-31T00:00:00+00:00",
+      "id": "s_series_00258_1_2",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_107",
+          "name": "ショータ・チョチョシビリ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_123",
+          "name": "ブラッド・レイガンス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_29",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1989",
+          "name": "1989"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1980s",
+          "name": "80年代"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_71",
+          "name": "ロシア・レーニン運動公園 ルイージニキ室内競技場（モスクワ）"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "モスクワ格闘技フェスティバル 1989年12月31日 ソビエト連邦 モスクワ市 レーニン運動公園内 ルイージニキ室内競技場 アントニオ猪木＆ショータ・チョチョシビリVSマサ斎藤＆ブラッド・レイガンズ"
+    }
+  ]
+}

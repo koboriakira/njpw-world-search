@@ -1,0 +1,415 @@
+{
+  "movies": [
+    {
+      "date": "1976-01-09T00:00:00+00:00",
+      "id": "s_series_00012_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_7",
+          "name": "福岡・九電記念体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1976",
+          "name": "1976"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ＆格闘技世界一決定戦 1976年1月9日 福岡九電記念体育館 アントニオ猪木 VS タイガー・ジェット・シン"
+    },
+    {
+      "date": "1976-01-29T00:00:00+00:00",
+      "id": "s_series_00012_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1976",
+          "name": "1976"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ＆格闘技世界一決定戦 1976年1月29日 大阪府立体育会館 アントニオ猪木 VS タイガー・ジェット・シン "
+    },
+    {
+      "date": "1976-02-06T00:00:00+00:00",
+      "id": "s_series_00012_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_10",
+          "name": "格闘技世界一決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_14",
+          "name": "ウイリエム・ルスカ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_10",
+          "name": "鈴木庄一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1976",
+          "name": "1976"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "新春黄金シリーズ＆格闘技世界一決定戦 1976年2月6日 日本武道館 格闘技世界一決定戦 アントニオ猪木 VS ウイリエム・ルスカ"
+    },
+    {
+      "date": "1976-10-07T00:00:00+00:00",
+      "id": "s_series_00013_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_10",
+          "name": "格闘技世界一決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1976",
+          "name": "1976"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1976年10月7日 蔵前国技館 格闘技世界一決定戦 アントニオ猪木 VS アンドレ・ザ・ジャイアント"
+    },
+    {
+      "date": "1976-10-07T00:00:00+00:00",
+      "id": "s_series_00013_1_1en",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1976",
+          "name": "1976"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_120",
+          "name": "マーク・ワーゼッカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_37",
+          "name": "Classic Matches in English"
+        }
+      ],
+      "title": "闘魂シリーズ 1976年10月7日 蔵前国技館 King of Mixed Martial Arts finals: Antonio Inoki VS. Andre the Giant(English Commentary)"
+    },
+    {
+      "date": "1976-10-10T00:00:00+00:00",
+      "id": "s_series_00013_2_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "champ_24",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_6",
+          "name": "NWF世界ヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_5",
+          "name": "山崎正"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1976",
+          "name": "1976"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂シリーズ 1976年10月10日 韓国ソウル 奨忠体育館 NWFヘビー級選手権試合 アントニオ猪木VSパク・ソンナン"
+    },
+    {
+      "date": "1976-12-09T00:00:00+00:00",
+      "id": "s_series_00237_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_1",
+          "name": "東京・蔵前国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_10",
+          "name": "格闘技世界一決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_14",
+          "name": "ウイリエム・ルスカ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1976",
+          "name": "1976"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "格闘技世界一決定戦 1976年12月9日 蔵前国技館 格闘技世界一決定戦 アントニオ猪木 VS ウイリエム・ルスカ"
+    },
+    {
+      "date": "1976-12-12T00:00:00+00:00",
+      "id": "s_series_00253_1_1",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_21",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_5",
+          "name": "山崎正"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1976",
+          "name": "1976"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_529",
+          "name": "アクラム・ペールワン"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_74",
+          "name": "パキスタン・カラチ ナショナル スタジアム（カラチ）"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "異種格闘技戦 1976年12月12日 パキスタン・カラチ・ナショナル・スタジアム 異種格闘技戦 アントニオ猪木VSアクラム・ペールワン"
+    }
+  ]
+}

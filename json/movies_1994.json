@@ -1,0 +1,3379 @@
+{
+  "movies": [
+    {
+      "date": "1994-01-04T00:00:00+00:00",
+      "id": "s_series_00121_1_1",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_169",
+          "name": "ザ・グレート・カブキ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’94BATTLE FIELD IN 闘強導夢 1994年1月4日 東京ドーム 第1試合 10人タッグマッチ 中西学＆永田裕志＆小島聡＆エル・サムライ＆木戸修 VS 小原道由＆小林邦昭＆ザ・グレート・カブキ＆越中詩郎＆木村健悟"
+    },
+    {
+      "date": "1994-01-04T00:00:00+00:00",
+      "id": "s_series_00121_1_10",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’94BATTLE FIELD IN 闘強導夢 1994年1月4日 東京ドーム 第10試合 IWGPヘビー級選手権試合 橋本真也 VS 蝶野正洋"
+    },
+    {
+      "date": "1994-01-04T00:00:00+00:00",
+      "id": "s_series_00121_1_11",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_123",
+          "name": "特別試合・シングルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’94BATTLE FIELD IN 闘強導夢 1994年1月4日 東京ドーム 第11試合 特別試合・シングルマッチ アントニオ猪木 VS 天龍源一郎"
+    },
+    {
+      "date": "1994-01-04T00:00:00+00:00",
+      "id": "s_series_00121_1_2",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_117",
+          "name": "飯塚孝之"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_119",
+          "name": "野上彰"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_130",
+          "name": "青柳政司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_159",
+          "name": "齋藤彰俊"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’94BATTLE FIELD IN 闘強導夢 1994年1月4日 東京ドーム 第2試合 タッグマッチ 飯塚孝之＆野上彰 VS 齋藤彰俊＆青柳政司"
+    },
+    {
+      "date": "1994-01-04T00:00:00+00:00",
+      "id": "s_series_00121_1_3",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_152",
+          "name": "ブラック・キャット"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_180",
+          "name": "ブルータス・ビーフケーキ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’94BATTLE FIELD IN 闘強導夢 1994年1月4日 東京ドーム 第3試合 シングルマッチ ブラック・キャット VS ブルータス・ビーフケーキ"
+    },
+    {
+      "date": "1994-01-04T00:00:00+00:00",
+      "id": "s_series_00121_1_4",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’94BATTLE FIELD IN 闘強導夢 1994年1月4日 東京ドーム 第4試合 シングルマッチ 後藤達俊 VS スーパー・ストロング・マシン"
+    },
+    {
+      "date": "1994-01-04T00:00:00+00:00",
+      "id": "s_series_00121_1_5",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_849",
+          "name": "タイガーマスク（3代目）"
+        }
+      ],
+      "title": "’94BATTLE FIELD IN 闘強導夢 1994年1月4日 東京ドーム 第5試合 シングルマッチ 獣神サンダー・ライガー VS タイガーマスク"
+    },
+    {
+      "date": "1994-01-04T00:00:00+00:00",
+      "id": "s_series_00121_1_6",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_171",
+          "name": "パワー・ウォリアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_172",
+          "name": "ホーク・ウォリアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_181",
+          "name": "ヘラクレス・ヘルナンデス"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’94BATTLE FIELD IN 闘強導夢 1994年1月4日 東京ドーム 第6試合 IWGPタッグ選手権試合 ヘラクレス・ヘルナンデス＆スコット・ノートン VS パワー・ウォリアー＆ホーク・ウォリアー"
+    },
+    {
+      "date": "1994-01-04T00:00:00+00:00",
+      "id": "s_series_00121_1_7",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_144",
+          "name": "スコット・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_145",
+          "name": "リック・スタイナー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’94BATTLE FIELD IN 闘強導夢 1994年1月4日 東京ドーム 第7試合 タッグマッチ 馳 浩＆武藤敬司 VS スコット・スタイナー＆リック・スタイナー"
+    },
+    {
+      "date": "1994-01-04T00:00:00+00:00",
+      "id": "s_series_00121_1_8",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_46",
+          "name": "ハルク・ホーガン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’94BATTLE FIELD IN 闘強導夢 1994年1月4日 東京ドーム 第8試合 シングルマッチ 藤波辰爾 VS ハルク・ホーガン"
+    },
+    {
+      "date": "1994-01-04T00:00:00+00:00",
+      "id": "s_series_00121_1_9",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’94BATTLE FIELD IN 闘強導夢 1994年1月4日 東京ドーム 第9試合 シングルマッチ 長州力 VS 藤原喜明"
+    },
+    {
+      "date": "1994-02-05T00:00:00+00:00",
+      "id": "s_archive_30_01_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_119",
+          "name": "野上彰"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月5日 札幌中島体育センター 藤波辰爾＆木戸修 VS 野上彰＆飯塚孝之"
+    },
+    {
+      "date": "1994-02-05T00:00:00+00:00",
+      "id": "s_archive_30_01_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_13",
+          "name": "北海道・札幌中島スポーツセンター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_554",
+          "name": "ムッシュランボー"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_736",
+          "name": "マイク・イーノス"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月5日 札幌中島体育センター 蝶野正洋＆橋本真也 VS ムッシュランボー＆マイク・イーノス"
+    },
+    {
+      "date": "1994-02-05T00:00:00+00:00",
+      "id": "s_archive_30_01_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_171",
+          "name": "パワー・ウォリアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_172",
+          "name": "ホーク・ウォリアー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月5日 札幌中島体育センター パワーウォリアー＆ホークウォリアー VS 長州力＆馳浩"
+    },
+    {
+      "date": "1994-02-05T00:00:00+00:00",
+      "id": "s_archive_30_01_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_174",
+          "name": "冬木弘道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月5日 札幌中島体育センター 平成維震軍 対 ＷＡＲシングル７番勝負（第１戦） 小林邦昭 VS 冬木弘道"
+    },
+    {
+      "date": "1994-02-05T00:00:00+00:00",
+      "id": "s_archive_30_01_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_159",
+          "name": "齋藤彰俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_175",
+          "name": "北原光騎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月5日 札幌中島体育センター 平成維震軍 対 ＷＡＲシングル７番勝負（第２戦） 齋藤彰俊 VS 北原光騎"
+    },
+    {
+      "date": "1994-02-05T00:00:00+00:00",
+      "id": "s_archive_30_01_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_166",
+          "name": "平井伸和"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月5日 札幌中島体育センター 平成維震軍 対 ＷＡＲシングル７番勝負（第３戦） 木村健悟 VS 平井伸和"
+    },
+    {
+      "date": "1994-02-05T00:00:00+00:00",
+      "id": "s_archive_30_01_07",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_167",
+          "name": "折原昌夫"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月5日 札幌中島体育センター 平成維震軍 対 ＷＡＲシングル７番勝負（第４戦） 小原道由 VS 折原昌夫"
+    },
+    {
+      "date": "1994-02-05T00:00:00+00:00",
+      "id": "s_archive_30_01_08",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_169",
+          "name": "ザ・グレート・カブキ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_36",
+          "name": "阿修羅・原"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月5日 札幌中島体育センター 平成維震軍 対 ＷＡＲシングル７番勝負（第５戦） ザ・グレートカブキ VS 阿修羅原"
+    },
+    {
+      "date": "1994-02-05T00:00:00+00:00",
+      "id": "s_archive_30_01_09",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月5日 札幌中島体育センター 平成維震軍 対 ＷＡＲシングル７番勝負（第６戦） 後藤達俊 VS 天龍源一郎"
+    },
+    {
+      "date": "1994-02-05T00:00:00+00:00",
+      "id": "s_archive_30_01_10",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月5日 札幌中島体育センター 平成維震軍 対 ＷＡＲシングル７番勝負（第７戦） 越中詩郎 VS スーパー・ストロング・マシン"
+    },
+    {
+      "date": "1994-02-06T00:00:00+00:00",
+      "id": "s_archive_30_02_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_738",
+          "name": "レッド・スコルピオン"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月6日 札幌中島体育センター 獣神サンダー・ライガー VS レッド・スコルピオン"
+    },
+    {
+      "date": "1994-02-06T00:00:00+00:00",
+      "id": "s_archive_30_02_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_171",
+          "name": "パワー・ウォリアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_172",
+          "name": "ホーク・ウォリアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月6日 札幌中島体育センター パワーウォリアー＆ホークウォリアー VS 蝶野正洋＆橋本真也"
+    },
+    {
+      "date": "1994-02-06T00:00:00+00:00",
+      "id": "s_archive_30_02_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_126",
+          "name": "木村健悟"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月6日 札幌中島体育センター 新日正規軍 対 平成維震軍シングル７番勝負（第１戦） 長州力 VS 木村健悟"
+    },
+    {
+      "date": "1994-02-06T00:00:00+00:00",
+      "id": "s_archive_30_02_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_169",
+          "name": "ザ・グレート・カブキ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月6日 札幌中島体育センター 新日正規軍 対 平成維震軍シングル７番勝負（第２戦） 馳浩 VS ザ・グレートカブキ"
+    },
+    {
+      "date": "1994-02-06T00:00:00+00:00",
+      "id": "s_archive_30_02_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月6日 札幌中島体育センター 新日正規軍 対 平成維震軍シングル７番勝負（第３戦） 飯塚孝之 VS 後藤達俊"
+    },
+    {
+      "date": "1994-02-06T00:00:00+00:00",
+      "id": "s_archive_30_02_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月6日 札幌中島体育センター 新日正規軍 対 平成維震軍シングル７番勝負（第４戦） 小島聡 VS 小原道由"
+    },
+    {
+      "date": "1994-02-06T00:00:00+00:00",
+      "id": "s_archive_30_02_07",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_119",
+          "name": "野上彰"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月6日 札幌中島体育センター 新日正規軍 対 平成維震軍シングル７番勝負（第５戦） 野上彰 VS 小林邦昭"
+    },
+    {
+      "date": "1994-02-06T00:00:00+00:00",
+      "id": "s_archive_30_02_08",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_159",
+          "name": "齋藤彰俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月6日 札幌中島体育センター 新日正規軍 対 平成維震軍シングル７番勝負（第６戦） 木戸修 VS 齋藤彰俊"
+    },
+    {
+      "date": "1994-02-06T00:00:00+00:00",
+      "id": "s_archive_30_02_09",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’94 1994年2月6日 札幌中島体育センター 新日正規軍 対 平成維震軍シングル７番勝負（第７戦） 藤波辰爾 VS 越中詩郎"
+    },
+    {
+      "date": "1994-02-17T00:00:00+00:00",
+      "id": "s_series_00122_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ファイティング・スピリット’94 1994年2月17日 両国国技館 橋本真也 VS 天龍源一郎"
+    },
+    {
+      "date": "1994-02-24T00:00:00+00:00",
+      "id": "s_series_00123_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_182",
+          "name": "安田忠夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "THANKS WRESTLING DAY BRUSH UP 1994年2月24日 日本武道館 馳浩 VS 安田忠夫"
+    },
+    {
+      "date": "1994-02-24T00:00:00+00:00",
+      "id": "s_series_00123_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_125",
+          "name": "IWGP無差別級決戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "THANKS WRESTLING DAY BRUSH UP 1994年2月24日 日本武道館 IWGP無差別級決戦 橋本真也 VS 獣神サンダー・ライガー"
+    },
+    {
+      "date": "1994-03-16T00:00:00+00:00",
+      "id": "s_series_00124_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_2",
+          "name": "東京・東京体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_182",
+          "name": "安田忠夫"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ハイパー・バトル’94 1994年3月16日 東京体育館 アントニオ猪木＆安田忠夫 VS 蝶野正洋＆木戸修"
+    },
+    {
+      "date": "1994-03-21T00:00:00+00:00",
+      "id": "s_series_00124_2_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_16",
+          "name": "愛知・愛知県体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_139",
+          "name": "スコット・ノートン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ハイパー・バトル’94 1994年3月21日 愛知県体育館 IWGPヘビー級選手権試合 橋本真也 VS スコット・ノートン"
+    },
+    {
+      "date": "1994-03-24T00:00:00+00:00",
+      "id": "s_series_00124_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_15",
+          "name": "京都・京都府立体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_126",
+          "name": "第５回ヤングライオン杯争奪リーグ戦　優勝決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ハイパー・バトル’94 1994年3月24日 京都府立体育館 第５回ヤングライオン杯争奪リーグ戦 優勝決定戦 小島聡 VS 中西学"
+    },
+    {
+      "date": "1994-04-04T00:00:00+00:00",
+      "id": "s_series_00125_1_1",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_49",
+          "name": "広島・広島グリーンアリーナ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "1994バトル・ラッシュ 1994年4月4日 広島グリーンアリーナ 長州力＆天龍源一郎 VS 武藤敬司＆蝶野正洋"
+    },
+    {
+      "date": "1994-04-04T00:00:00+00:00",
+      "id": "s_series_00125_1_2",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_49",
+          "name": "広島・広島グリーンアリーナ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "1994バトル・ラッシュ 1994年4月4日 広島グリーンアリーナ IWGPヘビー級選手権試合 橋本真也 VS 藤波辰爾"
+    },
+    {
+      "date": "1994-04-07T00:00:00+00:00",
+      "id": "s_series_00125_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_50",
+          "name": "熊本・熊本市体育館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_61",
+          "name": "藤原喜明"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "1994バトル・ラッシュ 1994年4月7日 熊本市体育館 グレート・ムタ＆馳浩 VS 長州力＆藤原喜明"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_10",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_183",
+          "name": "ワイルド・ペガサス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_184",
+          "name": "外道"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント準決勝 ワイルド・ペガサス（新日本プロレス） VS 外道（WAR）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_11",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_185",
+          "name": "ザ・グレート・サスケ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント準決勝 獣神サンダー・ライガー（新日本プロレス） VS ザ・グレート・サスケ（みちのくプロレス）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_12",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_183",
+          "name": "ワイルド・ペガサス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_185",
+          "name": "ザ・グレート・サスケ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント決勝戦 ワイルド・ペガサス（新日本プロレス） VS ザ・グレート・サスケ（みちのくプロレス）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_13",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_184",
+          "name": "外道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_188",
+          "name": "スペル・デルフィン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント2回戦 スペル・デルフィン（みちのくプロレス） VS 外道（WAR）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_14",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_192",
+          "name": "リッキー・フジ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント2回戦 獣神サンダー・ライガー（新日本プロレス） VS リッキー・フジ（FMW）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_184",
+          "name": "外道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_186",
+          "name": "ディーン・マレンコ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント1回戦 ディーン・マレンコ（新日本プロレス） VS 外道（WAR）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_188",
+          "name": "スペル・デルフィン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント1回戦 大谷晋二郎（新日本プロレス） VS スペル・デルフィン（みちのくプロレス）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_4",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_189",
+          "name": "TAKAみちのく"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_64",
+          "name": "ブラック・タイガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント1回戦 ブラック・タイガー（新日本プロレス） VS TAKAみちのく（みちのくプロレス）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_5",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_190",
+          "name": "茂木正淑"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント1回戦 エル・サムライ（新日本プロレス） VS 茂木正淑（SPWF）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_6",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_191",
+          "name": "ネグロ・カサス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_192",
+          "name": "リッキー・フジ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント1回戦 ネグロ・カサス（新日本プロレス） VS リッキー・フジ（FMW）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_7",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_193",
+          "name": "ハヤブサ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント1回戦 獣神サンダー・ライガー（新日本プロレス） VS ハヤブサ（FMW）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_7e",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_193",
+          "name": "ハヤブサ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_132",
+          "name": "ジノ・ガンビーノ"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 Tournament 1ST Round Jyushin Thunder Liger (New Japan Pro Wrestling) VS. Hayabusa (FMW) (English Commentary)"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_8",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_183",
+          "name": "ワイルド・ペガサス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_64",
+          "name": "ブラック・タイガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント2回戦 ワイルド・ペガサス（新日本プロレス） VS ブラック・タイガー（新日本プロレス）"
+    },
+    {
+      "date": "1994-04-16T00:00:00+00:00",
+      "id": "s_series_00126_1_9",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_185",
+          "name": "ザ・グレート・サスケ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_415",
+          "name": "SUPER J-CUP 1st STAGE"
+        }
+      ],
+      "title": "SUPER J-CUP　～１st. STAGE～ 1994年4月16日 両国国技館 トーナメント2回戦 エル・サムライ（新日本プロレス） VS ザ・グレート・サスケ（みちのくプロレス）"
+    },
+    {
+      "date": "1994-05-01T00:00:00+00:00",
+      "id": "s_series_00127_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_48",
+          "name": "福岡・福岡ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_131",
+          "name": "INOKI FINAL COUNTDOWN 1st"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_22",
+          "name": "アントニオ猪木 視聴数ベスト10"
+        }
+      ],
+      "title": "94WRESTLING DONTAKU IN FUKUOKA DOME 1994年5月1日 福岡・福岡ドーム INOKI FINAL COUNTDOWN 1st アントニオ猪木 VS グレート・ムタ"
+    },
+    {
+      "date": "1994-05-01T00:00:00+00:00",
+      "id": "s_series_00127_1_2",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_48",
+          "name": "福岡・福岡ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "94WRESTLING DONTAKU IN FUKUOKA DOME 1994年5月1日 福岡・福岡ドーム IWGPヘビー級選手権試合 藤波辰爾 VS 橋本真也"
+    },
+    {
+      "date": "1994-05-01T00:00:00+00:00",
+      "id": "s_series_00127_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_48",
+          "name": "福岡・福岡ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_131",
+          "name": "INOKI FINAL COUNTDOWN 1st"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "94WRESTLING DONTAKU IN FUKUOKA DOME May 1, 1994 Fukuoka・Fukuoka Dome (English Commentary) INOKI FINAL COUNTDOWN 1st Antonio Inoki vs. Great Muta"
+    },
+    {
+      "date": "1994-06-13T00:00:00+00:00",
+      "id": "s_series_00128_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_132",
+          "name": "BEST OF THE SUPER 優勝決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_188",
+          "name": "スペル・デルフィン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_132_1",
+          "name": "BEST OF THE SUPER Jr."
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "BEST OF THE SUPER Jr. 1994年6月13日 大阪府立体育会館 優勝決定戦 獣神サンダー・ライガー VS スペル・デルフィン"
+    },
+    {
+      "date": "1994-08-05T00:00:00+00:00",
+      "id": "s_series_00335_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_76",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_432",
+          "name": "G1 CLIMAX 4"
+        }
+      ],
+      "title": "G1 CLIMAX 1994 1994年8月5日 東京・両国国技館 G1 CLIMAX 長州力 VS 武藤敬司"
+    },
+    {
+      "date": "1994-08-05T00:00:00+00:00",
+      "id": "s_series_00335_3_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_432",
+          "name": "G1 CLIMAX 4"
+        }
+      ],
+      "title": "G1 CLIMAX 1994 Aug 5, 1994 Tokyo・Ryogoku Kokugikan (English Commentary) G1 CLIMAX Riki Choshu VS Keiji Muto"
+    },
+    {
+      "date": "1994-08-07T00:00:00+00:00",
+      "id": "s_series_00335_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_171",
+          "name": "パワー・ウォリアー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_76",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_432",
+          "name": "G1 CLIMAX 4"
+        }
+      ],
+      "title": "G1 CLIMAX 1994 1994年8月7日 両国国技館 蝶野正洋 VS パワーウォリアー"
+    },
+    {
+      "date": "1994-09-23T00:00:00+00:00",
+      "id": "s_series_00129_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_44",
+          "name": "神奈川・横浜アリーナ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_133",
+          "name": "INOKI FINAL COUNTDOWN 2nd プロレスVS柔道異種格闘技戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_14",
+          "name": "ウイリエム・ルスカ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "G1 CLIMAX SPECIAL 1994 1994年9月23日 横浜アリーナ INOKI FINAL COUNTDOWN 2nd プロレス VS 柔道異種格闘技戦 アントニオ猪木 VS ウイリエム・ルスカ"
+    },
+    {
+      "date": "1994-10-18T00:00:00+00:00",
+      "id": "s_series_00130_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_51",
+          "name": "岡山・岡山県体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_134",
+          "name": "スーパージュニア・タッグ・リーグ戦　優勝決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_183",
+          "name": "ワイルド・ペガサス"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_185",
+          "name": "ザ・グレート・サスケ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_64",
+          "name": "ブラック・タイガー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_134_1",
+          "name": "スーパージュニア・タッグ・リーグ戦"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "SGタッグ・リーグ戦VI 1994年10月18日 岡山県体育館 スーパージュニア・タッグ・リーグ戦 優勝決定戦 ワイルド・ペガサス＆大谷晋二郎 VS ザ・グレート・サスケ＆ブラック・タイガー"
+    },
+    {
+      "date": "1994-10-30T00:00:00+00:00",
+      "id": "s_series_00130_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_135",
+          "name": "SGタッグ・リーグ戦Ⅳ　優勝決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_93",
+          "name": "スーパー・ストロング・マシン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "SGタッグ・リーグ戦VI 1994年10月30日 両国国技館 SGタッグ・リーグ戦Ⅳ 優勝決定戦 武藤敬司＆馳浩 VS 蝶野正洋＆スーパー・ストロング・マシン"
+    },
+    {
+      "date": "1994-11-13T00:00:00+00:00",
+      "id": "s_series_00131_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_41",
+          "name": "千葉・東京ベイNKホール"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_136",
+          "name": "平成維震軍オープニングマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "平成維震軍オープニングマッチ 1994年11月13日 東京ベイNKホール タイガー・ジェット・シン VS 越中詩郎"
+    },
+    {
+      "date": "1994-12-13T00:00:00+00:00",
+      "id": "s_archive_166_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1994",
+          "name": "1994"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "Battle Final '94 1994年12月13日 大阪・大阪府立体育会館 IWGPヘビー級選手権試合 橋本真也 VS 馳浩"
+    }
+  ]
+}

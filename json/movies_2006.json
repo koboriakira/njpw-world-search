@@ -1,0 +1,747 @@
+{
+  "movies": [
+    {
+      "date": "2006-01-04T00:00:00+00:00",
+      "id": "s_series_00167_1_1",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_280",
+          "name": "山本尚史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_296",
+          "name": "崔領二"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂始動～CHAPTER1～ 2006年1月4日 東京ドーム 第1試合 山本尚史 VS 崔領二"
+    },
+    {
+      "date": "2006-01-04T00:00:00+00:00",
+      "id": "s_series_00167_1_10",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_297",
+          "name": "大森隆男"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂始動～CHAPTER1～ 2006年1月4日 東京ドーム 第10試合 IWGPタッグ選手権試合 蝶野正洋＆天山広吉 VS 大森隆男＆越中詩郎"
+    },
+    {
+      "date": "2006-01-04T00:00:00+00:00",
+      "id": "s_series_00167_1_2",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_184",
+          "name": "外道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_259",
+          "name": "邪道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_300",
+          "name": "田中将斗"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_301",
+          "name": "金村キンタロー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_302",
+          "name": "BADBOY非道"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂始動～CHAPTER1～ 2006年1月4日 東京ドーム 第2試合 獣神サンダー・ライガー 邪道 外道 VS 田中将斗 金村キンタロー BADBOY非道"
+    },
+    {
+      "date": "2006-01-04T00:00:00+00:00",
+      "id": "s_series_00167_1_3",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_227",
+          "name": "高岩竜一"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_239",
+          "name": "田中稔"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_304",
+          "name": "石井智宏"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_850",
+          "name": "タイガーマスク（4代目）"
+        }
+      ],
+      "title": "闘魂始動～CHAPTER1～ 2006年1月4日 東京ドーム 第3試合 タイガーマスク 稔 VS 高岩竜一 石井智宏"
+    },
+    {
+      "date": "2006-01-04T00:00:00+00:00",
+      "id": "s_series_00167_1_4",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_215",
+          "name": "西村修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_281",
+          "name": "後藤洋央紀"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_288",
+          "name": "矢野通"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_305",
+          "name": "長尾浩志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_306",
+          "name": "佐藤耕平"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_307",
+          "name": "宇和野貴史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_308",
+          "name": "佐々木義人"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_309",
+          "name": "神風"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_310",
+          "name": "関本大介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂始動～CHAPTER1～ 2006年1月4日 東京ドーム 第4試合 藤波辰爾 西村修 飯塚高史 矢野通 後藤洋央紀 長尾浩志 VS 長州力 佐藤耕平 宇和野貴史 佐々木義人 神風 関本大介"
+    },
+    {
+      "date": "2006-01-04T00:00:00+00:00",
+      "id": "s_series_00167_1_5",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_226",
+          "name": "吉江豊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_311",
+          "name": "曙"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_312",
+          "name": "B・S・マシーン"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂始動～CHAPTER1～ 2006年1月4日 東京ドーム 第5試合 吉江豊 曙 VS B・S・マシーン ヒロ斎藤"
+    },
+    {
+      "date": "2006-01-04T00:00:00+00:00",
+      "id": "s_series_00167_1_6",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_253",
+          "name": "村上和成"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂始動～CHAPTER1～ 2006年1月4日 東京ドーム 第6試合 永田裕志 VS 村上和成"
+    },
+    {
+      "date": "2006-01-04T00:00:00+00:00",
+      "id": "s_series_00167_1_7",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂始動～CHAPTER1～ 2006年1月4日 東京ドーム 第7試合 金本浩二 VS 大谷晋二郎"
+    },
+    {
+      "date": "2006-01-04T00:00:00+00:00",
+      "id": "s_series_00167_1_8",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_249",
+          "name": "柴田勝頼"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂始動～CHAPTER1～ 2006年1月4日 東京ドーム 第8試合 棚橋弘至 VS 柴田勝頼"
+    },
+    {
+      "date": "2006-01-04T00:00:00+00:00",
+      "id": "s_series_00167_1_9",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_313",
+          "name": "ジャイアント・バーナード"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂始動～CHAPTER1～ 2006年1月4日 東京ドーム 第9試合 中西学 VS ジャイアント・バーナード"
+    },
+    {
+      "date": "2006-02-01T00:00:00+00:00",
+      "id": "s_archive_41_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_42",
+          "name": "北海道・月寒グリーンドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_226",
+          "name": "吉江豊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_246",
+          "name": "真壁伸也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_287",
+          "name": "ブルー・ウルフ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT 2006 2006年2月1日 札幌・月寒グリーンドーム 吉江豊＆真壁伸也 VS ブルーウルフ＆棚橋弘至"
+    },
+    {
+      "date": "2006-07-17T00:00:00+00:00",
+      "id": "s_series_00272_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_42",
+          "name": "北海道・月寒グリーンドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_67",
+          "name": "IWGPヘビー級王座決定戦"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_313",
+          "name": "ジャイアント・バーナード"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_35",
+          "name": "古澤琢"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "Circuit 2006 Turbulence ～乱気流～  2006年7月17日 札幌・月寒グリーンドーム IWGPヘビー級王座決定トーナメント 決勝戦 棚橋弘至 VS ジャイアント・バーナード"
+    },
+    {
+      "date": "2006-07-17T00:00:00+00:00",
+      "id": "s_series_00272_2_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_42",
+          "name": "北海道・月寒グリーンドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_313",
+          "name": "ジャイアント・バーナード"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "Circuit 2006 Turbulence ～乱気流～  Jul 17, 2006 Hokkaido・Tsukisamu Green Dome (English Commentary) IWGP HEAVYWEIGHT CHAMPIONSHIP MATCH FINAL Hiroshi Tanahashi VS Giant Bernard"
+    },
+    {
+      "date": "2006-08-13T00:00:00+00:00",
+      "id": "s_series_00342_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_33",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2006",
+          "name": "2006"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_441",
+          "name": "G1 CLIMAX 16"
+        }
+      ],
+      "title": "G1 CLIMAX 2006 2006年8月13日 両国国技館 優勝決定戦 天山広吉 VS 小島聡"
+    }
+  ]
+}

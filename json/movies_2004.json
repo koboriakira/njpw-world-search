@@ -1,0 +1,1317 @@
+{
+  "movies": [
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_1",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_217",
+          "name": "スペシャル・プレゼントマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_280",
+          "name": "山本尚史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_281",
+          "name": "後藤洋央紀"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム スペシャル・プレゼントマッチ 第1試合 山本尚史 VS 後藤洋央紀"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_10",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_218",
+          "name": "Full Force Attack"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_249",
+          "name": "柴田勝頼"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_253",
+          "name": "村上和成"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_269",
+          "name": "ジョシュ・バーネット"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム 第5試合 Full Force Attack ジョシュ・バーネット 飯塚高史 VS 村上和成 柴田勝頼"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_11",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_219",
+          "name": "ゴッチイズム追求 ～原点～"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_215",
+          "name": "西村修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_282",
+          "name": "鈴木みのる"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム 第6試合 ゴッチイズム追求 ～原点～ 西村修 VS 鈴木みのる"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_12",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_220",
+          "name": "武骨大戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム 第7試合 武骨大戦 中西学 VS 天龍源一郎"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_13",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_221",
+          "name": "LIFE OR DEATH FIGHT ～死闘～"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム 第8試合 LIFE OR DEATH FIGHT ～死闘～ 永田裕志 VS 佐々木健介"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_14",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_222",
+          "name": "プロレス宣言 ～蝶野正洋復活戦～"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_266",
+          "name": "ボブ・サップ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム 第9試合 プロレス宣言 ～蝶野正洋復活戦～ 蝶野正洋 天山広吉 VS 武藤敬司 ボブ・サップ"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_15",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_223",
+          "name": "IWGPヘビー級王座&NWFヘビー級王座統一戦"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_212",
+          "name": "高山善廣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_278",
+          "name": "中邑真輔"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム 第10試合 IWGPヘビー級王座&NWFヘビー級王座統一戦 中邑真輔 VS 高山善廣"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_2",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_217",
+          "name": "スペシャル・プレゼントマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_283",
+          "name": "竹村豪氏"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム スペシャル・プレゼントマッチ 第2試合 エル・サムライ  VS  竹村豪氏"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_3",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_217",
+          "name": "スペシャル・プレゼントマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_270",
+          "name": "柳澤龍志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_271",
+          "name": "魔界1号"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_284",
+          "name": "エンセン井上"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_285",
+          "name": "筑前りょう太"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_286",
+          "name": "長井満也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム スペシャル・プレゼントマッチ 第3試合 小原道由 ヒロ斎藤 後藤達俊 エンセン井上  VS  筑前りょう太 柳澤龍志 長井満也 魔界1号"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_4",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_217",
+          "name": "スペシャル・プレゼントマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_246",
+          "name": "真壁伸也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_250",
+          "name": "井上亘"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_287",
+          "name": "ブルー・ウルフ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_288",
+          "name": "矢野通"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム スペシャル・プレゼントマッチ 第4試合 井上亘 ブルー・ウルフ  VS  矢野通 真壁伸也"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_5",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_217",
+          "name": "スペシャル・プレゼントマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_182",
+          "name": "安田忠夫"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_248",
+          "name": "成瀬昌由"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム スペシャル・プレゼントマッチ 第5試合 成瀬昌由  VS  安田忠夫"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_6",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_224",
+          "name": "ヤングライオン ～伝統の第1試合～"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_289",
+          "name": "田口隆祐"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_290",
+          "name": "安沢明也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム 第1試合 ヤングライオン ～伝統の第1試合～ 田口隆祐 VS 安沢明也"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_7",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_307",
+          "name": "IWGPジュニアタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_184",
+          "name": "外道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_259",
+          "name": "邪道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_277",
+          "name": "ヒート"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_850",
+          "name": "タイガーマスク（4代目）"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム 第2試合 IWGPジュニア・タッグ選手権試合 邪道＆外道 VS ヒート＆タイガーマスク"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_8",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_226",
+          "name": "GHCジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_292",
+          "name": "杉浦貴"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム 第3試合 GHCジュニアヘビー級選手権試合 杉浦貴 VS 獣神サンダー・ライガー"
+    },
+    {
+      "date": "2004-01-04T00:00:00+00:00",
+      "id": "s_series_00164_1_9",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_227",
+          "name": "U-30無差別級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_226",
+          "name": "吉江豊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "WRESTLING WORLD 2004 2004年1月4日 東京ドーム 第4試合 U-30無差別級選手権試合 棚橋弘至 VS 吉江豊"
+    },
+    {
+      "date": "2004-02-15T00:00:00+00:00",
+      "id": "s_archive_206_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_67",
+          "name": "IWGPヘビー級王座決定戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_139",
+          "name": "中丸徹"
+        }
+      ],
+      "title": "FIGHTING SPIRIT 2004 2004年2月15日 東京・両国国技館 IWGPヘビー級王座決定戦 天山広吉 VS 天龍源一郎"
+    },
+    {
+      "date": "2004-03-12T00:00:00+00:00",
+      "id": "s_archive_60_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_63",
+          "name": "東京・国立代々木競技場 第二体育館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_307",
+          "name": "IWGPジュニアタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_184",
+          "name": "外道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_259",
+          "name": "邪道"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_35",
+          "name": "古澤琢"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_790",
+          "name": "カレーマン"
+        }
+      ],
+      "title": "HYPER BATTLE 2004年3月12日 東京・国立代々木競技場 第二体育館 IWGPJr.タッグ選手権試合 邪道＆外道 VS カレーマン＆アメリカン・ドラゴン"
+    },
+    {
+      "date": "2004-03-28T00:00:00+00:00",
+      "id": "s_archive_245",
+      "tags": [
+        {
+          "div": "tag-champ",
+          "id": "champ_227",
+          "name": "U-30無差別級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_253",
+          "name": "村上和成"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_40",
+          "name": "吉野真治"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_9",
+          "name": "山本小鉄"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "KING of SPORTS 2004年3月28日 両国国技館 Ｕ－30無差別級戦金網デスマッチ 棚橋弘至 VS 村上和成"
+    },
+    {
+      "date": "2004-03-28T00:00:00+00:00",
+      "id": "s_archive_245_1_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_212",
+          "name": "高山善廣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_282",
+          "name": "鈴木みのる"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "KING of SPORTS 2004年3月28日 両国国技館 IWGPタッグ選手権試合 高山善廣＆鈴木みのる VS 天龍源一郎＆中西学"
+    },
+    {
+      "date": "2004-03-28T00:00:00+00:00",
+      "id": "s_archive_245_2_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_212",
+          "name": "高山善廣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_282",
+          "name": "鈴木みのる"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        }
+      ],
+      "title": "KING of SPORTS Mar 28, 2004 Ryogoku Kokugikan (English Commentary) IWGP TAG TEAM CHAMPIONSHIP MATCH Yoshihiro Takayama & Minoru Suzuki vs. Genichiro Tenryu & Manabu Nakanishi"
+    },
+    {
+      "date": "2004-08-08T00:00:00+00:00",
+      "id": "s_series_00279_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_212",
+          "name": "高山善廣"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_439",
+          "name": "G1 CLIMAX 14"
+        }
+      ],
+      "title": "G1 CLIMAX 2004 2004年8月8日 大阪府立体育会館 公式リーグ戦Ｂブロック 佐々木健介VS高山善廣"
+    },
+    {
+      "date": "2004-08-15T00:00:00+00:00",
+      "id": "s_series_00279_2_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2015",
+          "name": "2015"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_439",
+          "name": "G1 CLIMAX 14"
+        }
+      ],
+      "title": "G1 CLIMAX 2004 2004年8月15日 両国国技館 優勝決定戦 天山広吉 VS 棚橋弘至"
+    },
+    {
+      "date": "2004-11-13T00:00:00+00:00",
+      "id": "s_series_00280_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_36",
+          "name": "大阪・大阪ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_177",
+          "name": "中西学"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_214",
+          "name": "藤田和之"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_240",
+          "name": "ケンドー・カシン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_278",
+          "name": "中邑真輔"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_35",
+          "name": "古澤琢"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_38",
+          "name": "金沢克彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂祭り 2004年11月13日 大阪・大阪ドーム 闘魂祭りスペシャルマッチ 中西学＆中邑真輔 VS 藤田和之＆ケンドー・カシン"
+    },
+    {
+      "date": "2004-11-13T00:00:00+00:00",
+      "id": "s_series_00280_1_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_36",
+          "name": "大阪・大阪ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_282",
+          "name": "鈴木みのる"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_31",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_36",
+          "name": "安田拡了"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2000s",
+          "name": "00年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2004",
+          "name": "2004"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "闘魂祭り 2004年11月13日 大阪・大阪ドーム IWGPヘビー級選手権試合 佐々木健介 VS 鈴木みのる"
+    }
+  ]
+}

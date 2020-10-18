@@ -1,0 +1,1745 @@
+{
+  "movies": [
+    {
+      "date": "1996-01-04T00:00:00+00:00",
+      "id": "s_series_00141_1_1",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_156",
+          "name": "オープニングマッチ・６人タッグ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_204",
+          "name": "石澤常光"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_205",
+          "name": "金原弘光"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_206",
+          "name": "桜庭和志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_207",
+          "name": "山本健一"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "96WRESTLING WORLD IN闘強導夢 1996年1月4日 東京ドーム 第1試合 オープニングマッチ・６人タッグ 石沢常光＆大谷晋二郎＆永田裕志 VS 山本健一＆桜庭和志＆金原弘光"
+    },
+    {
+      "date": "1996-01-04T00:00:00+00:00",
+      "id": "s_series_00141_1_10",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "iwgp_heavy",
+          "name": "IWGPヘビー級"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_92",
+          "name": "高田延彦"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "96WRESTLING WORLD IN闘強導夢 1996年1月4日 東京ドーム 第10試合 IWGPヘビー級選手権 武藤敬司 VS 高田延彦"
+    },
+    {
+      "date": "1996-01-04T00:00:00+00:00",
+      "id": "s_series_00141_1_2",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "96WRESTLING WORLD IN闘強導夢 1996年1月4日 東京ドーム 第2試合 凱旋帰国試合 小島聡 VS 天山広吉"
+    },
+    {
+      "date": "1996-01-04T00:00:00+00:00",
+      "id": "s_series_00141_1_3",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "96WRESTLING WORLD IN闘強導夢 1996年1月4日 東京ドーム 第3試合 IWGPジュニアヘビー級選手権試合 金本浩二 VS 獣神サンダー・ライガー"
+    },
+    {
+      "date": "1996-01-04T00:00:00+00:00",
+      "id": "s_series_00141_1_4",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_159",
+          "name": "平成維震軍vs狼群団・大将戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "96WRESTLING WORLD IN闘強導夢 1996年1月4日 東京ドーム 第4試合 平成維震軍 VS 狼群団・大将戦 越中詩郎 VS 蝶野正洋"
+    },
+    {
+      "date": "1996-01-04T00:00:00+00:00",
+      "id": "s_series_00141_1_5",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_174",
+          "name": "冬木弘道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_202",
+          "name": "安生洋二"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "96WRESTLING WORLD IN闘強導夢 1996年1月4日 東京ドーム 第5試合 特別試合 冬木弘道 VS 安生洋二"
+    },
+    {
+      "date": "1996-01-04T00:00:00+00:00",
+      "id": "s_series_00141_1_6",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_161",
+          "name": "ノーザンライト・ファイナルマッチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_104",
+          "name": "馳浩"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "96WRESTLING WORLD IN闘強導夢 1996年1月4日 東京ドーム 第6試合 ノーザンライト・ファイナルマッチ 馳 浩 VS 佐々木健介"
+    },
+    {
+      "date": "1996-01-04T00:00:00+00:00",
+      "id": "s_series_00141_1_7",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_162",
+          "name": "日刊スポーツ新聞社創立50周年記念特別試合 INOKI FINAL COUNT DOWN 5th"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_94",
+          "name": "ビッグバン・ベイダー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_22",
+          "name": "アントニオ猪木 視聴数ベスト10"
+        }
+      ],
+      "title": "96WRESTLING WORLD IN闘強導夢 1996年1月4日 東京ドーム 第7試合 日刊スポーツ新聞社創立50周年記念特別試合 INOKI FINAL COUNT DOWN 5th アントニオ猪木 VS ビッグバン・ベイダー"
+    },
+    {
+      "date": "1996-01-04T00:00:00+00:00",
+      "id": "s_series_00141_1_8",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_163",
+          "name": "新日本プロレスvsＵＷＦインター対抗戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_210",
+          "name": "垣原賢人"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_99",
+          "name": "特別特集"
+        }
+      ],
+      "title": "96WRESTLING WORLD IN闘強導夢 1996年1月4日 東京ドーム 第8試合 新日本プロレス VS ＵＷＦインター対抗戦 長州力 VS 垣原賢人"
+    },
+    {
+      "date": "1996-01-04T00:00:00+00:00",
+      "id": "s_series_00141_1_9",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "tokyodome",
+          "name": "1.4東京ドーム"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_164",
+          "name": "超・蹴撃戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_86",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "96WRESTLING WORLD IN闘強導夢 1996年1月4日 東京ドーム 第9試合 超・蹴撃戦 橋本真也 VS 山崎一夫"
+    },
+    {
+      "date": "1996-02-03T00:00:00+00:00",
+      "id": "s_archive_32_01_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_119",
+          "name": "野上彰"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月3日 札幌中島体育センター 敗者髪切りマッチ 野上彰 VS 小林邦昭"
+    },
+    {
+      "date": "1996-02-03T00:00:00+00:00",
+      "id": "s_archive_32_01_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_174",
+          "name": "冬木弘道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_184",
+          "name": "外道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_215",
+          "name": "西村修"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月3日 札幌中島体育センター IWGPタッグ挑戦者決定リーグ戦 小島聡＆西村修 VS 外道＆冬木弘道 "
+    },
+    {
+      "date": "1996-02-03T00:00:00+00:00",
+      "id": "s_archive_32_01_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_202",
+          "name": "安生洋二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_212",
+          "name": "高山善廣"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月3日 札幌中島体育センター IWGPタッグ挑戦者決定リーグ戦 ヒロ斎藤＆天山広吉 VS 高山善廣＆安生洋二"
+    },
+    {
+      "date": "1996-02-03T00:00:00+00:00",
+      "id": "s_archive_32_01_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_64",
+          "name": "ブラック・タイガー"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月3日 札幌中島体育センター IWGPジュニアヘビー級選手権試合 獣神サンダー・ライガー VS ブラックタイガー"
+    },
+    {
+      "date": "1996-02-03T00:00:00+00:00",
+      "id": "s_archive_32_01_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_159",
+          "name": "齋藤彰俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_33",
+          "name": "木村健吾"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月3日 札幌中島体育センター 武藤敬司＆佐々木健介 VS 木村健吾＆齋藤彰俊"
+    },
+    {
+      "date": "1996-02-03T00:00:00+00:00",
+      "id": "s_archive_32_01_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_155",
+          "name": "小原道由"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_194",
+          "name": "平田淳嗣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月3日 札幌中島体育センター 橋本真也＆平田淳嗣 VS 越中詩郎＆小原道由 "
+    },
+    {
+      "date": "1996-02-03T00:00:00+00:00",
+      "id": "s_archive_32_01_07",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_204",
+          "name": "石澤常光"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_205",
+          "name": "金原弘光"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_206",
+          "name": "桜庭和志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_207",
+          "name": "山本健一"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_210",
+          "name": "垣原賢人"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_227",
+          "name": "高岩竜一"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月3日 札幌中島体育センター 永田裕志＆大谷晋二郎＆石沢常光＆高岩竜一 VS 垣原賢人＆金原弘光＆桜庭和志＆山本健一 "
+    },
+    {
+      "date": "1996-02-04T00:00:00+00:00",
+      "id": "s_archive_32_02_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_174",
+          "name": "冬木弘道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_184",
+          "name": "外道"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_202",
+          "name": "安生洋二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_212",
+          "name": "高山善廣"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月4日 札幌中島体育センター IWGPタッグ挑戦者決定リーグ戦 高山善廣＆安生洋二 VS 外道＆冬木弘道"
+    },
+    {
+      "date": "1996-02-04T00:00:00+00:00",
+      "id": "s_archive_32_02_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_102",
+          "name": "ヒロ斎藤"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_179",
+          "name": "小島聡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_215",
+          "name": "西村修"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月4日 札幌中島体育センター IWGPタッグ挑戦者決定リーグ戦 小島聡＆西村修 VS ヒロ斎藤＆天山広吉 "
+    },
+    {
+      "date": "1996-02-04T00:00:00+00:00",
+      "id": "s_archive_32_02_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_165",
+          "name": "エル・サムライ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_186",
+          "name": "ディーン・マレンコ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月4日 札幌中島体育センター ＵＷＡ世界ライトヘビー級選手権 エル・サムライ VS ディーン・マレンコ"
+    },
+    {
+      "date": "1996-02-04T00:00:00+00:00",
+      "id": "s_archive_32_02_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_119",
+          "name": "野上彰"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_159",
+          "name": "齋藤彰俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_194",
+          "name": "平田淳嗣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_66",
+          "name": "小林邦昭"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月4日 札幌中島体育センター 橋本真也＆野上彰＆平田淳嗣 VS 越中詩郎＆小林邦昭＆齋藤彰俊"
+    },
+    {
+      "date": "1996-02-04T00:00:00+00:00",
+      "id": "s_archive_32_02_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_134",
+          "name": "佐々木健介"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_84",
+          "name": "木戸修"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_86",
+          "name": "山崎一夫"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月4日 札幌中島体育センター 武藤敬司＆佐々木健介 VS 山崎一夫＆木戸修 "
+    },
+    {
+      "date": "1996-02-04T00:00:00+00:00",
+      "id": "s_archive_32_02_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_26",
+          "name": "北海道・札幌中島体育センター"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_152",
+          "name": "ブラック・キャット"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_196",
+          "name": "金本浩二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_205",
+          "name": "金原弘光"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_207",
+          "name": "山本健一"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_208",
+          "name": "飯塚高史"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_210",
+          "name": "垣原賢人"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "FIGHTING SPIRIT ’96 1996年2月4日 札幌中島体育センター 飯塚高史＆金本浩二＆ブラック・キャット＆永田裕志 VS 垣原賢人＆金原弘 光＆桜庭和志＆山本健一"
+    },
+    {
+      "date": "1996-02-25T00:00:00+00:00",
+      "id": "s_series_00142_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_120",
+          "name": "IWGPタッグ選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_165",
+          "name": "ファイティング・スピリット’96"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_194",
+          "name": "平田淳嗣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_202",
+          "name": "安生洋二"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_212",
+          "name": "高山善廣"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ファイティング・スピリット’96 1996年2月25日 両国国技館 IWGPタッグ選手権試合 橋本真也＆平田淳嗣 VS 安生洋二＆高山善廣"
+    },
+    {
+      "date": "1996-02-25T00:00:00+00:00",
+      "id": "s_series_00142_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_165",
+          "name": "ファイティング・スピリット’96"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_101",
+          "name": "佐野直喜"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_115",
+          "name": "獣神サンダー・ライガー"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_77",
+          "name": "武藤敬司"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_92",
+          "name": "高田延彦"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "ファイティング・スピリット’96 1996年2月25日 両国国技館 武藤敬司＆獣神サンダー・ライガー VS 高田延彦＆佐野直喜"
+    },
+    {
+      "date": "1996-04-29T00:00:00+00:00",
+      "id": "s_series_00143_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_166",
+          "name": "’96BATTLE FORMATION"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_71",
+          "name": "IWGPヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_90",
+          "name": "橋本真也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_92",
+          "name": "高田延彦"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_29",
+          "name": "安生洋二"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’96BATTLE FORMATION 1996年4月29日 東京ドーム IWGPヘビー級選手権試合 高田延彦 VS 橋本真也"
+    },
+    {
+      "date": "1996-04-29T00:00:00+00:00",
+      "id": "s_series_00143_1_2",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_166",
+          "name": "’96BATTLE FORMATION"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_128",
+          "name": "天龍源一郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_99",
+          "name": "藤波辰爾"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’96BATTLE FORMATION 1996年4月29日 東京ドーム 藤波辰爾 VS 天龍源一郎"
+    },
+    {
+      "date": "1996-04-29T00:00:00+00:00",
+      "id": "s_series_00143_1_3",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_38",
+          "name": "東京・東京ドーム"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_166",
+          "name": "’96BATTLE FORMATION"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_133",
+          "name": "グレート・ムタ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_213",
+          "name": "新崎“白使”人生"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "’96BATTLE FORMATION 1996年4月29日 東京ドーム グレート・ムタ VS 新崎“白使”人生"
+    },
+    {
+      "date": "1996-05-12T00:00:00+00:00",
+      "id": "s_series_00316_1_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_21",
+          "name": "東京・後楽園ホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_114",
+          "name": "後藤達俊"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_197",
+          "name": "天山広吉"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_85",
+          "name": "越中詩郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2010s",
+          "name": "10年代"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "THANKS WRESTLING DAY '96 1996年5月12日 後楽園ホール 天山広吉 蝶野正洋 VS 後藤達俊 越中詩郎"
+    },
+    {
+      "date": "1996-06-17T00:00:00+00:00",
+      "id": "s_series_00144_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_8",
+          "name": "東京・日本武道館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_167",
+          "name": "THE SKYDIVING-J"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_187",
+          "name": "大谷晋二郎"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_206",
+          "name": "桜庭和志"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "THE SKYDIVING-J 1996年6月17日 日本武道館 UWA世界ライト・ヘビー級王座決定戦 大谷晋二郎 VS 桜庭和志"
+    },
+    {
+      "date": "1996-08-05T00:00:00+00:00",
+      "id": "s_series_00145_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_168",
+          "name": "G1 CLIMAX ～STRONG STYLE TRADITION～"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_209",
+          "name": "IWGPジュニアヘビー級選手権試合"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_170",
+          "name": "ウルティモ・ドラゴン"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_185",
+          "name": "ザ・グレート・サスケ"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_23",
+          "name": "田畑祐一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "G1 CLIMAX 1996 ～STRONG STYLE TRADITION～ 1996年8月5日 両国国技館 J・CORWNジュニア・ヘビー級8冠統一トーナメント 決勝戦 ザ・グレート・サスケ VS ウルティモ・ドラゴン"
+    },
+    {
+      "date": "1996-08-06T00:00:00+00:00",
+      "id": "s_series_00146_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_27",
+          "name": "東京・両国国技館"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_169",
+          "name": "G1 CLIMAX 6"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_301",
+          "name": "G1CLIMAX公式戦"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_30",
+          "name": "長州力"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_91",
+          "name": "蝶野正洋"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_18",
+          "name": "辻よしなり"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_99",
+          "name": "特別特集"
+        }
+      ],
+      "title": "G1 CLIMAX 1996 ～STRONG STYLE TRADITION～ 1996年8月6日 両国国技館 第6回 G1 CLIMAX 優勝決定戦 長州力 VS 蝶野正洋"
+    },
+    {
+      "date": "1996-11-01T00:00:00+00:00",
+      "id": "s_series_00147_1_1",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_49",
+          "name": "広島・広島グリーンアリーナ"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_170",
+          "name": "SGタッグ・リーグ戦VI"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_178",
+          "name": "永田裕志"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_214",
+          "name": "藤田和之"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_19",
+          "name": "柴田惣一"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_27",
+          "name": "真鍋由"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_6",
+          "name": "マサ斎藤"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1996",
+          "name": "1996"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1990s",
+          "name": "90年代"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "title": "SGタッグ・リーグ戦VI 1996年11月1日 広島グリーンアリーナ 永田裕志 VS 藤田和之"
+    }
+  ]
+}
