@@ -1,51 +1,53 @@
 {
   "movies": [
     {
+      "date": "1973-10-14T00:00:00+00:00",
+      "id": "s_series_00001_1_1",
       "tags": [
         {
-          "id": "box_1",
           "div": "tag-box",
+          "id": "box_1",
           "name": "東京・蔵前国技館"
         },
         {
           "div": "tag-champ",
-          "name": "世界最強タッグ戦",
-          "id": "champ_1"
+          "id": "champ_1",
+          "name": "世界最強タッグ戦"
         },
         {
+          "div": "tag-man",
           "id": "man_1",
-          "name": "アントニオ猪木",
-          "div": "tag-man"
-        },
-        {
-          "name": "坂口征二",
-          "div": "tag-man",
-          "id": "man_2"
+          "name": "アントニオ猪木"
         },
         {
           "div": "tag-man",
-          "name": "ルー・テーズ",
-          "id": "man_3"
+          "id": "man_2",
+          "name": "坂口征二"
         },
         {
           "div": "tag-man",
-          "name": "カール・ゴッチ",
-          "id": "man_4"
+          "id": "man_3",
+          "name": "ルー・テーズ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_4",
+          "name": "カール・ゴッチ"
         },
         {
           "div": "tag-mic",
-          "name": "舟橋慶一",
-          "id": "mic_1"
+          "id": "mic_1",
+          "name": "舟橋慶一"
         },
         {
+          "div": "tag-mic",
           "id": "mic_2",
-          "div": "tag-mic",
           "name": "櫻井康雄"
         },
         {
           "div": "tag-mic",
-          "name": "遠藤幸吉",
-          "id": "mic_3"
+          "id": "mic_3",
+          "name": "遠藤幸吉"
         },
         {
           "div": "tag-year",
@@ -53,37 +55,36 @@
           "name": "1973"
         },
         {
-          "id": "year_1970s",
           "div": "tag-year",
+          "id": "year_1970s",
           "name": "70年代"
         },
         {
           "div": "tag-other",
-          "name": "試合",
-          "id": "other_03"
+          "id": "other_03",
+          "name": "試合"
         },
         {
-          "name": "アントニオ猪木 視聴数ベスト10",
+          "div": "tag-other",
           "id": "other_22",
-          "div": "tag-other"
+          "name": "アントニオ猪木 視聴数ベスト10"
         }
       ],
-      "date": "1973-10-14T00:00:00+00:00",
-      "title": "闘魂シリーズ＆世界最強タッグ戦 1973年10月14日 蔵前国技館 世界最強タッグ戦 アントニオ猪木＆坂口征二 VS ルー・テーズ＆カール・ゴッチ",
-      "id": "s_series_00001_1_1"
+      "title": "闘魂シリーズ＆世界最強タッグ戦 1973年10月14日 蔵前国技館 世界最強タッグ戦 アントニオ猪木＆坂口征二 VS ルー・テーズ＆カール・ゴッチ"
     },
     {
       "date": "1973-12-10T00:00:00+00:00",
+      "id": "s_series_00002_1_1",
       "tags": [
         {
-          "name": "東京・東京体育館",
           "div": "tag-box",
-          "id": "box_2"
+          "id": "box_2",
+          "name": "東京・東京体育館"
         },
         {
-          "name": "NWFヘビー級選手権試合",
+          "div": "tag-champ",
           "id": "champ_24",
-          "div": "tag-champ"
+          "name": "NWFヘビー級選手権試合"
         },
         {
           "div": "tag-champ",
@@ -91,14 +92,14 @@
           "name": "NWF世界ヘビー級選手権試合"
         },
         {
+          "div": "tag-man",
           "id": "man_1",
-          "name": "アントニオ猪木",
-          "div": "tag-man"
+          "name": "アントニオ猪木"
         },
         {
-          "name": "ジョニー・パワーズ",
           "div": "tag-man",
-          "id": "man_5"
+          "id": "man_5",
+          "name": "ジョニー・パワーズ"
         },
         {
           "div": "tag-mic",
@@ -106,38 +107,37 @@
           "name": "櫻井康雄"
         },
         {
-          "name": "遠藤幸吉",
-          "id": "mic_3",
-          "div": "tag-mic"
-        },
-        {
-          "name": "三浦智和",
           "div": "tag-mic",
-          "id": "mic_4"
+          "id": "mic_3",
+          "name": "遠藤幸吉"
         },
         {
-          "name": "1973",
-          "id": "year_1973",
-          "div": "tag-year"
+          "div": "tag-mic",
+          "id": "mic_4",
+          "name": "三浦智和"
         },
         {
           "div": "tag-year",
-          "name": "70年代",
-          "id": "year_1970s"
+          "id": "year_1973",
+          "name": "1973"
         },
         {
-          "name": "試合",
+          "div": "tag-year",
+          "id": "year_1970s",
+          "name": "70年代"
+        },
+        {
           "div": "tag-other",
-          "id": "other_03"
+          "id": "other_03",
+          "name": "試合"
         },
         {
-          "name": "アントニオ猪木 視聴数ベスト10",
+          "div": "tag-other",
           "id": "other_22",
-          "div": "tag-other"
+          "name": "アントニオ猪木 視聴数ベスト10"
         }
       ],
-      "title": "闘魂シリーズ第2弾＆ワールド・タイトル・チャレンジ・シリーズ 1973年12月10日 東京体育館 ＮＷＦ世界ヘビー級選手権試合 ジョニー・パワーズ VS アントニオ猪木",
-      "id": "s_series_00002_1_1"
+      "title": "闘魂シリーズ第2弾＆ワールド・タイトル・チャレンジ・シリーズ 1973年12月10日 東京体育館 ＮＷＦ世界ヘビー級選手権試合 ジョニー・パワーズ VS アントニオ猪木"
     }
   ]
 }
