@@ -25,7 +25,7 @@ ADD tests /work/tests
 
 # Whoosh用のインデックスを作成してみる
 ADD prepare_whoosh.py /work/prepare_whoosh.py
-ADD movies.json /work/movies.json
+ADD json /work/json
 RUN python -m prepare_whoosh
 
 
