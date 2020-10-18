@@ -50255,6 +50255,313 @@
     },
     {
       "date": "2020-10-01T00:00:00+00:00",
+      "id": "s_series_00559_30_01",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_112",
+          "name": "新潟・アオーレ長岡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_840",
+          "name": "辻陽太"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_251",
+          "name": "ゲイブリエル・キッド"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 1, 2020 Niigata・Ao-re Nagaoka (English Commentary) 1ST MATCH Yota Tsuji vs. Gabriel Kidd"
+    },
+    {
+      "date": "2020-10-01T00:00:00+00:00",
+      "id": "s_series_00559_30_02",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_288",
+          "name": "矢野通"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_579",
+          "name": "ジュース・ロビンソン"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_112",
+          "name": "新潟・アオーレ長岡"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 1, 2020 Niigata・Ao-re Nagaoka (English Commentary) 2ND MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH Juice Robinson vs. Toru Yano"
+    },
+    {
+      "date": "2020-10-01T00:00:00+00:00",
+      "id": "s_series_00559_30_03",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_281",
+          "name": "後藤洋央紀"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_546",
+          "name": "ザック・セイバーJr."
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_112",
+          "name": "新潟・アオーレ長岡"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 1, 2020 Niigata・Ao-re Nagaoka (English Commentary) 3RD MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH Hirooki Goto vs. Zack Sabre Jr."
+    },
+    {
+      "date": "2020-10-01T00:00:00+00:00",
+      "id": "s_series_00559_30_04",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_416",
+          "name": "YOSHI-HASHI"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_112",
+          "name": "新潟・アオーレ長岡"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 1, 2020 Niigata・Ao-re Nagaoka (English Commentary) 4TH MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH Hiroshi Tanahashi vs. YOSHI-HASHI"
+    },
+    {
+      "date": "2020-10-01T00:00:00+00:00",
+      "id": "s_series_00559_30_05",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_585",
+          "name": "“キング・オブ・ダークネス”EVIL"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_112",
+          "name": "新潟・アオーレ長岡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_779",
+          "name": "KENTA"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 1, 2020 Niigata・Ao-re Nagaoka (English Commentary) 5TH MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH KENTA vs. \"King of Darkness\" EVIL"
+    },
+    {
+      "date": "2020-10-01T00:00:00+00:00",
+      "id": "s_series_00559_30_06",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_356",
+          "name": "内藤哲也"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_112",
+          "name": "新潟・アオーレ長岡"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_688",
+          "name": "SANADA"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 1, 2020 Niigata・Ao-re Nagaoka (English Commentary) 6TH MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH Tetsuya Naito vs. SANADA"
+    },
+    {
+      "date": "2020-10-01T00:00:00+00:00",
       "id": "s_series_00559_30_1",
       "tags": [
         {
@@ -50808,6 +51115,343 @@
       "id": "s_archive_256_27_2",
       "tags": [],
       "title": "NJPW STRONG 2020年10月4日 FINISH STRONG #8（字幕あり）"
+    },
+    {
+      "date": "2020-10-05T00:00:00+00:00",
+      "id": "s_series_00559_31_01",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_124",
+          "name": "香川・高松市総合体育館"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_62",
+          "name": "ロッキー・ロメロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_839",
+          "name": "上村優也 "
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_251",
+          "name": "ゲイブリエル・キッド"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 5, 2020 Kagawa・Takamatsu City General Gymnasium #1 (English Commentary) 1ST MATCH Yuya Uemura vs. GABRIEL KIDD"
+    },
+    {
+      "date": "2020-10-05T00:00:00+00:00",
+      "id": "s_series_00559_31_02",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_377",
+          "name": "高橋裕二郎"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_124",
+          "name": "香川・高松市総合体育館"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_62",
+          "name": "ロッキー・ロメロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_550",
+          "name": "鷹木信悟"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 5, 2020 Kagawa・Takamatsu City General Gymnasium #1 (English Commentary) 2ND MATCH G1 CLIMAX 30 - A BLOCK TOURNAMENT MATCH Shingo Takagi vs. Yujiro Takahashi"
+    },
+    {
+      "date": "2020-10-05T00:00:00+00:00",
+      "id": "s_series_00559_31_03",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_528",
+          "name": "ジェイ・ホワイト"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_124",
+          "name": "香川・高松市総合体育館"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_62",
+          "name": "ロッキー・ロメロ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_807",
+          "name": "ジェフ・コブ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 5, 2020 Kagawa・Takamatsu City General Gymnasium #1 (English Commentary) 3RD MATCH G1 CLIMAX 30 - A BLOCK TOURNAMENT MATCH Jeff Cobb vs. Jay White"
+    },
+    {
+      "date": "2020-10-05T00:00:00+00:00",
+      "id": "s_series_00559_31_04",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_282",
+          "name": "鈴木みのる"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_414",
+          "name": "オカダ・カズチカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_124",
+          "name": "香川・高松市総合体育館"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_62",
+          "name": "ロッキー・ロメロ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 5, 2020 Kagawa・Takamatsu City General Gymnasium #1 (English Commentary) 4TH MATCH G1 CLIMAX 30 - A BLOCK TOURNAMENT MATCH Kazuchika Okada vs. Minoru Suzuki"
+    },
+    {
+      "date": "2020-10-05T00:00:00+00:00",
+      "id": "s_series_00559_31_05",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_304",
+          "name": "石井智宏"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_380",
+          "name": "タイチ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_124",
+          "name": "香川・高松市総合体育館"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_62",
+          "name": "ロッキー・ロメロ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 5, 2020 Kagawa・Takamatsu City General Gymnasium #1 (English Commentary) 5TH MATCH G1 CLIMAX 30 - A BLOCK TOURNAMENT MATCH Tomohiro Ishii vs. Taichi"
+    },
+    {
+      "date": "2020-10-05T00:00:00+00:00",
+      "id": "s_series_00559_31_06",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_389",
+          "name": "飯伏幸太"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_629",
+          "name": "ウィル・オスプレイ"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_124",
+          "name": "香川・高松市総合体育館"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_62",
+          "name": "ロッキー・ロメロ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 5, 2020 Kagawa・Takamatsu City General Gymnasium #1 (English Commentary) 6TH MATCH G1 CLIMAX 30 - A BLOCK TOURNAMENT MATCH Kota Ibushi vs. Will Ospreay"
     },
     {
       "date": "2020-10-05T00:00:00+00:00",
@@ -51580,6 +52224,313 @@
     },
     {
       "date": "2020-10-06T00:00:00+00:00",
+      "id": "s_series_00559_32_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_839",
+          "name": "上村優也 "
+        },
+        {
+          "div": "tag-man",
+          "id": "man_840",
+          "name": "辻陽太"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 6, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 1ST MATCH Yota Tsuji vs. Yuya Uemura"
+    },
+    {
+      "date": "2020-10-06T00:00:00+00:00",
+      "id": "s_series_00559_32_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_281",
+          "name": "後藤洋央紀"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_288",
+          "name": "矢野通"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 6, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 2ND MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH Hirooki Goto vs. Toru Yano"
+    },
+    {
+      "date": "2020-10-06T00:00:00+00:00",
+      "id": "s_series_00559_32_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_546",
+          "name": "ザック・セイバーJr."
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_688",
+          "name": "SANADA"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 6, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 3RD MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH SANADA vs. Zack Sabre Jr."
+    },
+    {
+      "date": "2020-10-06T00:00:00+00:00",
+      "id": "s_series_00559_32_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_579",
+          "name": "ジュース・ロビンソン"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_585",
+          "name": "“キング・オブ・ダークネス”EVIL"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 6, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 4TH MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH Juice Robinson vs. \"King of Darkness\" EVIL"
+    },
+    {
+      "date": "2020-10-06T00:00:00+00:00",
+      "id": "s_series_00559_32_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_356",
+          "name": "内藤哲也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_416",
+          "name": "YOSHI-HASHI"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 6, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 5TH MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH YOSHI-HASHI vs. Tetsuya Naito"
+    },
+    {
+      "date": "2020-10-06T00:00:00+00:00",
+      "id": "s_series_00559_32_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_256",
+          "name": "棚橋弘至"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_779",
+          "name": "KENTA"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 6, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 6TH MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH Hiroshi Tanahashi vs. KENTA"
+    },
+    {
+      "date": "2020-10-06T00:00:00+00:00",
       "id": "s_series_00559_32_1",
       "tags": [
         {
@@ -51965,6 +52916,313 @@
         }
       ],
       "title": "G1 CLIMAX 30 2020年10月7日 広島・広島サンプラザホール バックステージコメント（字幕あり）"
+    },
+    {
+      "date": "2020-10-07T00:00:00+00:00",
+      "id": "s_series_00559_33_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_840",
+          "name": "辻陽太"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_251",
+          "name": "ゲイブリエル・キッド"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 7, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 1ST MATCH Yota Tsuji vs. Gabriel Kidd"
+    },
+    {
+      "date": "2020-10-07T00:00:00+00:00",
+      "id": "s_series_00559_33_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_304",
+          "name": "石井智宏"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_377",
+          "name": "高橋裕二郎"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 7, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 2ND MATCH G1 CLIMAX 30 - A BLOCK TOURNAMENT MATCH Tomohiro Ishii vs. Yujiro Takahashi"
+    },
+    {
+      "date": "2020-10-07T00:00:00+00:00",
+      "id": "s_series_00559_33_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_414",
+          "name": "オカダ・カズチカ"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_807",
+          "name": "ジェフ・コブ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 7, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 3RD MATCH G1 CLIMAX 30 - A BLOCK TOURNAMENT MATCH Kazuchika Okada vs. Jeff Cobb"
+    },
+    {
+      "date": "2020-10-07T00:00:00+00:00",
+      "id": "s_series_00559_33_04",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_282",
+          "name": "鈴木みのる"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_629",
+          "name": "ウィル・オスプレイ"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 7, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 4TH MATCH G1 CLIMAX 30 - A BLOCK TOURNAMENT MATCH Will Ospreay vs. Minoru Suzuki"
+    },
+    {
+      "date": "2020-10-07T00:00:00+00:00",
+      "id": "s_series_00559_33_05",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_380",
+          "name": "タイチ"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_528",
+          "name": "ジェイ・ホワイト"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 7, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 5TH MATCH G1 CLIMAX 30 - A BLOCK TOURNAMENT MATCH Taichi vs. Jay White"
+    },
+    {
+      "date": "2020-10-07T00:00:00+00:00",
+      "id": "s_series_00559_33_06",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_59",
+          "name": "広島・広島サンプラザホール"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_389",
+          "name": "飯伏幸太"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_550",
+          "name": "鷹木信悟"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 7, 2020 Hiroshima・Hiroshima Sunplaza Hall (English Commentary) 6TH MATCH G1 CLIMAX 30 - A BLOCK TOURNAMENT MATCH Kota Ibushi vs. Shingo Takagi"
     },
     {
       "date": "2020-10-07T00:00:00+00:00",
@@ -52398,6 +53656,261 @@
         }
       ],
       "title": "G1 CLIMAX 30 2020年10月8日 岡山・ジップアリーナ岡山 バックステージコメント（字幕あり）"
+    },
+    {
+      "date": "2020-10-08T00:00:00+00:00",
+      "id": "s_series_00559_34_01",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_839",
+          "name": "上村優也 "
+        },
+        {
+          "div": "tag-box",
+          "id": "box_174",
+          "name": "岡山・ジップアリーナ岡山"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_251",
+          "name": "ゲイブリエル・キッド"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 8, 2020 Okayama・ZIP Arena Okayama (English Commentary) 1ST MATCH Yuya Uemura vs. Gabriel Kidd"
+    },
+    {
+      "date": "2020-10-08T00:00:00+00:00",
+      "id": "s_series_00559_34_02",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_281",
+          "name": "後藤洋央紀"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_416",
+          "name": "YOSHI-HASHI"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_174",
+          "name": "岡山・ジップアリーナ岡山"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 8, 2020 Okayama・ZIP Arena Okayama (English Commentary) 2ND MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH Hirooki Goto vs. YOSHI-HASHI"
+    },
+    {
+      "date": "2020-10-08T00:00:00+00:00",
+      "id": "s_series_00559_34_03",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_288",
+          "name": "矢野通"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_546",
+          "name": "ザック・セイバーJr."
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_174",
+          "name": "岡山・ジップアリーナ岡山"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 8, 2020 Okayama・ZIP Arena Okayama (English Commentary) 3RD MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH Toru Yano vs. Zack Sabre Jr."
+    },
+    {
+      "date": "2020-10-08T00:00:00+00:00",
+      "id": "s_series_00559_34_04",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_688",
+          "name": "SANADA"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_174",
+          "name": "岡山・ジップアリーナ岡山"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_779",
+          "name": "KENTA"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 8, 2020 Okayama・ZIP Arena Okayama (English Commentary) 4TH MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH SANADA vs. KENTA"
+    },
+    {
+      "date": "2020-10-08T00:00:00+00:00",
+      "id": "s_series_00559_34_05",
+      "tags": [
+        {
+          "div": "tag-man",
+          "id": "man_356",
+          "name": "内藤哲也"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_579",
+          "name": "ジュース・ロビンソン"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_80",
+          "name": "ケビン・ケリー"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-box",
+          "id": "box_174",
+          "name": "岡山・ジップアリーナ岡山"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_459",
+          "name": "G1 CLIMAX 30"
+        }
+      ],
+      "title": "G1 CLIMAX 30 Oct 8, 2020 Okayama・ZIP Arena Okayama (English Commentary) 5TH MATCH G1 CLIMAX 30 - B BLOCK TOURNAMENT MATCH Juice Robinson vs. Tetsuya Naito"
     },
     {
       "date": "2020-10-08T00:00:00+00:00",
