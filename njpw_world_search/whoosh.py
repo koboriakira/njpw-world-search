@@ -2,6 +2,7 @@ from typing import Any, Dict, Iterator, List
 import time
 import os
 import json
+from glob import glob
 from datetime import datetime as DateTime
 from whoosh.index import create_in
 from whoosh.fields import Schema, TEXT, ID, KEYWORD, DATETIME
@@ -24,17 +25,18 @@ def prepare() -> None:
     try:
         # Schemaの定義
         writer = _prepare_writer()
-        with open(JSON_FILE_NAME, 'r') as f:
-            data = json.loads(f.read())
-            documents = list(_to_documents(movies=data['movies']))
-            count = len(documents)
-            print(f'{count}件のデータを挿入')
-            for document in documents:
-                writer.add_document(**document)
-                count = count - 1
-                if count % 100 == 0:
-                    print(f'残り{count}件')
+        total_count = 0
+        for filepath in glob('json/*'):
+            with open(filepath, 'r') as f:
+                data = json.loads(f.read())
+                documents = list(_to_documents(movies=data['movies']))
+                count = len(documents)
+                total_count = total_count + count
+                print(count, end=', ')
+                for document in documents:
+                    writer.add_document(**document)
         writer.commit()
+        print(f'total...{total_count}')
     except BaseException as e:
         print(e)
         import traceback
