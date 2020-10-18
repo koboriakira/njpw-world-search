@@ -54,3 +54,10 @@ def test_extract_match_date():
     actual = firestore._extract_match_date(title=title)
     expect = DateTime.fromisoformat('2019-10-30 00:00:00')
     assert actual == expect
+
+
+@pytest.mark.skip(reason='firestoreを利用する')
+def test_get_year_movies():
+    actual = firestore.get_year_movies(year=1973)
+    expect = ['s_series_00001_1_1', 's_series_00002_1_1']
+    assert list(actual.keys()) == expect

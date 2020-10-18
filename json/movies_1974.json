@@ -1,0 +1,408 @@
+{
+  "movies": [
+    {
+      "tags": [
+        {
+          "id": "box_1",
+          "name": "東京・蔵前国技館",
+          "div": "tag-box"
+        },
+        {
+          "div": "tag-champ",
+          "name": "NWFヘビー級選手権試合",
+          "id": "champ_24"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_6",
+          "name": "NWF世界ヘビー級選手権試合"
+        },
+        {
+          "name": "アントニオ猪木",
+          "id": "man_1",
+          "div": "tag-man"
+        },
+        {
+          "name": "ストロング小林",
+          "div": "tag-man",
+          "id": "man_6"
+        },
+        {
+          "name": "舟橋慶一",
+          "div": "tag-mic",
+          "id": "mic_1"
+        },
+        {
+          "div": "tag-mic",
+          "name": "櫻井康雄",
+          "id": "mic_2"
+        },
+        {
+          "id": "mic_3",
+          "div": "tag-mic",
+          "name": "遠藤幸吉"
+        },
+        {
+          "name": "1974",
+          "id": "year_1974",
+          "div": "tag-year"
+        },
+        {
+          "id": "year_1970s",
+          "div": "tag-year",
+          "name": "70年代"
+        },
+        {
+          "div": "tag-other",
+          "name": "試合",
+          "id": "other_03"
+        }
+      ],
+      "date": "1974-03-19T00:00:00+00:00",
+      "title": "創立2周年記念ビッグ・ファイト・シリーズ 1974年3月19日 蔵前国技館 ＮＷＦ世界ヘビー級選手権 アントニオ猪木 VS ストロング小林",
+      "id": "s_series_00003_1_1"
+    },
+    {
+      "title": "第１回ワールド・リーグ戦 1974年4月26日 広島県立体育館 第１回ワールド・リーグ戦 アントニオ猪木 VS 坂口征二",
+      "tags": [
+        {
+          "id": "box_3",
+          "name": "広島・広島県立体育館",
+          "div": "tag-box"
+        },
+        {
+          "id": "champ_4",
+          "name": "第１回ワールド・リーグ戦",
+          "div": "tag-champ"
+        },
+        {
+          "id": "man_1",
+          "name": "アントニオ猪木",
+          "div": "tag-man"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_2",
+          "name": "坂口征二"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "id": "mic_3",
+          "name": "遠藤幸吉",
+          "div": "tag-mic"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_5",
+          "name": "山崎正"
+        },
+        {
+          "id": "mic_6",
+          "name": "マサ斎藤",
+          "div": "tag-mic"
+        },
+        {
+          "name": "1974",
+          "id": "year_1974",
+          "div": "tag-year"
+        },
+        {
+          "name": "70年代",
+          "div": "tag-year",
+          "id": "year_1970s"
+        },
+        {
+          "name": "試合",
+          "id": "other_03",
+          "div": "tag-other"
+        }
+      ],
+      "date": "1974-04-26T00:00:00+00:00",
+      "id": "s_series_00004_1_1"
+    },
+    {
+      "title": "第１回ワールド・リーグ戦 1974年5月8日 東京体育館 第1回ワールド・リーグ戦 三つ巴優勝決定戦 アントニオ猪木 VS キラー・カール・クラップ",
+      "date": "1974-05-08T00:00:00+00:00",
+      "tags": [
+        {
+          "id": "box_2",
+          "div": "tag-box",
+          "name": "東京・東京体育館"
+        },
+        {
+          "name": "第１回ワールド・リーグ戦　三つ巴優勝決定戦",
+          "div": "tag-champ",
+          "id": "champ_5"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_1",
+          "name": "アントニオ猪木"
+        },
+        {
+          "name": "キラー・カール・クラップ",
+          "div": "tag-man",
+          "id": "man_7"
+        },
+        {
+          "id": "mic_1",
+          "name": "舟橋慶一",
+          "div": "tag-mic"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_2",
+          "name": "櫻井康雄"
+        },
+        {
+          "div": "tag-mic",
+          "name": "遠藤幸吉",
+          "id": "mic_3"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1974",
+          "name": "1974"
+        },
+        {
+          "name": "70年代",
+          "div": "tag-year",
+          "id": "year_1970s"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_03",
+          "name": "試合"
+        }
+      ],
+      "id": "s_series_00004_2_1"
+    },
+    {
+      "date": "1974-06-26T00:00:00+00:00",
+      "tags": [
+        {
+          "id": "box_6",
+          "div": "tag-box",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "id": "man_1",
+          "name": "アントニオ猪木",
+          "div": "tag-man"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_9",
+          "name": "タイガー・ジェット・シン"
+        },
+        {
+          "name": "舟橋慶一",
+          "div": "tag-mic",
+          "id": "mic_1"
+        },
+        {
+          "name": "櫻井康雄",
+          "id": "mic_2",
+          "div": "tag-mic"
+        },
+        {
+          "id": "mic_3",
+          "div": "tag-mic",
+          "name": "遠藤幸吉"
+        },
+        {
+          "name": "1974",
+          "id": "year_1974",
+          "div": "tag-year"
+        },
+        {
+          "name": "70年代",
+          "div": "tag-year",
+          "id": "year_1970s"
+        },
+        {
+          "id": "other_03",
+          "div": "tag-other",
+          "name": "試合"
+        }
+      ],
+      "title": "サマー・ファイト・シリーズ 1974年6月26日 大阪府立体育会館 アントニオ猪木 VS タイガー・ジェット・シン",
+      "id": "s_series_00021_1_1"
+    },
+    {
+      "title": "闘魂シリーズ第1弾 1974年10月10日 蔵前国技館 ＮＷＦ世界ヘビー級選手権 アントニオ猪木 VS 大木金太郎",
+      "date": "1974-10-10T00:00:00+00:00",
+      "tags": [
+        {
+          "name": "東京・蔵前国技館",
+          "div": "tag-box",
+          "id": "box_1"
+        },
+        {
+          "id": "champ_24",
+          "div": "tag-champ",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "div": "tag-champ",
+          "name": "NWF世界ヘビー級選手権試合",
+          "id": "champ_6"
+        },
+        {
+          "name": "アントニオ猪木",
+          "div": "tag-man",
+          "id": "man_1"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_8",
+          "name": "大木金太郎"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_1",
+          "name": "舟橋慶一"
+        },
+        {
+          "id": "mic_2",
+          "name": "櫻井康雄",
+          "div": "tag-mic"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "id": "year_1974",
+          "name": "1974",
+          "div": "tag-year"
+        },
+        {
+          "id": "year_1970s",
+          "name": "70年代",
+          "div": "tag-year"
+        },
+        {
+          "id": "other_03",
+          "name": "試合",
+          "div": "tag-other"
+        }
+      ],
+      "id": "s_series_00005_1_1"
+    },
+    {
+      "date": "1974-12-12T00:00:00+00:00",
+      "title": "闘魂シリーズ第2弾 1974年12月12日 蔵前国技館 NWF世界ヘビー級選手権試合 アントニオ猪木 VS ストロング小林",
+      "tags": [
+        {
+          "name": "東京・蔵前国技館",
+          "id": "box_1",
+          "div": "tag-box"
+        },
+        {
+          "div": "tag-champ",
+          "id": "champ_24",
+          "name": "NWFヘビー級選手権試合"
+        },
+        {
+          "name": "NWF世界ヘビー級選手権試合",
+          "id": "champ_6",
+          "div": "tag-champ"
+        },
+        {
+          "name": "アントニオ猪木",
+          "div": "tag-man",
+          "id": "man_1"
+        },
+        {
+          "name": "ストロング小林",
+          "div": "tag-man",
+          "id": "man_6"
+        },
+        {
+          "div": "tag-mic",
+          "name": "舟橋慶一",
+          "id": "mic_1"
+        },
+        {
+          "id": "mic_2",
+          "name": "櫻井康雄",
+          "div": "tag-mic"
+        },
+        {
+          "div": "tag-mic",
+          "id": "mic_3",
+          "name": "遠藤幸吉"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_1974",
+          "name": "1974"
+        },
+        {
+          "name": "70年代",
+          "id": "year_1970s",
+          "div": "tag-year"
+        },
+        {
+          "div": "tag-other",
+          "name": "試合",
+          "id": "other_03"
+        }
+      ],
+      "id": "s_series_00006_1_1"
+    },
+    {
+      "title": "闘魂シリーズ第2弾 1974年12月15日 ブラジル サンパウロ・コリンチャン・スタジアム NWF世界ヘビー級選手権試合 アントニオ猪木 VS アンドレ・ザ・ジャイアント",
+      "tags": [
+        {
+          "id": "man_1",
+          "name": "アントニオ猪木",
+          "div": "tag-man"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_15",
+          "name": "アンドレ・ザ・ジャイアント"
+        },
+        {
+          "id": "mic_1",
+          "div": "tag-mic",
+          "name": "舟橋慶一"
+        },
+        {
+          "name": "1974",
+          "id": "year_1974",
+          "div": "tag-year"
+        },
+        {
+          "id": "year_1970s",
+          "div": "tag-year",
+          "name": "70年代"
+        },
+        {
+          "id": "box_75",
+          "name": "ブラジル・コリンチャンス アリーナ（サンパウロ）",
+          "div": "tag-box"
+        },
+        {
+          "id": "other_03",
+          "div": "tag-other",
+          "name": "試合"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_22",
+          "name": "アントニオ猪木 視聴数ベスト10"
+        }
+      ],
+      "date": "1974-12-15T00:00:00+00:00",
+      "id": "s_series_00005_2_1"
+    }
+  ]
+}
