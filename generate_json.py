@@ -3,7 +3,7 @@ from typing import Dict, List
 from datetime import datetime as DateTime
 from njpw_world_search.firestore import get_not_has_date_movies, get_year_movies
 
-START_YEAR = 1973
+START_YEAR = 2020
 END_YEAR = 2020
 
 DIR_NAME = 'json'
