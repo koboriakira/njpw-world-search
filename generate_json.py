@@ -21,6 +21,7 @@ def generate_json():
             f,
             indent=2,
             ensure_ascii=False,
+            sort_keys=True,
             default=support_datetime_default)
 
 

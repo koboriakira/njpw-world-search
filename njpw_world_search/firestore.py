@@ -2,6 +2,7 @@ from google.cloud import firestore
 from typing import Dict, Any, Optional
 from datetime import datetime as DateTime
 import re
+from collections import OrderedDict
 
 MOVIES = 'movies'
 
@@ -37,25 +38,32 @@ def get_movie(movie_id: str) -> Optional[Dict[str, Any]]:
     return None
 
 
-def get_all_movies() -> Dict[str, Any]:
+def get_all_movies() -> OrderedDict:
     docs = db.collection(MOVIES).stream()
-    result = {}
+    result = OrderedDict()
     for doc in docs:
         result[doc.id] = doc.to_dict()
     return result
 
 
-def get_year_movies(year: int) -> Dict[str, Any]:
+def get_year_movies(year: int) -> OrderedDict:
     start_date: DateTime = DateTime(year, 1, 1, 0, 0, 0)
     end_date: DateTime = DateTime(year + 1, 1, 1, 0, 0, 0)
     docs = db.collection(MOVIES).where(
         'date', '>=', start_date).where(
         'date', '<', end_date).stream()
-    result = {}
+    result = OrderedDict()
     for doc in docs:
         result[doc.id] = doc.to_dict()
     return result
 
+
+def get_not_has_date_movies() -> OrderedDict:
+    docs = db.collection(MOVIES).where('date', '==', None).stream()
+    result = OrderedDict()
+    for doc in docs:
+        result[doc.id] = doc.to_dict()
+    return result
 
 def get_batch() -> Dict[str, Any]:
     return db.collection('batch').document('batch').get().to_dict()
