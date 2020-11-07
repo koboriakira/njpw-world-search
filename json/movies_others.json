@@ -4166,6 +4166,50 @@
     },
     {
       "date": null,
+      "id": "o_original_0201_01",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_05",
+          "name": "プロモーションVTR"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        }
+      ],
+      "title": "オリジナル BEST OF THE SUPER Jr.27 & SUPER J-CUP 2020 \"BOSJ players & J-CUP players\" announcement VTR (with subtitles)"
+    },
+    {
+      "date": null,
+      "id": "o_original_0201_02",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_05",
+          "name": "プロモーションVTR"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        }
+      ],
+      "title": "オリジナル BEST OF THE SUPER Jr.27 & SUPER J-CUP 2020 「BOSJ出場選手＆J-CUP開催」発表VTR"
+    },
+    {
+      "date": null,
       "id": "o_original_0148_01",
       "tags": [
         {
@@ -22188,6 +22232,40 @@
     },
     {
       "date": null,
+      "id": "o_original_0185_38",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_05",
+          "name": "プロモーションVTR"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_46",
+          "name": "トーク番組"
+        }
+      ],
+      "title": "オリジナル NJPWWORLD NOW! #38 G1 CLIMAX30 大激闘の優勝決定戦終了！気になる結果をチェック!!"
+    },
+    {
+      "date": null,
+      "id": "o_original_0185_39",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_05",
+          "name": "プロモーションVTR"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_46",
+          "name": "トーク番組"
+        }
+      ],
+      "title": "オリジナル NJPWWORLD NOW! #39 「G1ロスのあなたに朗報 10月と11月の配信日程についてお届け!!」"
+    },
+    {
+      "date": null,
       "id": "o_original_0185_03",
       "tags": [
         {
@@ -22202,6 +22280,125 @@
         }
       ],
       "title": "オリジナル NJPWWORLD NOW! #3「8.29 17時からの明治神宮野球場大会の見どころ&内藤選手＆鷹木選手 秘蔵トーク」"
+    },
+    {
+      "date": null,
+      "id": "o_original_0185_40",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_05",
+          "name": "プロモーションVTR"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_46",
+          "name": "トーク番組"
+        }
+      ],
+      "title": "オリジナル NJPWWORLD NOW! #40「本日の放送席ゲストに“敏腕プロデューサー“矢野 通 選手が登場!!」"
+    },
+    {
+      "date": null,
+      "id": "o_original_0185_41",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_05",
+          "name": "プロモーションVTR"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_46",
+          "name": "トーク番組"
+        }
+      ],
+      "title": "オリジナル NJPWWORLD NOW! #41 「ミラノさんがNEVER6人タッグ選手権で涙の解説！！」"
+    },
+    {
+      "date": null,
+      "id": "o_original_0185_42",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_05",
+          "name": "プロモーションVTR"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_46",
+          "name": "トーク番組"
+        }
+      ],
+      "title": "オリジナル NJPWWORLD NOW! #42 「激アツのジュニアタッグ＆タッグ戦線 ＆KOPW争“舌”戦！？など見所満載」"
+    },
+    {
+      "date": null,
+      "id": "o_original_0185_43",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_05",
+          "name": "プロモーションVTR"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_46",
+          "name": "トーク番組"
+        }
+      ],
+      "title": "オリジナル NJPWWORLD NOW! #43 「本日の放送席ゲストにTHE DRAGONが登場！！」"
+    },
+    {
+      "date": null,
+      "id": "o_original_0185_44",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_05",
+          "name": "プロモーションVTR"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_46",
+          "name": "トーク番組"
+        }
+      ],
+      "title": "オリジナル NJPWWORLD NOW! #44 「防衛か！？初戴冠か！？ジュニアタッグ選手権の行方は！？」"
+    },
+    {
+      "date": null,
+      "id": "o_original_0185_45",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_05",
+          "name": "プロモーションVTR"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_46",
+          "name": "トーク番組"
+        }
+      ],
+      "title": "オリジナル NJPWWORLD NOW! #45 「放送席ゲストにはあの敏腕プロデューサーが登場」"
+    },
+    {
+      "date": null,
+      "id": "o_original_0185_46",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_05",
+          "name": "プロモーションVTR"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_46",
+          "name": "トーク番組"
+        }
+      ],
+      "title": "オリジナル NJPWWORLD NOW! #46 「IWGPタッグ選手権の行方は！？ミラノさんが後楽園大会を振り返る！！」"
     },
     {
       "date": null,
@@ -22373,6 +22570,107 @@
         }
       ],
       "title": "オリジナル New Japan Showdown 【あおりVTR】IWGP USヘビー級選手権試合 ランス・アーチャー VS デビッド・フィンレー"
+    },
+    {
+      "date": null,
+      "id": "o_original_0202_03",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_356",
+          "name": "内藤哲也"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_06",
+          "name": "あおりVTR"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_585",
+          "name": "“キング・オブ・ダークネス”EVIL"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        }
+      ],
+      "title": "オリジナル POWER STRUGGLE 【あおりVTR】IWGPヘビー級・IWGPインターコンチネンタル ダブル選手権試合 内藤 哲也 VS “キング・オブ・ダークネス”EVIL"
+    },
+    {
+      "date": null,
+      "id": "o_original_0202_02",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_389",
+          "name": "飯伏幸太"
+        },
+        {
+          "div": "tag-man",
+          "id": "man_528",
+          "name": "ジェイ・ホワイト"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_06",
+          "name": "あおりVTR"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        }
+      ],
+      "title": "オリジナル POWER STRUGGLE 【あおりVTR】東京ドーム・IWGPヘビー級＆IWGPインターコンチネンタルダブル王座挑戦権利証争奪戦 飯伏 幸太 VS ジェイ・ホワイト"
+    },
+    {
+      "date": null,
+      "id": "o_original_0202_01",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_36",
+          "name": "オープニングVTR"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        }
+      ],
+      "title": "オリジナル POWER STRUGGLE オープニングVTR"
     },
     {
       "date": null,
@@ -22855,6 +23153,50 @@
         }
       ],
       "title": "オリジナル Road to DESTRUCTION 第12回ヤングライオン杯争奪リーグ戦 出場選手紹介"
+    },
+    {
+      "date": null,
+      "id": "o_original_0200_02",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_36",
+          "name": "オープニングVTR"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        }
+      ],
+      "title": "オリジナル Road to POWER STRUGGLE 【ジュニアタッグ＆タッグ戦決定！】Road to POWER STRUGGLE【新日本プロレス10.23後楽園～】"
+    },
+    {
+      "date": null,
+      "id": "o_original_0200_01",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_36",
+          "name": "オープニングVTR"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        }
+      ],
+      "title": "オリジナル Road to POWER STRUGGLE オープニングVTR"
     },
     {
       "date": null,
@@ -38699,6 +39041,28 @@
     },
     {
       "date": null,
+      "id": "o_original_0093_130",
+      "tags": [
+        {
+          "div": "tag-mic",
+          "id": "mic_82",
+          "name": "English Content"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_42",
+          "name": "The Wire & THE RECOUNT ＆ FACTORS"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_54",
+          "name": "FACTORS"
+        }
+      ],
+      "title": "オリジナル プロモーション NJPW FACTORS #3"
+    },
+    {
+      "date": null,
       "id": "o_original_0093_73",
       "tags": [
         {
@@ -46434,6 +46798,30 @@
         }
       ],
       "title": "オリジナル 新日ちゃん。 第1試合…俺を知って欲しい!「俺のクイズ!〜田口隆祐編〜」【完全版】"
+    },
+    {
+      "date": null,
+      "id": "o_original_0198_02",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_55",
+          "name": "新日ちゃん。"
+        }
+      ],
+      "title": "オリジナル 新日ちゃん。 第2試合　俺のココを見て！自画自賛プロレス～棚橋弘至編～【完全版】"
+    },
+    {
+      "date": null,
+      "id": "o_original_0198_03",
+      "tags": [
+        {
+          "div": "tag-other",
+          "id": "other_55",
+          "name": "新日ちゃん。"
+        }
+      ],
+      "title": "オリジナル 新日ちゃん。 第3試合 俺のクイズ！～矢野通編～【完全版】"
     },
     {
       "date": null,
