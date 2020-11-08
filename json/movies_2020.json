@@ -56339,6 +56339,33 @@
     },
     {
       "date": "2020-11-07T00:00:00+00:00",
+      "id": "s_series_00561_1_bs",
+      "tags": [
+        {
+          "div": "tag-box",
+          "id": "box_6",
+          "name": "大阪・大阪府立体育会館"
+        },
+        {
+          "div": "tag-other",
+          "id": "other_26",
+          "name": "バックステージコメント"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020",
+          "name": "2020"
+        },
+        {
+          "div": "tag-year",
+          "id": "year_2020s",
+          "name": "20年代"
+        }
+      ],
+      "title": "POWER STRUGGLE 2020年11月7日 大阪・大阪府立体育館(エディオンアリーナ大阪) バックステージコメント（字幕あり）"
+    },
+    {
+      "date": "2020-11-07T00:00:00+00:00",
       "id": "s_series_00561_2_1",
       "tags": [
         {
@@ -56375,6 +56402,12 @@
         }
       ],
       "title": "POWER STRUGGLE Nov 7,2020 Pre Game Show"
+    },
+    {
+      "date": "2020-11-08T00:00:00+00:00",
+      "id": "s_series_00562_1_1",
+      "tags": [],
+      "title": "WRESTLE KINGDOM 15 in 東京ドーム 2020年11月8日　 第1弾 記者会見"
     }
   ]
 }
